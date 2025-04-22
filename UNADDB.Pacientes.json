@@ -1,0 +1,2470 @@
+[{
+  "_id": {
+    "$oid": "68081b38982af93b04eea9fd"
+  },
+  "nombres": "Macarena",
+  "apellidos": "Serna",
+  "documento_identidad": {
+    "$numberLong": "9280127383"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-544752000000"
+    }
+  },
+  "genero": "Femenino",
+  "direccion": "Calle de Adolfo Rivas 8, Ourense, 62658",
+  "telefono": "+34741 753 407",
+  "correo": "nazaretjaume@yahoo.com",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Cáncer",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-04-20T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eea9fe"
+  },
+  "nombres": "Manu",
+  "apellidos": "Borja",
+  "documento_identidad": {
+    "$numberLong": "5822933776"
+  },
+  "fecha_nacimiento": {
+    "$date": "1991-07-10T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Camino José Ángel Leal 50, Santa Cruz de Tenerife, 66453",
+  "telefono": "+34726 349 385",
+  "correo": "lucho28@corominas.es",
+  "alergias": "Penicilina",
+  "antecedentes_familiares": "Cáncer",
+  "antecedentes_personales": "Asma",
+  "fecha_registro": {
+    "$date": "2025-04-02T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eea9ff"
+  },
+  "nombres": "Nadia",
+  "apellidos": "Alarcón",
+  "documento_identidad": {
+    "$numberLong": "5691732811"
+  },
+  "fecha_nacimiento": {
+    "$date": "1973-04-10T00:00:00.000Z"
+  },
+  "genero": "Masculino",
+  "direccion": "Camino Juan Francisco Guillen 244, Cáceres, 20175",
+  "telefono": "+34883 587 096",
+  "correo": "ecarbo@yahoo.com",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Asma",
+  "fecha_registro": {
+    "$date": "2025-01-19T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa00"
+  },
+  "nombres": "Cipriano",
+  "apellidos": "Campillo",
+  "documento_identidad": {
+    "$numberLong": "7338211032"
+  },
+  "fecha_nacimiento": {
+    "$date": "1987-08-25T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Urbanización Maximiano Gascón 434 Apt. 88 , Jaén, 86425",
+  "telefono": "+34723816499",
+  "correo": "saldanajose@ruano.es",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Cáncer",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-04-03T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa01"
+  },
+  "nombres": "Amarilis",
+  "apellidos": "Agustí",
+  "documento_identidad": {
+    "$numberLong": "8673510463"
+  },
+  "fecha_nacimiento": {
+    "$date": "1986-12-24T00:00:00.000Z"
+  },
+  "genero": "Masculino",
+  "direccion": "Ronda Rosendo Salamanca 88 Puerta 9 , Granada, 81280",
+  "telefono": "+34 693 858 527",
+  "correo": "nicosaavedra@mayo-iglesia.net",
+  "alergias": "Ninguna",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-04-04T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa02"
+  },
+  "nombres": "Matilde",
+  "apellidos": "Ribas",
+  "documento_identidad": {
+    "$numberLong": "6573991903"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-992563200000"
+    }
+  },
+  "genero": "Femenino",
+  "direccion": "Cuesta de Rufino Ribera 138 Puerta 3 , Badajoz, 59529",
+  "telefono": "+34716 034 913",
+  "correo": "chema16@hotmail.com",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Cáncer",
+  "antecedentes_personales": "Apendicitis",
+  "fecha_registro": {
+    "$date": "2025-03-03T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa03"
+  },
+  "nombres": "Josefa",
+  "apellidos": "Francisco",
+  "documento_identidad": {
+    "$numberLong": "4883198202"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-942710400000"
+    }
+  },
+  "genero": "Masculino",
+  "direccion": "Alameda de Isa Calatayud 2, Baleares, 37950",
+  "telefono": "+34 935614288",
+  "correo": "penasmoises@gmail.com",
+  "alergias": "Mariscos",
+  "antecedentes_familiares": "Hipertensión",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-01-31T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa04"
+  },
+  "nombres": "Ana Belén",
+  "apellidos": "Vicente",
+  "documento_identidad": {
+    "$numberLong": "4882449273"
+  },
+  "fecha_nacimiento": {
+    "$date": "1986-08-10T00:00:00.000Z"
+  },
+  "genero": "Masculino",
+  "direccion": "Cañada de Crescencia Gómez 82, Huelva, 13373",
+  "telefono": "+34708351292",
+  "correo": "lino60@hotmail.com",
+  "alergias": "Penicilina",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-03-30T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa05"
+  },
+  "nombres": "Evita",
+  "apellidos": "Camacho",
+  "documento_identidad": {
+    "$numberLong": "5462174277"
+  },
+  "fecha_nacimiento": {
+    "$date": "1984-02-13T00:00:00.000Z"
+  },
+  "genero": "Masculino",
+  "direccion": "Cañada de Jordana Murcia 63 Piso 7 , Huelva, 44576",
+  "telefono": "+34 704 492 844",
+  "correo": "qmachado@benavides.com",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Asma",
+  "fecha_registro": {
+    "$date": "2025-01-27T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa06"
+  },
+  "nombres": "Antonia",
+  "apellidos": "Casanovas",
+  "documento_identidad": {
+    "$numberLong": "5770474984"
+  },
+  "fecha_nacimiento": {
+    "$date": "1995-08-18T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Callejón Águeda Ferrer 26, Vizcaya, 74917",
+  "telefono": "+34736 636 333",
+  "correo": "ecantero@gmail.com",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Hipertensión",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-01-04T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa07"
+  },
+  "nombres": "Nicolasa",
+  "apellidos": "Pizarro",
+  "documento_identidad": {
+    "$numberLong": "4842688345"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-31190400000"
+    }
+  },
+  "genero": "Masculino",
+  "direccion": "Glorieta de Florina Doménech 93 Puerta 5 , Asturias, 35781",
+  "telefono": "+34 894608468",
+  "correo": "pinavalerio@sala.com",
+  "alergias": "Penicilina",
+  "antecedentes_familiares": "Cáncer",
+  "antecedentes_personales": "Asma",
+  "fecha_registro": {
+    "$date": "2025-02-03T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa08"
+  },
+  "nombres": "Gervasio",
+  "apellidos": "Catalán",
+  "documento_identidad": {
+    "$numberLong": "3219462914"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-664675200000"
+    }
+  },
+  "genero": "Femenino",
+  "direccion": "Urbanización Bárbara Fernández 498, Valladolid, 94883",
+  "telefono": "+34 736 63 33 15",
+  "correo": "graciela32@valencia.com",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Hipertensión",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-04-08T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa09"
+  },
+  "nombres": "Custodio",
+  "apellidos": "Pedro",
+  "documento_identidad": 1952087621,
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-653529600000"
+    }
+  },
+  "genero": "Masculino",
+  "direccion": "Pasadizo de Elena Bauzà 902, León, 33836",
+  "telefono": "+34984 21 60 37",
+  "correo": "bfigueroa@mas.com",
+  "alergias": "Penicilina",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-04-04T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa0a"
+  },
+  "nombres": "Abilio",
+  "apellidos": "Herrera",
+  "documento_identidad": {
+    "$numberLong": "7950208479"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-371865600000"
+    }
+  },
+  "genero": "Masculino",
+  "direccion": "Via Toño Zorrilla 659 Apt. 04 , Cádiz, 47594",
+  "telefono": "+34902989404",
+  "correo": "hildasobrino@ordonez.com",
+  "alergias": "Polvo",
+  "antecedentes_familiares": "Hipertensión",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-03-14T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa0b"
+  },
+  "nombres": "Ignacia",
+  "apellidos": "Pérez",
+  "documento_identidad": 1873801658,
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-701222400000"
+    }
+  },
+  "genero": "Femenino",
+  "direccion": "Via de César Rocamora 60 Puerta 9 , Ávila, 68554",
+  "telefono": "+34702 594 770",
+  "correo": "hbarroso@yahoo.com",
+  "alergias": "Polvo",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-04-11T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa0c"
+  },
+  "nombres": "Máxima",
+  "apellidos": "Mancebo",
+  "documento_identidad": {
+    "$numberLong": "6642215014"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-859939200000"
+    }
+  },
+  "genero": "Masculino",
+  "direccion": "Avenida de Anita Salinas 60 Piso 5 , Ceuta, 25733",
+  "telefono": "+34941 60 65 49",
+  "correo": "dcanton@montenegro.com",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-02-15T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa0d"
+  },
+  "nombres": "Fidel",
+  "apellidos": "Guardiola",
+  "documento_identidad": {
+    "$numberLong": "9344936264"
+  },
+  "fecha_nacimiento": {
+    "$date": "1978-12-20T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Cañada de Leonor Marco 2 Apt. 18 , La Coruña, 46551",
+  "telefono": "+34 706259300",
+  "correo": "jesusagustin@ribera.es",
+  "alergias": "Penicilina",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-03-15T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa0e"
+  },
+  "nombres": "Octavio",
+  "apellidos": "Roldan",
+  "documento_identidad": {
+    "$numberLong": "2971966369"
+  },
+  "fecha_nacimiento": {
+    "$date": "1999-05-04T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "C. Galo Roma 357 Piso 6 , Ceuta, 79297",
+  "telefono": "+34726 07 40 38",
+  "correo": "wtamayo@hotmail.com",
+  "alergias": "Penicilina",
+  "antecedentes_familiares": "Cáncer",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-04-05T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa0f"
+  },
+  "nombres": "Geraldo",
+  "apellidos": "Ríos",
+  "documento_identidad": {
+    "$numberLong": "3502035829"
+  },
+  "fecha_nacimiento": {
+    "$date": "1983-05-05T00:00:00.000Z"
+  },
+  "genero": "Masculino",
+  "direccion": "Pasaje de Genoveva Luís 54, Málaga, 30277",
+  "telefono": "+34705500101",
+  "correo": "diego49@ortuno.es",
+  "alergias": "Polvo",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Asma",
+  "fecha_registro": {
+    "$date": "2025-02-28T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa10"
+  },
+  "nombres": "José Luis",
+  "apellidos": "Corral",
+  "documento_identidad": {
+    "$numberLong": "5868661238"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-795225600000"
+    }
+  },
+  "genero": "Masculino",
+  "direccion": "Calle de Carmelita Palau 39 Apt. 25 , Guadalajara, 54967",
+  "telefono": "+34 726 705 997",
+  "correo": "georgina72@gmail.com",
+  "alergias": "Mariscos",
+  "antecedentes_familiares": "Cáncer",
+  "antecedentes_personales": "Apendicitis",
+  "fecha_registro": {
+    "$date": "2025-03-08T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa11"
+  },
+  "nombres": "Edmundo",
+  "apellidos": "Pla",
+  "documento_identidad": {
+    "$numberLong": "4512552309"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-106876800000"
+    }
+  },
+  "genero": "Femenino",
+  "direccion": "Plaza Ibán Lluch 7 Puerta 6 , Pontevedra, 02860",
+  "telefono": "+34916 384 401",
+  "correo": "pelayo14@hotmail.com",
+  "alergias": "Polvo",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-03-01T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa12"
+  },
+  "nombres": "Apolonia",
+  "apellidos": "González",
+  "documento_identidad": {
+    "$numberLong": "3013215448"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-986947200000"
+    }
+  },
+  "genero": "Masculino",
+  "direccion": "Callejón Reina Salgado 66 Puerta 8 , Melilla, 97378",
+  "telefono": "+34 842 14 05 36",
+  "correo": "zvinas@yahoo.com",
+  "alergias": "Mariscos",
+  "antecedentes_familiares": "Hipertensión",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-04-01T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa13"
+  },
+  "nombres": "Pacífica",
+  "apellidos": "Pombo",
+  "documento_identidad": {
+    "$numberLong": "6604663291"
+  },
+  "fecha_nacimiento": {
+    "$date": "1978-04-07T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Cañada Efraín Bonet 33, Huelva, 87910",
+  "telefono": "+34 740 824 796",
+  "correo": "bluna@cabo.net",
+  "alergias": "Penicilina",
+  "antecedentes_familiares": "Hipertensión",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-03-07T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa14"
+  },
+  "nombres": "Cristina",
+  "apellidos": "Montoya",
+  "documento_identidad": {
+    "$numberLong": "7496784852"
+  },
+  "fecha_nacimiento": {
+    "$date": "2004-04-24T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Camino Edu Reig 42, Badajoz, 20943",
+  "telefono": "+34 803 48 65 57",
+  "correo": "sparedes@pascual.com",
+  "alergias": "Penicilina",
+  "antecedentes_familiares": "Hipertensión",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-01-24T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa15"
+  },
+  "nombres": "Teresa",
+  "apellidos": "Abril",
+  "documento_identidad": {
+    "$numberLong": "2556882443"
+  },
+  "fecha_nacimiento": {
+    "$date": "1999-04-17T00:00:00.000Z"
+  },
+  "genero": "Masculino",
+  "direccion": "Rambla de Ileana Batalla 44 Puerta 8 , Burgos, 15281",
+  "telefono": "+34 734 177 063",
+  "correo": "dtomas@mendoza.com",
+  "alergias": "Ninguna",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-01-28T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa16"
+  },
+  "nombres": "Herminio",
+  "apellidos": "Cornejo",
+  "documento_identidad": {
+    "$numberLong": "6989364104"
+  },
+  "fecha_nacimiento": {
+    "$date": "1976-03-26T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Plaza Herminio Porcel 9, Ávila, 34114",
+  "telefono": "+34723496216",
+  "correo": "galloamerico@miro-carbajo.com",
+  "alergias": "Ninguna",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-01-22T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa17"
+  },
+  "nombres": "Mamen",
+  "apellidos": "Barrena",
+  "documento_identidad": {
+    "$numberLong": "8822842955"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-834796800000"
+    }
+  },
+  "genero": "Masculino",
+  "direccion": "Avenida de Hernando Pinedo 3 Piso 9 , Tarragona, 77397",
+  "telefono": "+34965433872",
+  "correo": "yessica55@hotmail.com",
+  "alergias": "Mariscos",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Asma",
+  "fecha_registro": {
+    "$date": "2025-01-16T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa18"
+  },
+  "nombres": "Adela",
+  "apellidos": "Carretero",
+  "documento_identidad": {
+    "$numberLong": "8954185216"
+  },
+  "fecha_nacimiento": {
+    "$date": "1976-03-09T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Camino de Evaristo Pintor 28, Segovia, 44793",
+  "telefono": "+34 734 75 42 55",
+  "correo": "lasaeugenia@gmail.com",
+  "alergias": "Polvo",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-03-19T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa19"
+  },
+  "nombres": "Vilma",
+  "apellidos": "Oliver",
+  "documento_identidad": {
+    "$numberLong": "4692297000"
+  },
+  "fecha_nacimiento": {
+    "$date": "1975-01-23T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Urbanización Alejandro Velasco 9, Baleares, 04886",
+  "telefono": "+34951 535 994",
+  "correo": "fnoriega@hotmail.com",
+  "alergias": "Penicilina",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Apendicitis",
+  "fecha_registro": {
+    "$date": "2025-03-29T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa1a"
+  },
+  "nombres": "Lorena",
+  "apellidos": "Pomares",
+  "documento_identidad": {
+    "$numberLong": "2574748356"
+  },
+  "fecha_nacimiento": {
+    "$date": "1992-02-19T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Vial de Joaquina Duque 861, Málaga, 74410",
+  "telefono": "+34 700 81 46 15",
+  "correo": "ileana83@raya.es",
+  "alergias": "Ninguna",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Apendicitis",
+  "fecha_registro": {
+    "$date": "2025-02-04T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa1b"
+  },
+  "nombres": "Rosa",
+  "apellidos": "Doménech",
+  "documento_identidad": {
+    "$numberLong": "9529138302"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-868406400000"
+    }
+  },
+  "genero": "Masculino",
+  "direccion": "Cañada de Angelino Juárez 86, Córdoba, 87028",
+  "telefono": "+34992 56 31 50",
+  "correo": "wurena@yahoo.com",
+  "alergias": "Penicilina",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa1c"
+  },
+  "nombres": "Florencio",
+  "apellidos": "Zaragoza",
+  "documento_identidad": {
+    "$numberLong": "3926163061"
+  },
+  "fecha_nacimiento": {
+    "$date": "1974-11-16T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Glorieta Maximiliano Aguilar 3, Baleares, 77600",
+  "telefono": "+34602983778",
+  "correo": "uestevez@campo.org",
+  "alergias": "Mariscos",
+  "antecedentes_familiares": "Hipertensión",
+  "antecedentes_personales": "Apendicitis",
+  "fecha_registro": {
+    "$date": "2025-02-19T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa1d"
+  },
+  "nombres": "Lucho",
+  "apellidos": "Ariño",
+  "documento_identidad": {
+    "$numberLong": "4080918921"
+  },
+  "fecha_nacimiento": {
+    "$date": "2005-12-21T00:00:00.000Z"
+  },
+  "genero": "Masculino",
+  "direccion": "Pasadizo de Noé Gras 50, Álava, 53656",
+  "telefono": "+34 807 03 92 46",
+  "correo": "orozcoangelina@hotmail.com",
+  "alergias": "Ninguna",
+  "antecedentes_familiares": "Hipertensión",
+  "antecedentes_personales": "Apendicitis",
+  "fecha_registro": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa1e"
+  },
+  "nombres": "Melisa",
+  "apellidos": "Alba",
+  "documento_identidad": 744936390,
+  "fecha_nacimiento": {
+    "$date": "1972-08-02T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Calle de Pablo Cadenas 6, Navarra, 63772",
+  "telefono": "+34703 084 840",
+  "correo": "pepitaribes@hotmail.com",
+  "alergias": "Polvo",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Asma",
+  "fecha_registro": {
+    "$date": "2025-01-04T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa1f"
+  },
+  "nombres": "Itziar",
+  "apellidos": "Goñi",
+  "documento_identidad": 218147372,
+  "fecha_nacimiento": {
+    "$date": "1997-09-14T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Ronda de José Ángel Marti 5 Apt. 96 , Badajoz, 79767",
+  "telefono": "+34870 31 07 39",
+  "correo": "florencia39@hotmail.com",
+  "alergias": "Mariscos",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-01-08T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa20"
+  },
+  "nombres": "Reinaldo",
+  "apellidos": "Lopez",
+  "documento_identidad": 484192277,
+  "fecha_nacimiento": {
+    "$date": "1988-06-02T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Avenida Victorino Morata 59 Piso 4 , Tarragona, 08739",
+  "telefono": "+34 717736853",
+  "correo": "domenechmacarena@yahoo.com",
+  "alergias": "Ninguna",
+  "antecedentes_familiares": "Cáncer",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa21"
+  },
+  "nombres": "José Mari",
+  "apellidos": "Moreno",
+  "documento_identidad": {
+    "$numberLong": "6200394912"
+  },
+  "fecha_nacimiento": {
+    "$date": "2000-11-03T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Rambla de Ema Cueto 77 Apt. 55 , Vizcaya, 95575",
+  "telefono": "+34 600 65 66 22",
+  "correo": "vargasjavier@hotmail.com",
+  "alergias": "Polvo",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Asma",
+  "fecha_registro": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa22"
+  },
+  "nombres": "Tomasa",
+  "apellidos": "Barrena",
+  "documento_identidad": 197060727,
+  "fecha_nacimiento": {
+    "$date": "1993-03-06T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Pasadizo de Chuy Mínguez 55, Ceuta, 90824",
+  "telefono": "+34733 185 169",
+  "correo": "ciroegea@prada.com",
+  "alergias": "Polvo",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Apendicitis",
+  "fecha_registro": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa23"
+  },
+  "nombres": "Jordán",
+  "apellidos": "Ayuso",
+  "documento_identidad": {
+    "$numberLong": "6098378423"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-51580800000"
+    }
+  },
+  "genero": "Femenino",
+  "direccion": "Plaza de Julián Figuerola 37, Segovia, 70970",
+  "telefono": "+34706 808 354",
+  "correo": "ruben11@montoya-parejo.com",
+  "alergias": "Ninguna",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Asma",
+  "fecha_registro": {
+    "$date": "2025-04-03T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa24"
+  },
+  "nombres": "Irene",
+  "apellidos": "Andres",
+  "documento_identidad": {
+    "$numberLong": "5461617090"
+  },
+  "fecha_nacimiento": {
+    "$date": "2004-10-17T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Via Albert Martinez 1, Valencia, 15887",
+  "telefono": "+34 709608217",
+  "correo": "dionisia33@lobato-pina.es",
+  "alergias": "Ninguna",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-03-11T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa25"
+  },
+  "nombres": "Belen",
+  "apellidos": "Velasco",
+  "documento_identidad": {
+    "$numberLong": "9597885207"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-645321600000"
+    }
+  },
+  "genero": "Femenino",
+  "direccion": "Urbanización Fortunata Portillo 47, Valladolid, 73566",
+  "telefono": "+34741713481",
+  "correo": "silvestrereal@moles-reguera.net",
+  "alergias": "Penicilina",
+  "antecedentes_familiares": "Cáncer",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-04-18T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa26"
+  },
+  "nombres": "Abilio",
+  "apellidos": "Caparrós",
+  "documento_identidad": {
+    "$numberLong": "5766247180"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-829958400000"
+    }
+  },
+  "genero": "Masculino",
+  "direccion": "Avenida de Modesto Delgado 76 Piso 8 , Burgos, 95769",
+  "telefono": "+34705 87 20 61",
+  "correo": "leandralamas@arranz.net",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-03-23T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa27"
+  },
+  "nombres": "Lorenzo",
+  "apellidos": "Rosell",
+  "documento_identidad": 496499581,
+  "fecha_nacimiento": {
+    "$date": "2003-03-17T00:00:00.000Z"
+  },
+  "genero": "Masculino",
+  "direccion": "Camino de Rodolfo Rosselló 2 Piso 7 , Córdoba, 59231",
+  "telefono": "+34 707 562 323",
+  "correo": "ivanhoyos@gmail.com",
+  "alergias": "Polvo",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Apendicitis",
+  "fecha_registro": {
+    "$date": "2025-02-19T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa28"
+  },
+  "nombres": "Rosendo",
+  "apellidos": "Correa",
+  "documento_identidad": {
+    "$numberLong": "2678695367"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-140745600000"
+    }
+  },
+  "genero": "Femenino",
+  "direccion": "Ronda Calixta Tomé 67 Puerta 3 , Cantabria, 28816",
+  "telefono": "+34 639 150 713",
+  "correo": "arsenio16@hotmail.com",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Apendicitis",
+  "fecha_registro": {
+    "$date": "2025-02-18T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa29"
+  },
+  "nombres": "Renata",
+  "apellidos": "Mayoral",
+  "documento_identidad": {
+    "$numberLong": "8432472073"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-238896000000"
+    }
+  },
+  "genero": "Femenino",
+  "direccion": "Callejón de Reyes Esparza 6, Granada, 40130",
+  "telefono": "+34711 20 72 58",
+  "correo": "dromeu@carretero.com",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Hipertensión",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-04-21T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa2a"
+  },
+  "nombres": "Victoria",
+  "apellidos": "Acevedo",
+  "documento_identidad": {
+    "$numberLong": "8698411284"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-1117756800000"
+    }
+  },
+  "genero": "Masculino",
+  "direccion": "Acceso Apolonia García 92, Toledo, 39704",
+  "telefono": "+34743 798 585",
+  "correo": "marcia00@montero-sierra.es",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Apendicitis",
+  "fecha_registro": {
+    "$date": "2025-02-16T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa2b"
+  },
+  "nombres": "Encarnita",
+  "apellidos": "Barrios",
+  "documento_identidad": 167792688,
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-1056412800000"
+    }
+  },
+  "genero": "Masculino",
+  "direccion": "Cañada de Adriana Ruiz 6, Ciudad, 31944",
+  "telefono": "+34965 68 80 63",
+  "correo": "ocontreras@marmol-barcelo.com",
+  "alergias": "Ninguna",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-01-20T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa2c"
+  },
+  "nombres": "Eusebio",
+  "apellidos": "Gallo",
+  "documento_identidad": {
+    "$numberLong": "7126788789"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-229132800000"
+    }
+  },
+  "genero": "Femenino",
+  "direccion": "Glorieta Agustina Bermúdez 224 Puerta 1 , Palencia, 74099",
+  "telefono": "+34889 355 155",
+  "correo": "nriba@hotmail.com",
+  "alergias": "Penicilina",
+  "antecedentes_familiares": "Cáncer",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-02-18T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa2d"
+  },
+  "nombres": "Bárbara",
+  "apellidos": "Mendizábal",
+  "documento_identidad": {
+    "$numberLong": "4484341269"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-1080950400000"
+    }
+  },
+  "genero": "Femenino",
+  "direccion": "Cuesta Paco Lobo 24 Puerta 3 , Baleares, 49010",
+  "telefono": "+34700 788 794",
+  "correo": "dimas61@calleja-frias.com",
+  "alergias": "Polvo",
+  "antecedentes_familiares": "Hipertensión",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-03-09T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa2e"
+  },
+  "nombres": "Xavier",
+  "apellidos": "Ricart",
+  "documento_identidad": {
+    "$numberLong": "8647471756"
+  },
+  "fecha_nacimiento": {
+    "$date": "1986-01-26T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Avenida Jafet Sabater 15 Apt. 14 , Santa Cruz de Tenerife, 29173",
+  "telefono": "+34 896 38 63 24",
+  "correo": "goller@sandoval-linares.es",
+  "alergias": "Ninguna",
+  "antecedentes_familiares": "Cáncer",
+  "antecedentes_personales": "Asma",
+  "fecha_registro": {
+    "$date": "2025-02-08T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa2f"
+  },
+  "nombres": "Nadia",
+  "apellidos": "Rey",
+  "documento_identidad": {
+    "$numberLong": "7324228148"
+  },
+  "fecha_nacimiento": {
+    "$date": "1971-03-12T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Camino de Ana Belén Roma 35 Puerta 9 , Melilla, 91150",
+  "telefono": "+34 898 07 44 61",
+  "correo": "yesicaalcaraz@yahoo.com",
+  "alergias": "Polvo",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-03-04T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa30"
+  },
+  "nombres": "Isidro",
+  "apellidos": "Vaquero",
+  "documento_identidad": {
+    "$numberLong": "4197250629"
+  },
+  "fecha_nacimiento": {
+    "$date": "2003-11-20T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "C. de Juan Francisco Pomares 54, Palencia, 38601",
+  "telefono": "+34723 23 37 35",
+  "correo": "neiramelisa@gmail.com",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Apendicitis",
+  "fecha_registro": {
+    "$date": "2025-02-20T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa31"
+  },
+  "nombres": "Alberto",
+  "apellidos": "Ortiz",
+  "documento_identidad": 1862740839,
+  "fecha_nacimiento": {
+    "$date": "1973-07-24T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Acceso Laura Flores 2 Piso 1 , Pontevedra, 31722",
+  "telefono": "+34741487369",
+  "correo": "galvanrico@palau.com",
+  "alergias": "Penicilina",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Asma",
+  "fecha_registro": {
+    "$date": "2025-03-09T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa32"
+  },
+  "nombres": "Cosme",
+  "apellidos": "Novoa",
+  "documento_identidad": {
+    "$numberLong": "4150839598"
+  },
+  "fecha_nacimiento": {
+    "$date": "2002-03-13T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Camino de Leyre Ferrández 3, Cáceres, 41207",
+  "telefono": "+34700 35 70 09",
+  "correo": "acostarosa@bustamante-nebot.es",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Apendicitis",
+  "fecha_registro": {
+    "$date": "2025-01-28T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa33"
+  },
+  "nombres": "Cesar",
+  "apellidos": "Puig",
+  "documento_identidad": {
+    "$numberLong": "5510439394"
+  },
+  "fecha_nacimiento": {
+    "$date": "1989-04-29T00:00:00.000Z"
+  },
+  "genero": "Masculino",
+  "direccion": "Urbanización de Inocencio Caro 7 Apt. 54 , La Coruña, 29801",
+  "telefono": "+34 700874017",
+  "correo": "onofrerodrigo@vaquero.es",
+  "alergias": "Ninguna",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-02-26T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa34"
+  },
+  "nombres": "Vinicio",
+  "apellidos": "Cid",
+  "documento_identidad": {
+    "$numberLong": "3437425872"
+  },
+  "fecha_nacimiento": {
+    "$date": "1983-10-21T00:00:00.000Z"
+  },
+  "genero": "Masculino",
+  "direccion": "Pasadizo de Marita Collado 180 Piso 0 , La Rioja, 14512",
+  "telefono": "+34 881 226 128",
+  "correo": "qmayol@pons.com",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-02-12T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa35"
+  },
+  "nombres": "Esmeralda",
+  "apellidos": "Nieto",
+  "documento_identidad": {
+    "$numberLong": "7845435251"
+  },
+  "fecha_nacimiento": {
+    "$date": "1977-03-22T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Callejón José Pina 20, Toledo, 08081",
+  "telefono": "+34 718 637 508",
+  "correo": "pozuelocesar@izquierdo.com",
+  "alergias": "Mariscos",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Apendicitis",
+  "fecha_registro": {
+    "$date": "2025-04-02T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa36"
+  },
+  "nombres": "Eugenio",
+  "apellidos": "Español",
+  "documento_identidad": {
+    "$numberLong": "9843632230"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-90720000000"
+    }
+  },
+  "genero": "Femenino",
+  "direccion": "Cuesta de Jose Prat 25 Apt. 82 , Lleida, 91015",
+  "telefono": "+34705797490",
+  "correo": "fidel71@martorell.es",
+  "alergias": "Polvo",
+  "antecedentes_familiares": "Cáncer",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-03-21T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa37"
+  },
+  "nombres": "Dalila",
+  "apellidos": "Sarabia",
+  "documento_identidad": {
+    "$numberLong": "7253181718"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-870912000000"
+    }
+  },
+  "genero": "Masculino",
+  "direccion": "Pasadizo de Luna Roselló 96, Cuenca, 42616",
+  "telefono": "+34 706 42 06 45",
+  "correo": "telloaraceli@yahoo.com",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Cáncer",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-02-26T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa38"
+  },
+  "nombres": "Leticia",
+  "apellidos": "Nevado",
+  "documento_identidad": {
+    "$numberLong": "4392906113"
+  },
+  "fecha_nacimiento": {
+    "$date": "1980-08-30T00:00:00.000Z"
+  },
+  "genero": "Masculino",
+  "direccion": "Calle de Lalo Armas 82, Granada, 98616",
+  "telefono": "+34 666 62 92 43",
+  "correo": "vnogueira@corominas-pont.es",
+  "alergias": "Mariscos",
+  "antecedentes_familiares": "Cáncer",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-03-13T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa39"
+  },
+  "nombres": "Reyna",
+  "apellidos": "Asensio",
+  "documento_identidad": {
+    "$numberLong": "6156799189"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-51062400000"
+    }
+  },
+  "genero": "Masculino",
+  "direccion": "Paseo Marcia Ferrándiz 709, Barcelona, 50008",
+  "telefono": "+34846580215",
+  "correo": "macarenaborras@benavente-barcelo.com",
+  "alergias": "Polvo",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Asma",
+  "fecha_registro": {
+    "$date": "2025-03-07T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa3a"
+  },
+  "nombres": "Adelaida",
+  "apellidos": "Coronado",
+  "documento_identidad": {
+    "$numberLong": "2996833904"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-365558400000"
+    }
+  },
+  "genero": "Masculino",
+  "direccion": "Camino de Jimena Cuenca 54, Zamora, 06449",
+  "telefono": "+34 716 426 941",
+  "correo": "tcarballo@hotmail.com",
+  "alergias": "Polvo",
+  "antecedentes_familiares": "Cáncer",
+  "antecedentes_personales": "Asma",
+  "fecha_registro": {
+    "$date": "2025-03-20T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa3b"
+  },
+  "nombres": "Claudia",
+  "apellidos": "Vives",
+  "documento_identidad": {
+    "$numberLong": "3157536972"
+  },
+  "fecha_nacimiento": {
+    "$date": "1991-10-20T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Camino Noelia Ferrández 31, Guadalajara, 16674",
+  "telefono": "+34 731936863",
+  "correo": "anastasia43@yahoo.com",
+  "alergias": "Mariscos",
+  "antecedentes_familiares": "Hipertensión",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-02-02T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa3c"
+  },
+  "nombres": "Amando",
+  "apellidos": "Carrera",
+  "documento_identidad": {
+    "$numberLong": "8422922971"
+  },
+  "fecha_nacimiento": {
+    "$date": "1992-01-12T00:00:00.000Z"
+  },
+  "genero": "Masculino",
+  "direccion": "Ronda de Benito España 8, La Rioja, 10390",
+  "telefono": "+34 719651270",
+  "correo": "murciaguiomar@soler-herrera.com",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Cáncer",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-02-15T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa3d"
+  },
+  "nombres": "Galo",
+  "apellidos": "Vazquez",
+  "documento_identidad": {
+    "$numberLong": "4847360775"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-327196800000"
+    }
+  },
+  "genero": "Femenino",
+  "direccion": "Avenida de Julián Almazán 11 Apt. 85 , Baleares, 36672",
+  "telefono": "+34 734297761",
+  "correo": "zaira76@gmail.com",
+  "alergias": "Penicilina",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Apendicitis",
+  "fecha_registro": {
+    "$date": "2025-01-18T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa3e"
+  },
+  "nombres": "Isaías",
+  "apellidos": "Matas",
+  "documento_identidad": {
+    "$numberLong": "7486258123"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-276220800000"
+    }
+  },
+  "genero": "Femenino",
+  "direccion": "Pasadizo Jose Murcia 40, Ávila, 66853",
+  "telefono": "+34705808414",
+  "correo": "cerveramanola@pastor.com",
+  "alergias": "Polvo",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Asma",
+  "fecha_registro": {
+    "$date": "2025-03-29T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa3f"
+  },
+  "nombres": "Rafa",
+  "apellidos": "Fábregas",
+  "documento_identidad": {
+    "$numberLong": "6230983820"
+  },
+  "fecha_nacimiento": {
+    "$date": "1984-05-08T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Vial de Edelmiro Ruiz 11, Sevilla, 91665",
+  "telefono": "+34 744 57 00 94",
+  "correo": "modesta27@hotmail.com",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-04-18T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa40"
+  },
+  "nombres": "Nicanor",
+  "apellidos": "Giménez",
+  "documento_identidad": {
+    "$numberLong": "4744791744"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-113961600000"
+    }
+  },
+  "genero": "Femenino",
+  "direccion": "Rambla de Baudelio Pombo 54, Málaga, 56750",
+  "telefono": "+34 895141282",
+  "correo": "sabina82@valderrama-ochoa.com",
+  "alergias": "Mariscos",
+  "antecedentes_familiares": "Cáncer",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-03-31T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa41"
+  },
+  "nombres": "Luís",
+  "apellidos": "León",
+  "documento_identidad": {
+    "$numberLong": "4764758822"
+  },
+  "fecha_nacimiento": {
+    "$date": "2003-12-30T00:00:00.000Z"
+  },
+  "genero": "Masculino",
+  "direccion": "Pasadizo Rogelio Antón 317, Ourense, 46514",
+  "telefono": "+34 676545783",
+  "correo": "aanguita@gmail.com",
+  "alergias": "Ninguna",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Asma",
+  "fecha_registro": {
+    "$date": "2025-04-16T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa42"
+  },
+  "nombres": "Trinidad",
+  "apellidos": "Solera",
+  "documento_identidad": {
+    "$numberLong": "3704453256"
+  },
+  "fecha_nacimiento": {
+    "$date": "1979-04-08T00:00:00.000Z"
+  },
+  "genero": "Masculino",
+  "direccion": "Vial Toribio Vázquez 7, Albacete, 60374",
+  "telefono": "+34700899443",
+  "correo": "nesparza@hotmail.com",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Asma",
+  "fecha_registro": {
+    "$date": "2025-04-08T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa43"
+  },
+  "nombres": "Rolando",
+  "apellidos": "Talavera",
+  "documento_identidad": {
+    "$numberLong": "4812510117"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-4492800000"
+    }
+  },
+  "genero": "Femenino",
+  "direccion": "Urbanización Fabricio Villalobos 776 Apt. 34 , Cuenca, 83853",
+  "telefono": "+34 730 782 347",
+  "correo": "montserrat23@hotmail.com",
+  "alergias": "Penicilina",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-01-07T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa44"
+  },
+  "nombres": "Luciano",
+  "apellidos": "Mendez",
+  "documento_identidad": {
+    "$numberLong": "6988811950"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-874972800000"
+    }
+  },
+  "genero": "Masculino",
+  "direccion": "Ronda de Flavia Mateo 40, Palencia, 07236",
+  "telefono": "+34 619 675 851",
+  "correo": "herminiapozuelo@gmail.com",
+  "alergias": "Penicilina",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-03-10T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa45"
+  },
+  "nombres": "Felicia",
+  "apellidos": "Cabeza",
+  "documento_identidad": {
+    "$numberLong": "4123577425"
+  },
+  "fecha_nacimiento": {
+    "$date": "1979-08-13T00:00:00.000Z"
+  },
+  "genero": "Masculino",
+  "direccion": "Ronda Hortensia Gimenez 13 Piso 1 , Las Palmas, 03914",
+  "telefono": "+34 747 86 75 86",
+  "correo": "gabrielaalsina@soto-roldan.com",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Cáncer",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-03-31T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa46"
+  },
+  "nombres": "Anselmo",
+  "apellidos": "Lobato",
+  "documento_identidad": {
+    "$numberLong": "7352744171"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-797644800000"
+    }
+  },
+  "genero": "Femenino",
+  "direccion": "Acceso de Dimas Rodriguez 24 Apt. 13 , Sevilla, 58975",
+  "telefono": "+34 848 088 555",
+  "correo": "mendozaolivia@serrano.com",
+  "alergias": "Polvo",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Apendicitis",
+  "fecha_registro": {
+    "$date": "2025-01-08T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa47"
+  },
+  "nombres": "Leandra",
+  "apellidos": "Orozco",
+  "documento_identidad": {
+    "$numberLong": "3722973436"
+  },
+  "fecha_nacimiento": {
+    "$date": "1985-07-27T00:00:00.000Z"
+  },
+  "genero": "Masculino",
+  "direccion": "Acceso Fulgencio Sierra 44, Zamora, 88039",
+  "telefono": "+34943 62 68 52",
+  "correo": "valerahector@colom.es",
+  "alergias": "Ninguna",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-04-02T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa48"
+  },
+  "nombres": "Esmeralda",
+  "apellidos": "Coronado",
+  "documento_identidad": {
+    "$numberLong": "9283670952"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-880070400000"
+    }
+  },
+  "genero": "Masculino",
+  "direccion": "Cuesta Damián Yáñez 209 Puerta 5 , Alicante, 75717",
+  "telefono": "+34 726 32 11 53",
+  "correo": "santos85@yahoo.com",
+  "alergias": "Penicilina",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-02-27T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa49"
+  },
+  "nombres": "Luna",
+  "apellidos": "Flor",
+  "documento_identidad": {
+    "$numberLong": "8760651037"
+  },
+  "fecha_nacimiento": {
+    "$date": "1978-04-02T00:00:00.000Z"
+  },
+  "genero": "Masculino",
+  "direccion": "Alameda de Julia Laguna 562, Tarragona, 74887",
+  "telefono": "+34 712 62 76 18",
+  "correo": "nazariopalacio@rincon-sala.net",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Cáncer",
+  "antecedentes_personales": "Apendicitis",
+  "fecha_registro": {
+    "$date": "2025-01-01T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa4a"
+  },
+  "nombres": "Nadia",
+  "apellidos": "Torre",
+  "documento_identidad": 669254426,
+  "fecha_nacimiento": {
+    "$date": "1978-03-02T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Urbanización de Amor Águila 57 Apt. 25 , Asturias, 04492",
+  "telefono": "+34 836896304",
+  "correo": "waltercarbonell@yahoo.com",
+  "alergias": "Ninguna",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-02-05T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa4b"
+  },
+  "nombres": "Cipriano",
+  "apellidos": "Domínguez",
+  "documento_identidad": {
+    "$numberLong": "6068503909"
+  },
+  "fecha_nacimiento": {
+    "$date": "1991-07-06T00:00:00.000Z"
+  },
+  "genero": "Masculino",
+  "direccion": "Avenida Natanael Prats 61 Piso 8 , Cantabria, 81461",
+  "telefono": "+34747 94 41 48",
+  "correo": "roque17@casares.com",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-01-01T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa4c"
+  },
+  "nombres": "Sosimo",
+  "apellidos": "Marí",
+  "documento_identidad": 1172483938,
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-723340800000"
+    }
+  },
+  "genero": "Masculino",
+  "direccion": "Alameda de Dionisio Pagès 71 Puerta 3 , La Rioja, 52402",
+  "telefono": "+34 745 30 01 72",
+  "correo": "oliveraheliodoro@duran.es",
+  "alergias": "Mariscos",
+  "antecedentes_familiares": "Cáncer",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-02-02T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa4d"
+  },
+  "nombres": "Carmina",
+  "apellidos": "Avilés",
+  "documento_identidad": 1792076113,
+  "fecha_nacimiento": {
+    "$date": "1985-05-03T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Glorieta de Anabel Bermejo 928, Las Palmas, 01095",
+  "telefono": "+34 726 471 838",
+  "correo": "babad@samper-ribes.es",
+  "alergias": "Ninguna",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Asma",
+  "fecha_registro": {
+    "$date": "2025-03-13T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa4e"
+  },
+  "nombres": "Valerio",
+  "apellidos": "Ferrán",
+  "documento_identidad": 1930593741,
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-434073600000"
+    }
+  },
+  "genero": "Masculino",
+  "direccion": "Callejón Jacobo Amorós 99 Piso 9 , Girona, 04790",
+  "telefono": "+34628459922",
+  "correo": "silviabellido@hotmail.com",
+  "alergias": "Mariscos",
+  "antecedentes_familiares": "Hipertensión",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-04-18T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa4f"
+  },
+  "nombres": "Jose Ramón",
+  "apellidos": "Fernández",
+  "documento_identidad": {
+    "$numberLong": "8711020731"
+  },
+  "fecha_nacimiento": {
+    "$date": "1990-03-03T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Glorieta Salomé Clavero 47, Sevilla, 21976",
+  "telefono": "+34 744966126",
+  "correo": "galvezmauricio@hotmail.com",
+  "alergias": "Mariscos",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Apendicitis",
+  "fecha_registro": {
+    "$date": "2025-02-28T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa50"
+  },
+  "nombres": "Joaquín",
+  "apellidos": "Mayo",
+  "documento_identidad": {
+    "$numberLong": "3332017419"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-359596800000"
+    }
+  },
+  "genero": "Masculino",
+  "direccion": "Avenida Marciano Noguera 60 Piso 1 , Melilla, 72851",
+  "telefono": "+34902 94 33 67",
+  "correo": "vsolana@hotmail.com",
+  "alergias": "Polvo",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Asma",
+  "fecha_registro": {
+    "$date": "2025-04-02T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa51"
+  },
+  "nombres": "Iván",
+  "apellidos": "Castillo",
+  "documento_identidad": {
+    "$numberLong": "6978615242"
+  },
+  "fecha_nacimiento": {
+    "$date": "1978-10-28T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Camino Leonel Dávila 21 Puerta 9 , Alicante, 93584",
+  "telefono": "+34624 804 115",
+  "correo": "bmorante@lucena.com",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-01-30T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa52"
+  },
+  "nombres": "Carmen",
+  "apellidos": "Dalmau",
+  "documento_identidad": 1310342642,
+  "fecha_nacimiento": {
+    "$date": "2003-11-12T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "C. Leire Moraleda 98 Piso 2 , Almería, 20768",
+  "telefono": "+34974 362 844",
+  "correo": "america23@zamorano.es",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Cáncer",
+  "antecedentes_personales": "Apendicitis",
+  "fecha_registro": {
+    "$date": "2025-01-11T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa53"
+  },
+  "nombres": "Jose Ignacio",
+  "apellidos": "Collado",
+  "documento_identidad": {
+    "$numberLong": "4669016508"
+  },
+  "fecha_nacimiento": {
+    "$date": "1999-07-26T00:00:00.000Z"
+  },
+  "genero": "Masculino",
+  "direccion": "Pasaje de Valero Pinedo 90 Apt. 16 , Castellón, 08456",
+  "telefono": "+34 706 793 618",
+  "correo": "morantamara@yahoo.com",
+  "alergias": "Polvo",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-04-02T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa54"
+  },
+  "nombres": "Maribel",
+  "apellidos": "Borrego",
+  "documento_identidad": 1472507993,
+  "fecha_nacimiento": {
+    "$date": "1987-07-07T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Calle Héctor Uriarte 698 Puerta 0 , Navarra, 19385",
+  "telefono": "+34869115673",
+  "correo": "dominga11@galvan-feliu.com",
+  "alergias": "Penicilina",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Asma",
+  "fecha_registro": {
+    "$date": "2025-02-15T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa55"
+  },
+  "nombres": "Jorge",
+  "apellidos": "Soler",
+  "documento_identidad": {
+    "$numberLong": "8428314285"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-994550400000"
+    }
+  },
+  "genero": "Femenino",
+  "direccion": "Calle de Ileana Neira 232, Salamanca, 07722",
+  "telefono": "+34 836 624 006",
+  "correo": "evelia20@yahoo.com",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Apendicitis",
+  "fecha_registro": {
+    "$date": "2025-01-17T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa56"
+  },
+  "nombres": "Leocadio",
+  "apellidos": "Villaverde",
+  "documento_identidad": 277516993,
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-407980800000"
+    }
+  },
+  "genero": "Masculino",
+  "direccion": "Glorieta Ángel Cervera 19, Salamanca, 89618",
+  "telefono": "+34 628 63 04 65",
+  "correo": "horacio48@gmail.com",
+  "alergias": "Ninguna",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-01-15T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa57"
+  },
+  "nombres": "Fausto",
+  "apellidos": "Marin",
+  "documento_identidad": 1099390493,
+  "fecha_nacimiento": {
+    "$date": "1989-04-23T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Rambla de Rosalinda Cervera 11 Piso 2 , Castellón, 03390",
+  "telefono": "+34 677 124 880",
+  "correo": "otellez@bueno.com",
+  "alergias": "Penicilina",
+  "antecedentes_familiares": "Hipertensión",
+  "antecedentes_personales": "Apendicitis",
+  "fecha_registro": {
+    "$date": "2025-01-09T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa58"
+  },
+  "nombres": "Cruz",
+  "apellidos": "Heras",
+  "documento_identidad": {
+    "$numberLong": "2289278555"
+  },
+  "fecha_nacimiento": {
+    "$date": "2002-07-10T00:00:00.000Z"
+  },
+  "genero": "Masculino",
+  "direccion": "Vial de Lucía Abellán 1, Albacete, 04155",
+  "telefono": "+34725 871 231",
+  "correo": "azahar27@palacio.com",
+  "alergias": "Polvo",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-04-20T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa59"
+  },
+  "nombres": "Francisco Javier",
+  "apellidos": "Guerra",
+  "documento_identidad": {
+    "$numberLong": "8602865358"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-950227200000"
+    }
+  },
+  "genero": "Masculino",
+  "direccion": "Rambla Felicidad Ros 59, Valencia, 72118",
+  "telefono": "+34632 37 58 86",
+  "correo": "valenzuelamaximo@yahoo.com",
+  "alergias": "Mariscos",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Apendicitis",
+  "fecha_registro": {
+    "$date": "2025-01-09T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa5a"
+  },
+  "nombres": "Omar",
+  "apellidos": "Redondo",
+  "documento_identidad": {
+    "$numberLong": "6685584275"
+  },
+  "fecha_nacimiento": {
+    "$date": "2001-02-13T00:00:00.000Z"
+  },
+  "genero": "Masculino",
+  "direccion": "Calle de Dora Cano 304 Puerta 1 , Murcia, 95639",
+  "telefono": "+34712 273 207",
+  "correo": "angladapascuala@yahoo.com",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Cáncer",
+  "antecedentes_personales": "Apendicitis",
+  "fecha_registro": {
+    "$date": "2025-02-10T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa5b"
+  },
+  "nombres": "Maricela",
+  "apellidos": "Cabañas",
+  "documento_identidad": 971015111,
+  "fecha_nacimiento": {
+    "$date": "1993-04-29T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Alameda de Mario Roca 87, La Rioja, 68450",
+  "telefono": "+34 748 61 27 92",
+  "correo": "belenyuste@canals.com",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Ninguno",
+  "antecedentes_personales": "Apendicitis",
+  "fecha_registro": {
+    "$date": "2025-04-18T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa5c"
+  },
+  "nombres": "Marcio",
+  "apellidos": "Mayoral",
+  "documento_identidad": {
+    "$numberLong": "6680443313"
+  },
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-245548800000"
+    }
+  },
+  "genero": "Femenino",
+  "direccion": "Vial de Erasmo Castelló 69 Puerta 3 , Córdoba, 86096",
+  "telefono": "+34706 232 252",
+  "correo": "luciana40@redondo-ramon.com",
+  "alergias": "Ninguna",
+  "antecedentes_familiares": "Hipertensión",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-04-11T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa5d"
+  },
+  "nombres": "Cristina",
+  "apellidos": "Lozano",
+  "documento_identidad": {
+    "$numberLong": "2463626777"
+  },
+  "fecha_nacimiento": {
+    "$date": "1982-03-25T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Alameda de Florentina Abad 17 Piso 8 , Pontevedra, 41804",
+  "telefono": "+34 716 36 06 18",
+  "correo": "lalvarez@peinado-barral.es",
+  "alergias": "Polvo",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-03-21T00:00:00.000Z"
+  },
+  "activo": false
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa5e"
+  },
+  "nombres": "Bernabé",
+  "apellidos": "Borja",
+  "documento_identidad": 1652178715,
+  "fecha_nacimiento": {
+    "$date": {
+      "$numberLong": "-726364800000"
+    }
+  },
+  "genero": "Masculino",
+  "direccion": "Paseo Anselma Castell 349 Apt. 54 , Sevilla, 05011",
+  "telefono": "+34710013503",
+  "correo": "maxi34@hotmail.com",
+  "alergias": "Ninguna",
+  "antecedentes_familiares": "Cáncer",
+  "antecedentes_personales": "Ninguno",
+  "fecha_registro": {
+    "$date": "2025-03-28T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa5f"
+  },
+  "nombres": "Fabiana",
+  "apellidos": "Pagès",
+  "documento_identidad": {
+    "$numberLong": "8145455423"
+  },
+  "fecha_nacimiento": {
+    "$date": "1976-12-01T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Pasaje María Pilar Carranza 70, Murcia, 67150",
+  "telefono": "+34 700 83 48 58",
+  "correo": "jlamas@crespi.net",
+  "alergias": "Lácteos",
+  "antecedentes_familiares": "Hipertensión",
+  "antecedentes_personales": "Apendicitis",
+  "fecha_registro": {
+    "$date": "2025-04-14T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeaa60"
+  },
+  "nombres": "Eustaquio",
+  "apellidos": "Carro",
+  "documento_identidad": {
+    "$numberLong": "6731106378"
+  },
+  "fecha_nacimiento": {
+    "$date": "1996-08-16T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Callejón de Máximo Amo 787, Madrid, 36975",
+  "telefono": "+34 950 72 13 66",
+  "correo": "chema22@yahoo.com",
+  "alergias": "Ninguna",
+  "antecedentes_familiares": "Hipertensión",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-04-19T00:00:00.000Z"
+  },
+  "activo": true
+},
+{
+  "_id": {
+    "$oid": "68081b38982af93b04eeea90"
+  },
+  "nombres": "Teresa Isabel",
+  "apellidos": "Abril",
+  "documento_identidad": {
+    "$numberLong": "2556882449"
+  },
+  "fecha_nacimiento": {
+    "$date": "1999-07-15T00:00:00.000Z"
+  },
+  "genero": "Femenino",
+  "direccion": "Rambla de Ileana Batalla 44 Puerta 8 , Burgos, 15281",
+  "telefono": "+34 734 177 063",
+  "correo": "tereisa@mendoza.com",
+  "alergias": "Ninguna",
+  "antecedentes_familiares": "Diabetes",
+  "antecedentes_personales": "Migraña",
+  "fecha_registro": {
+    "$date": "2025-01-28T00:00:00.000Z"
+  },
+  "activo": false
+}]
