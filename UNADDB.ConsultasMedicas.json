@@ -1,0 +1,1744 @@
+[{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582452"
+  },
+  "id_paciente": 21314556,
+  "fecha_consulta": {
+    "$date": "2025-03-26T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor muscular",
+  "diagnostico": "Gripe",
+  "tratamiento": "Amoxicilina 250mg, cada 12 horas",
+  "medico_nombre": "Reinaldo de Cánovas",
+  "medico_especialidad": "Pediatría",
+  "id_profesional": "M940272",
+  "notas_adicionales": "Control en una semana"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582453"
+  },
+  "id_paciente": {
+    "$numberLong": "3687334551"
+  },
+  "fecha_consulta": {
+    "$date": "2025-04-12T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dificultad para respirar",
+  "diagnostico": "Resfriado común",
+  "tratamiento": "Paracetamol 250mg, cada 12 horas",
+  "medico_nombre": "Yéssica Guijarro Gelabert",
+  "medico_especialidad": "Medicina General",
+  "id_profesional": "M627040",
+  "notas_adicionales": "Control en una semana"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582454"
+  },
+  "id_paciente": 593561157,
+  "fecha_consulta": {
+    "$date": "2025-01-04T00:00:00.000Z"
+  },
+  "motivo_consulta": "Malestar general",
+  "diagnostico": "Gripe",
+  "tratamiento": "Ibuprofeno 20mg, cada 8 horas",
+  "medico_nombre": "Josep Adán Álvaro",
+  "medico_especialidad": "Medicina General",
+  "id_profesional": "M605229",
+  "notas_adicionales": "Control en una semana"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582455"
+  },
+  "id_paciente": {
+    "$numberLong": "9485132890"
+  },
+  "fecha_consulta": {
+    "$date": "2025-01-19T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dificultad para respirar",
+  "diagnostico": "Infección urinaria",
+  "tratamiento": "Paracetamol 250mg, cada 8 horas",
+  "medico_nombre": "Julie Falcón Alvarez",
+  "medico_especialidad": "Neurología",
+  "id_profesional": "M472792",
+  "notas_adicionales": "Hidratación constante"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582456"
+  },
+  "id_paciente": 1625482947,
+  "fecha_consulta": {
+    "$date": "2025-03-06T00:00:00.000Z"
+  },
+  "motivo_consulta": "Malestar general",
+  "diagnostico": "Migraña",
+  "tratamiento": "Omeprazol 20mg, cada 8 horas",
+  "medico_nombre": "África Ruth Teruel Borrego",
+  "medico_especialidad": "Neurología",
+  "id_profesional": "M639599",
+  "notas_adicionales": "Control en una semana"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582457"
+  },
+  "id_paciente": {
+    "$numberLong": "4054852967"
+  },
+  "fecha_consulta": {
+    "$date": "2025-03-28T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor abdominal",
+  "diagnostico": "Bronquitis",
+  "tratamiento": "Omeprazol 250mg, una vez al día",
+  "medico_nombre": "Alonso Barba Ferrándiz",
+  "medico_especialidad": "Pediatría",
+  "id_profesional": "M222756",
+  "notas_adicionales": "Control en una semana"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582458"
+  },
+  "id_paciente": 987383142,
+  "fecha_consulta": {
+    "$date": "2025-03-15T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor abdominal",
+  "diagnostico": "Gripe",
+  "tratamiento": "Ibuprofeno 250mg, cada 8 horas",
+  "medico_nombre": "Sarita Colomer Fiol",
+  "medico_especialidad": "Pediatría",
+  "id_profesional": "M542340",
+  "notas_adicionales": "Evitar alimentos irritantes"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582459"
+  },
+  "id_paciente": {
+    "$numberLong": "8408579373"
+  },
+  "fecha_consulta": {
+    "$date": "2025-02-13T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor en el pecho",
+  "diagnostico": "Gripe",
+  "tratamiento": "Amoxicilina 250mg, una vez al día",
+  "medico_nombre": "Sigfrido Trujillo Borja",
+  "medico_especialidad": "Medicina Interna",
+  "id_profesional": "M648716",
+  "notas_adicionales": "Hidratación constante"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658245a"
+  },
+  "id_paciente": {
+    "$numberLong": "5923569491"
+  },
+  "fecha_consulta": {
+    "$date": "2025-02-13T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor abdominal",
+  "diagnostico": "Resfriado común",
+  "tratamiento": "Ibuprofeno 250mg, cada 8 horas",
+  "medico_nombre": "Carmen Jimenez",
+  "medico_especialidad": "Gastroenterología",
+  "id_profesional": "M188930",
+  "notas_adicionales": "Evitar alimentos irritantes"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658245b"
+  },
+  "id_paciente": {
+    "$numberLong": "9271400266"
+  },
+  "fecha_consulta": {
+    "$date": "2025-01-24T00:00:00.000Z"
+  },
+  "motivo_consulta": "Fiebre alta",
+  "diagnostico": "Resfriado común",
+  "tratamiento": "Paracetamol 500mg, cada 12 horas",
+  "medico_nombre": "María Ángeles Cárdenas Sobrino",
+  "medico_especialidad": "Medicina General",
+  "id_profesional": "M646172",
+  "notas_adicionales": "Evitar alimentos irritantes"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658245c"
+  },
+  "id_paciente": 1944820929,
+  "fecha_consulta": {
+    "$date": "2025-02-02T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de cabeza",
+  "diagnostico": "Infección urinaria",
+  "tratamiento": "Omeprazol 20mg, cada 12 horas",
+  "medico_nombre": "Agustina América Valenzuela Ocaña",
+  "medico_especialidad": "Neurología",
+  "id_profesional": "M754304",
+  "notas_adicionales": "Evitar alimentos irritantes"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658245d"
+  },
+  "id_paciente": {
+    "$numberLong": "5126254189"
+  },
+  "fecha_consulta": {
+    "$date": "2025-03-30T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de espalda",
+  "diagnostico": "Resfriado común",
+  "tratamiento": "Omeprazol 20mg, cada 12 horas",
+  "medico_nombre": "Ester Botella Pinilla",
+  "medico_especialidad": "Pediatría",
+  "id_profesional": "M668959",
+  "notas_adicionales": "Evitar alimentos irritantes"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658245e"
+  },
+  "id_paciente": 303257709,
+  "fecha_consulta": {
+    "$date": "2025-04-21T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de espalda",
+  "diagnostico": "Migraña",
+  "tratamiento": "Omeprazol 20mg, una vez al día",
+  "medico_nombre": "Victor Manuel Arnaiz Barrio",
+  "medico_especialidad": "Gastroenterología",
+  "id_profesional": "M796785",
+  "notas_adicionales": "Control en una semana"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658245f"
+  },
+  "id_paciente": {
+    "$numberLong": "8224250888"
+  },
+  "fecha_consulta": {
+    "$date": "2025-01-20T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor abdominal",
+  "diagnostico": "Bronquitis",
+  "tratamiento": "Paracetamol 500mg, una vez al día",
+  "medico_nombre": "Baltasar Baquero-Peñas",
+  "medico_especialidad": "Gastroenterología",
+  "id_profesional": "M278343",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582460"
+  },
+  "id_paciente": {
+    "$numberLong": "3028296519"
+  },
+  "fecha_consulta": {
+    "$date": "2025-02-12T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor abdominal",
+  "diagnostico": "Gastritis",
+  "tratamiento": "Amoxicilina 500mg, una vez al día",
+  "medico_nombre": "Luz Cabello-Castillo",
+  "medico_especialidad": "Neurología",
+  "id_profesional": "M691150",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582461"
+  },
+  "id_paciente": {
+    "$numberLong": "6483918883"
+  },
+  "fecha_consulta": {
+    "$date": "2025-02-24T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de espalda",
+  "diagnostico": "Gripe",
+  "tratamiento": "Omeprazol 500mg, una vez al día",
+  "medico_nombre": "Marcia Vidal Navarrete",
+  "medico_especialidad": "Gastroenterología",
+  "id_profesional": "M980797",
+  "notas_adicionales": "Hidratación constante"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582462"
+  },
+  "id_paciente": {
+    "$numberLong": "8331772554"
+  },
+  "fecha_consulta": {
+    "$date": "2025-02-26T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor abdominal",
+  "diagnostico": "Gastritis",
+  "tratamiento": "Paracetamol 250mg, cada 12 horas",
+  "medico_nombre": "Reyes Manjón Galán",
+  "medico_especialidad": "Medicina Interna",
+  "id_profesional": "M681303",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582463"
+  },
+  "id_paciente": 174803741,
+  "fecha_consulta": {
+    "$date": "2025-04-11T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor abdominal",
+  "diagnostico": "Migraña",
+  "tratamiento": "Amoxicilina 250mg, cada 12 horas",
+  "medico_nombre": "Macarena Máxima Gomila Pinedo",
+  "medico_especialidad": "Medicina Interna",
+  "id_profesional": "M200240",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582464"
+  },
+  "id_paciente": {
+    "$numberLong": "2248236721"
+  },
+  "fecha_consulta": {
+    "$date": "2025-04-13T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de espalda",
+  "diagnostico": "Migraña",
+  "tratamiento": "Paracetamol 250mg, una vez al día",
+  "medico_nombre": "Francisco Arnaiz Llano",
+  "medico_especialidad": "Neurología",
+  "id_profesional": "M138377",
+  "notas_adicionales": "Hidratación constante"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582465"
+  },
+  "id_paciente": {
+    "$numberLong": "2776416497"
+  },
+  "fecha_consulta": {
+    "$date": "2025-01-28T00:00:00.000Z"
+  },
+  "motivo_consulta": "Fiebre alta",
+  "diagnostico": "Migraña",
+  "tratamiento": "Omeprazol 500mg, una vez al día",
+  "medico_nombre": "Leandra Castells Escribano",
+  "medico_especialidad": "Pediatría",
+  "id_profesional": "M671030",
+  "notas_adicionales": "Hidratación constante"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582466"
+  },
+  "id_paciente": {
+    "$numberLong": "5240077861"
+  },
+  "fecha_consulta": {
+    "$date": "2025-01-20T00:00:00.000Z"
+  },
+  "motivo_consulta": "Malestar general",
+  "diagnostico": "Infección urinaria",
+  "tratamiento": "Paracetamol 500mg, cada 12 horas",
+  "medico_nombre": "Obdulia Castejón Villalonga",
+  "medico_especialidad": "Medicina Interna",
+  "id_profesional": "M540258",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582467"
+  },
+  "id_paciente": {
+    "$numberLong": "4243988886"
+  },
+  "fecha_consulta": {
+    "$date": "2025-04-20T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor muscular",
+  "diagnostico": "Bronquitis",
+  "tratamiento": "Ibuprofeno 250mg, cada 8 horas",
+  "medico_nombre": "Bartolomé Blasco Gibert",
+  "medico_especialidad": "Gastroenterología",
+  "id_profesional": "M486677",
+  "notas_adicionales": "Control en una semana"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582468"
+  },
+  "id_paciente": {
+    "$numberLong": "6626623449"
+  },
+  "fecha_consulta": {
+    "$date": "2025-04-11T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor en el pecho",
+  "diagnostico": "Gripe",
+  "tratamiento": "Omeprazol 500mg, cada 12 horas",
+  "medico_nombre": "Emma Casanova Buendía",
+  "medico_especialidad": "Gastroenterología",
+  "id_profesional": "M790068",
+  "notas_adicionales": "Hidratación constante"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582469"
+  },
+  "id_paciente": {
+    "$numberLong": "8771526850"
+  },
+  "fecha_consulta": {
+    "$date": "2025-03-18T00:00:00.000Z"
+  },
+  "motivo_consulta": "Malestar general",
+  "diagnostico": "Bronquitis",
+  "tratamiento": "Ibuprofeno 20mg, cada 8 horas",
+  "medico_nombre": "Rogelio Toledo Mena",
+  "medico_especialidad": "Medicina Interna",
+  "id_profesional": "M687900",
+  "notas_adicionales": "Hidratación constante"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658246a"
+  },
+  "id_paciente": {
+    "$numberLong": "5059365881"
+  },
+  "fecha_consulta": {
+    "$date": "2025-04-13T00:00:00.000Z"
+  },
+  "motivo_consulta": "Malestar general",
+  "diagnostico": "Infección urinaria",
+  "tratamiento": "Amoxicilina 250mg, cada 8 horas",
+  "medico_nombre": "Pío Maxi Egea Mínguez",
+  "medico_especialidad": "Medicina Interna",
+  "id_profesional": "M321447",
+  "notas_adicionales": "Hidratación constante"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658246b"
+  },
+  "id_paciente": {
+    "$numberLong": "9636084897"
+  },
+  "fecha_consulta": {
+    "$date": "2025-03-16T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor muscular",
+  "diagnostico": "Bronquitis",
+  "tratamiento": "Omeprazol 500mg, una vez al día",
+  "medico_nombre": "Jesusa Arribas Chacón",
+  "medico_especialidad": "Pediatría",
+  "id_profesional": "M537807",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658246c"
+  },
+  "id_paciente": {
+    "$numberLong": "7974256057"
+  },
+  "fecha_consulta": {
+    "$date": "2025-01-19T00:00:00.000Z"
+  },
+  "motivo_consulta": "Fiebre alta",
+  "diagnostico": "Migraña",
+  "tratamiento": "Ibuprofeno 20mg, cada 8 horas",
+  "medico_nombre": "Lara del Dominguez",
+  "medico_especialidad": "Neurología",
+  "id_profesional": "M442095",
+  "notas_adicionales": "Hidratación constante"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658246d"
+  },
+  "id_paciente": 1504053915,
+  "fecha_consulta": {
+    "$date": "2025-03-08T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dificultad para respirar",
+  "diagnostico": "Bronquitis",
+  "tratamiento": "Paracetamol 20mg, cada 8 horas",
+  "medico_nombre": "Ildefonso Berto Talavera Rivas",
+  "medico_especialidad": "Gastroenterología",
+  "id_profesional": "M514760",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658246e"
+  },
+  "id_paciente": 1383353039,
+  "fecha_consulta": {
+    "$date": "2025-01-28T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor muscular",
+  "diagnostico": "Migraña",
+  "tratamiento": "Paracetamol 20mg, una vez al día",
+  "medico_nombre": "Emiliano Haro Solera",
+  "medico_especialidad": "Neurología",
+  "id_profesional": "M691899",
+  "notas_adicionales": "Control en una semana"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658246f"
+  },
+  "id_paciente": {
+    "$numberLong": "6072366566"
+  },
+  "fecha_consulta": {
+    "$date": "2025-02-27T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de espalda",
+  "diagnostico": "Gastritis",
+  "tratamiento": "Ibuprofeno 500mg, una vez al día",
+  "medico_nombre": "Rafaela Alberola Coll",
+  "medico_especialidad": "Pediatría",
+  "id_profesional": "M315598",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582470"
+  },
+  "id_paciente": {
+    "$numberLong": "3885335196"
+  },
+  "fecha_consulta": {
+    "$date": "2025-04-16T00:00:00.000Z"
+  },
+  "motivo_consulta": "Fiebre alta",
+  "diagnostico": "Resfriado común",
+  "tratamiento": "Ibuprofeno 500mg, cada 8 horas",
+  "medico_nombre": "Anna Olivera",
+  "medico_especialidad": "Medicina Interna",
+  "id_profesional": "M826182",
+  "notas_adicionales": "Hidratación constante"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582471"
+  },
+  "id_paciente": {
+    "$numberLong": "8652768615"
+  },
+  "fecha_consulta": {
+    "$date": "2025-02-02T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de espalda",
+  "diagnostico": "Migraña",
+  "tratamiento": "Paracetamol 250mg, cada 8 horas",
+  "medico_nombre": "Basilio Peinado Lozano",
+  "medico_especialidad": "Gastroenterología",
+  "id_profesional": "M381194",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582472"
+  },
+  "id_paciente": 1937809583,
+  "fecha_consulta": {
+    "$date": "2025-03-20T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de cabeza",
+  "diagnostico": "Resfriado común",
+  "tratamiento": "Omeprazol 500mg, cada 12 horas",
+  "medico_nombre": "Adelardo Lobo Donaire",
+  "medico_especialidad": "Medicina General",
+  "id_profesional": "M242243",
+  "notas_adicionales": "Control en una semana"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582473"
+  },
+  "id_paciente": {
+    "$numberLong": "5232015176"
+  },
+  "fecha_consulta": {
+    "$date": "2025-04-07T00:00:00.000Z"
+  },
+  "motivo_consulta": "Fiebre alta",
+  "diagnostico": "Bronquitis",
+  "tratamiento": "Ibuprofeno 20mg, cada 8 horas",
+  "medico_nombre": "Patricio Casals Méndez",
+  "medico_especialidad": "Medicina Interna",
+  "id_profesional": "M471601",
+  "notas_adicionales": "Hidratación constante"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582474"
+  },
+  "id_paciente": 1272259840,
+  "fecha_consulta": {
+    "$date": "2025-01-13T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dificultad para respirar",
+  "diagnostico": "Migraña",
+  "tratamiento": "Ibuprofeno 250mg, cada 12 horas",
+  "medico_nombre": "Nazaret Barba Carnero",
+  "medico_especialidad": "Neurología",
+  "id_profesional": "M520689",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582475"
+  },
+  "id_paciente": {
+    "$numberLong": "2636950483"
+  },
+  "fecha_consulta": {
+    "$date": "2025-03-21T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de cabeza",
+  "diagnostico": "Bronquitis",
+  "tratamiento": "Paracetamol 250mg, una vez al día",
+  "medico_nombre": "Carlito Gallardo Valenzuela",
+  "medico_especialidad": "Pediatría",
+  "id_profesional": "M338343",
+  "notas_adicionales": "Control en una semana"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582476"
+  },
+  "id_paciente": {
+    "$numberLong": "7167817954"
+  },
+  "fecha_consulta": {
+    "$date": "2025-02-03T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor en el pecho",
+  "diagnostico": "Bronquitis",
+  "tratamiento": "Amoxicilina 20mg, cada 12 horas",
+  "medico_nombre": "Nacho Márquez",
+  "medico_especialidad": "Medicina Interna",
+  "id_profesional": "M316281",
+  "notas_adicionales": "Hidratación constante"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582477"
+  },
+  "id_paciente": 1754849053,
+  "fecha_consulta": {
+    "$date": "2025-03-10T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de espalda",
+  "diagnostico": "Gastritis",
+  "tratamiento": "Omeprazol 250mg, cada 12 horas",
+  "medico_nombre": "Lalo Landa-Sobrino",
+  "medico_especialidad": "Neurología",
+  "id_profesional": "M733843",
+  "notas_adicionales": "Evitar alimentos irritantes"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582478"
+  },
+  "id_paciente": {
+    "$numberLong": "4453762903"
+  },
+  "fecha_consulta": {
+    "$date": "2025-02-18T00:00:00.000Z"
+  },
+  "motivo_consulta": "Malestar general",
+  "diagnostico": "Resfriado común",
+  "tratamiento": "Paracetamol 20mg, una vez al día",
+  "medico_nombre": "Clotilde Arce Novoa",
+  "medico_especialidad": "Gastroenterología",
+  "id_profesional": "M842740",
+  "notas_adicionales": "Hidratación constante"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582479"
+  },
+  "id_paciente": {
+    "$numberLong": "9293469295"
+  },
+  "fecha_consulta": {
+    "$date": "2025-03-30T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor en el pecho",
+  "diagnostico": "Bronquitis",
+  "tratamiento": "Amoxicilina 250mg, una vez al día",
+  "medico_nombre": "Teodora Cuenca Sureda",
+  "medico_especialidad": "Neurología",
+  "id_profesional": "M788402",
+  "notas_adicionales": "Hidratación constante"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658247a"
+  },
+  "id_paciente": 1037022482,
+  "fecha_consulta": {
+    "$date": "2025-01-28T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor muscular",
+  "diagnostico": "Infección urinaria",
+  "tratamiento": "Omeprazol 250mg, una vez al día",
+  "medico_nombre": "Paco Guiomar Tomas Borrego",
+  "medico_especialidad": "Pediatría",
+  "id_profesional": "M717409",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658247b"
+  },
+  "id_paciente": {
+    "$numberLong": "7022605037"
+  },
+  "fecha_consulta": {
+    "$date": "2025-03-31T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor muscular",
+  "diagnostico": "Gastritis",
+  "tratamiento": "Paracetamol 20mg, una vez al día",
+  "medico_nombre": "Tere Dávila Bastida",
+  "medico_especialidad": "Medicina General",
+  "id_profesional": "M175883",
+  "notas_adicionales": "Control en una semana"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658247c"
+  },
+  "id_paciente": {
+    "$numberLong": "2248713524"
+  },
+  "fecha_consulta": {
+    "$date": "2025-03-27T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor en el pecho",
+  "diagnostico": "Migraña",
+  "tratamiento": "Omeprazol 250mg, una vez al día",
+  "medico_nombre": "Encarnación Valverde Cortina",
+  "medico_especialidad": "Medicina Interna",
+  "id_profesional": "M449690",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658247d"
+  },
+  "id_paciente": {
+    "$numberLong": "5975512137"
+  },
+  "fecha_consulta": {
+    "$date": "2025-04-19T00:00:00.000Z"
+  },
+  "motivo_consulta": "Malestar general",
+  "diagnostico": "Infección urinaria",
+  "tratamiento": "Ibuprofeno 250mg, cada 12 horas",
+  "medico_nombre": "Javier Belda Pellicer",
+  "medico_especialidad": "Neurología",
+  "id_profesional": "M754707",
+  "notas_adicionales": "Evitar alimentos irritantes"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658247e"
+  },
+  "id_paciente": 640962901,
+  "fecha_consulta": {
+    "$date": "2025-02-26T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dificultad para respirar",
+  "diagnostico": "Migraña",
+  "tratamiento": "Omeprazol 20mg, una vez al día",
+  "medico_nombre": "Luis Ernesto Peralta Carbonell",
+  "medico_especialidad": "Medicina General",
+  "id_profesional": "M136844",
+  "notas_adicionales": "Control en una semana"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658247f"
+  },
+  "id_paciente": 1375904791,
+  "fecha_consulta": {
+    "$date": "2025-03-02T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor en el pecho",
+  "diagnostico": "Migraña",
+  "tratamiento": "Amoxicilina 250mg, cada 12 horas",
+  "medico_nombre": "Cornelio Román Cornejo",
+  "medico_especialidad": "Neurología",
+  "id_profesional": "M383144",
+  "notas_adicionales": "Hidratación constante"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582480"
+  },
+  "id_paciente": {
+    "$numberLong": "9716362612"
+  },
+  "fecha_consulta": {
+    "$date": "2025-03-23T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor abdominal",
+  "diagnostico": "Gripe",
+  "tratamiento": "Amoxicilina 20mg, cada 12 horas",
+  "medico_nombre": "Juliana Valle Badía",
+  "medico_especialidad": "Neurología",
+  "id_profesional": "M782734",
+  "notas_adicionales": "Evitar alimentos irritantes"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582481"
+  },
+  "id_paciente": {
+    "$numberLong": "5531131636"
+  },
+  "fecha_consulta": {
+    "$date": "2025-02-16T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor en el pecho",
+  "diagnostico": "Resfriado común",
+  "tratamiento": "Ibuprofeno 250mg, una vez al día",
+  "medico_nombre": "Camila Peinado Hurtado",
+  "medico_especialidad": "Medicina General",
+  "id_profesional": "M567111",
+  "notas_adicionales": "Evitar alimentos irritantes"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582482"
+  },
+  "id_paciente": 36885847,
+  "fecha_consulta": {
+    "$date": "2025-03-06T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dificultad para respirar",
+  "diagnostico": "Gripe",
+  "tratamiento": "Paracetamol 20mg, cada 12 horas",
+  "medico_nombre": "Bienvenida Angelita Garmendia Moliner",
+  "medico_especialidad": "Neurología",
+  "id_profesional": "M288505",
+  "notas_adicionales": "Evitar alimentos irritantes"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582483"
+  },
+  "id_paciente": {
+    "$numberLong": "5069749983"
+  },
+  "fecha_consulta": {
+    "$date": "2025-03-31T00:00:00.000Z"
+  },
+  "motivo_consulta": "Malestar general",
+  "diagnostico": "Infección urinaria",
+  "tratamiento": "Ibuprofeno 20mg, cada 12 horas",
+  "medico_nombre": "Cristina Olimpia Barbero Rovira",
+  "medico_especialidad": "Neurología",
+  "id_profesional": "M773651",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582484"
+  },
+  "id_paciente": {
+    "$numberLong": "7837999333"
+  },
+  "fecha_consulta": {
+    "$date": "2025-04-04T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor muscular",
+  "diagnostico": "Gastritis",
+  "tratamiento": "Amoxicilina 250mg, una vez al día",
+  "medico_nombre": "Felix Cabañas Coronado",
+  "medico_especialidad": "Medicina General",
+  "id_profesional": "M740800",
+  "notas_adicionales": "Control en una semana"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582485"
+  },
+  "id_paciente": {
+    "$numberLong": "9023526623"
+  },
+  "fecha_consulta": {
+    "$date": "2025-03-07T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de espalda",
+  "diagnostico": "Gripe",
+  "tratamiento": "Amoxicilina 20mg, una vez al día",
+  "medico_nombre": "Graciano Moraleda Uriarte",
+  "medico_especialidad": "Neurología",
+  "id_profesional": "M969303",
+  "notas_adicionales": "Evitar alimentos irritantes"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582486"
+  },
+  "id_paciente": {
+    "$numberLong": "2900174294"
+  },
+  "fecha_consulta": {
+    "$date": "2025-02-02T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor abdominal",
+  "diagnostico": "Infección urinaria",
+  "tratamiento": "Paracetamol 250mg, cada 12 horas",
+  "medico_nombre": "Javiera Valderrama Vallés",
+  "medico_especialidad": "Gastroenterología",
+  "id_profesional": "M392005",
+  "notas_adicionales": "Control en una semana"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582487"
+  },
+  "id_paciente": {
+    "$numberLong": "4488060159"
+  },
+  "fecha_consulta": {
+    "$date": "2025-03-18T00:00:00.000Z"
+  },
+  "motivo_consulta": "Malestar general",
+  "diagnostico": "Gastritis",
+  "tratamiento": "Ibuprofeno 250mg, cada 12 horas",
+  "medico_nombre": "Jacinto Pío Guitart Tena",
+  "medico_especialidad": "Gastroenterología",
+  "id_profesional": "M613067",
+  "notas_adicionales": "Evitar alimentos irritantes"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582488"
+  },
+  "id_paciente": {
+    "$numberLong": "4631426168"
+  },
+  "fecha_consulta": {
+    "$date": "2025-03-09T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de espalda",
+  "diagnostico": "Gastritis",
+  "tratamiento": "Amoxicilina 250mg, una vez al día",
+  "medico_nombre": "Calisto Carbó-Mayoral",
+  "medico_especialidad": "Gastroenterología",
+  "id_profesional": "M613569",
+  "notas_adicionales": "Hidratación constante"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582489"
+  },
+  "id_paciente": {
+    "$numberLong": "5877690325"
+  },
+  "fecha_consulta": {
+    "$date": "2025-02-24T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dificultad para respirar",
+  "diagnostico": "Gastritis",
+  "tratamiento": "Omeprazol 20mg, una vez al día",
+  "medico_nombre": "Yésica Castañeda-Acevedo",
+  "medico_especialidad": "Neurología",
+  "id_profesional": "M708000",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658248a"
+  },
+  "id_paciente": {
+    "$numberLong": "9292069937"
+  },
+  "fecha_consulta": {
+    "$date": "2025-03-20T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dificultad para respirar",
+  "diagnostico": "Resfriado común",
+  "tratamiento": "Ibuprofeno 500mg, una vez al día",
+  "medico_nombre": "Ofelia Sedano Cano",
+  "medico_especialidad": "Neurología",
+  "id_profesional": "M539488",
+  "notas_adicionales": "Hidratación constante"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658248b"
+  },
+  "id_paciente": {
+    "$numberLong": "4148339669"
+  },
+  "fecha_consulta": {
+    "$date": "2025-02-27T00:00:00.000Z"
+  },
+  "motivo_consulta": "Malestar general",
+  "diagnostico": "Bronquitis",
+  "tratamiento": "Amoxicilina 500mg, cada 8 horas",
+  "medico_nombre": "Vilma Rovira Mulet",
+  "medico_especialidad": "Neurología",
+  "id_profesional": "M833711",
+  "notas_adicionales": "Control en una semana"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658248c"
+  },
+  "id_paciente": {
+    "$numberLong": "3054371812"
+  },
+  "fecha_consulta": {
+    "$date": "2025-01-27T00:00:00.000Z"
+  },
+  "motivo_consulta": "Malestar general",
+  "diagnostico": "Gripe",
+  "tratamiento": "Omeprazol 20mg, cada 8 horas",
+  "medico_nombre": "Guadalupe Alcolea-Calderon",
+  "medico_especialidad": "Neurología",
+  "id_profesional": "M887934",
+  "notas_adicionales": "Control en una semana"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658248d"
+  },
+  "id_paciente": 1611994485,
+  "fecha_consulta": {
+    "$date": "2025-02-20T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de espalda",
+  "diagnostico": "Gripe",
+  "tratamiento": "Ibuprofeno 500mg, cada 12 horas",
+  "medico_nombre": "Atilio de Carbó",
+  "medico_especialidad": "Pediatría",
+  "id_profesional": "M968897",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658248e"
+  },
+  "id_paciente": {
+    "$numberLong": "9098903296"
+  },
+  "fecha_consulta": {
+    "$date": "2025-01-11T00:00:00.000Z"
+  },
+  "motivo_consulta": "Fiebre alta",
+  "diagnostico": "Migraña",
+  "tratamiento": "Amoxicilina 500mg, cada 8 horas",
+  "medico_nombre": "Nicodemo Solera-Diéguez",
+  "medico_especialidad": "Medicina General",
+  "id_profesional": "M528906",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658248f"
+  },
+  "id_paciente": {
+    "$numberLong": "5666537889"
+  },
+  "fecha_consulta": {
+    "$date": "2025-01-07T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de cabeza",
+  "diagnostico": "Resfriado común",
+  "tratamiento": "Omeprazol 20mg, cada 8 horas",
+  "medico_nombre": "Ofelia Serrano-Arellano",
+  "medico_especialidad": "Medicina Interna",
+  "id_profesional": "M141366",
+  "notas_adicionales": "Hidratación constante"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582490"
+  },
+  "id_paciente": {
+    "$numberLong": "8363424282"
+  },
+  "fecha_consulta": {
+    "$date": "2025-04-11T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de cabeza",
+  "diagnostico": "Migraña",
+  "tratamiento": "Amoxicilina 20mg, cada 12 horas",
+  "medico_nombre": "Pepita Hervia Márquez",
+  "medico_especialidad": "Pediatría",
+  "id_profesional": "M608800",
+  "notas_adicionales": "Hidratación constante"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582491"
+  },
+  "id_paciente": {
+    "$numberLong": "4201991762"
+  },
+  "fecha_consulta": {
+    "$date": "2025-02-25T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de espalda",
+  "diagnostico": "Resfriado común",
+  "tratamiento": "Paracetamol 250mg, cada 12 horas",
+  "medico_nombre": "Armando Delgado Ortiz",
+  "medico_especialidad": "Medicina General",
+  "id_profesional": "M619908",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582492"
+  },
+  "id_paciente": {
+    "$numberLong": "8610296756"
+  },
+  "fecha_consulta": {
+    "$date": "2025-01-26T00:00:00.000Z"
+  },
+  "motivo_consulta": "Malestar general",
+  "diagnostico": "Gastritis",
+  "tratamiento": "Amoxicilina 250mg, una vez al día",
+  "medico_nombre": "Candelario Arnau Castell",
+  "medico_especialidad": "Pediatría",
+  "id_profesional": "M786763",
+  "notas_adicionales": "Evitar alimentos irritantes"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582493"
+  },
+  "id_paciente": {
+    "$numberLong": "6924837055"
+  },
+  "fecha_consulta": {
+    "$date": "2025-01-05T00:00:00.000Z"
+  },
+  "motivo_consulta": "Malestar general",
+  "diagnostico": "Migraña",
+  "tratamiento": "Omeprazol 20mg, una vez al día",
+  "medico_nombre": "Lázaro Rico Perelló",
+  "medico_especialidad": "Pediatría",
+  "id_profesional": "M893145",
+  "notas_adicionales": "Control en una semana"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582494"
+  },
+  "id_paciente": {
+    "$numberLong": "3678318397"
+  },
+  "fecha_consulta": {
+    "$date": "2025-03-16T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dificultad para respirar",
+  "diagnostico": "Migraña",
+  "tratamiento": "Omeprazol 250mg, una vez al día",
+  "medico_nombre": "María Pilar de Amigó",
+  "medico_especialidad": "Pediatría",
+  "id_profesional": "M258121",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582495"
+  },
+  "id_paciente": 867318690,
+  "fecha_consulta": {
+    "$date": "2025-01-10T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de espalda",
+  "diagnostico": "Bronquitis",
+  "tratamiento": "Omeprazol 500mg, una vez al día",
+  "medico_nombre": "Teresita Antón Quirós",
+  "medico_especialidad": "Pediatría",
+  "id_profesional": "M431333",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582496"
+  },
+  "id_paciente": {
+    "$numberLong": "9506320512"
+  },
+  "fecha_consulta": {
+    "$date": "2025-01-23T00:00:00.000Z"
+  },
+  "motivo_consulta": "Fiebre alta",
+  "diagnostico": "Gripe",
+  "tratamiento": "Amoxicilina 250mg, una vez al día",
+  "medico_nombre": "Anastasio Ale Abella Benavides",
+  "medico_especialidad": "Medicina Interna",
+  "id_profesional": "M564234",
+  "notas_adicionales": "Control en una semana"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582497"
+  },
+  "id_paciente": {
+    "$numberLong": "2907237822"
+  },
+  "fecha_consulta": {
+    "$date": "2025-01-30T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dificultad para respirar",
+  "diagnostico": "Migraña",
+  "tratamiento": "Omeprazol 500mg, cada 8 horas",
+  "medico_nombre": "Begoña del Gallardo",
+  "medico_especialidad": "Pediatría",
+  "id_profesional": "M231214",
+  "notas_adicionales": "Control en una semana"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582498"
+  },
+  "id_paciente": {
+    "$numberLong": "6519684868"
+  },
+  "fecha_consulta": {
+    "$date": "2025-03-24T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dificultad para respirar",
+  "diagnostico": "Infección urinaria",
+  "tratamiento": "Amoxicilina 250mg, una vez al día",
+  "medico_nombre": "Melania Río Oliver",
+  "medico_especialidad": "Gastroenterología",
+  "id_profesional": "M456600",
+  "notas_adicionales": "Evitar alimentos irritantes"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a72776582499"
+  },
+  "id_paciente": {
+    "$numberLong": "6708877617"
+  },
+  "fecha_consulta": {
+    "$date": "2025-01-04T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de cabeza",
+  "diagnostico": "Gripe",
+  "tratamiento": "Omeprazol 500mg, cada 8 horas",
+  "medico_nombre": "Kike Agudo Puig",
+  "medico_especialidad": "Pediatría",
+  "id_profesional": "M229245",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658249a"
+  },
+  "id_paciente": {
+    "$numberLong": "9362428139"
+  },
+  "fecha_consulta": {
+    "$date": "2025-02-23T00:00:00.000Z"
+  },
+  "motivo_consulta": "Fiebre alta",
+  "diagnostico": "Migraña",
+  "tratamiento": "Omeprazol 20mg, una vez al día",
+  "medico_nombre": "Nidia Aguilar-Montaña",
+  "medico_especialidad": "Pediatría",
+  "id_profesional": "M238414",
+  "notas_adicionales": "Evitar alimentos irritantes"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658249b"
+  },
+  "id_paciente": {
+    "$numberLong": "7201842165"
+  },
+  "fecha_consulta": {
+    "$date": "2025-03-01T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de cabeza",
+  "diagnostico": "Resfriado común",
+  "tratamiento": "Ibuprofeno 20mg, cada 12 horas",
+  "medico_nombre": "Daniela Barrios Caparrós",
+  "medico_especialidad": "Medicina General",
+  "id_profesional": "M363486",
+  "notas_adicionales": "Hidratación constante"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658249c"
+  },
+  "id_paciente": {
+    "$numberLong": "4478228394"
+  },
+  "fecha_consulta": {
+    "$date": "2025-01-30T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de espalda",
+  "diagnostico": "Gastritis",
+  "tratamiento": "Ibuprofeno 250mg, cada 12 horas",
+  "medico_nombre": "Luna Aguilar Pellicer",
+  "medico_especialidad": "Medicina Interna",
+  "id_profesional": "M649331",
+  "notas_adicionales": "Control en una semana"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658249d"
+  },
+  "id_paciente": {
+    "$numberLong": "5377451575"
+  },
+  "fecha_consulta": {
+    "$date": "2025-02-11T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dificultad para respirar",
+  "diagnostico": "Bronquitis",
+  "tratamiento": "Omeprazol 250mg, una vez al día",
+  "medico_nombre": "Fernanda Victoria Andrés Polo",
+  "medico_especialidad": "Gastroenterología",
+  "id_profesional": "M899658",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658249e"
+  },
+  "id_paciente": {
+    "$numberLong": "6098264404"
+  },
+  "fecha_consulta": {
+    "$date": "2025-02-11T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dificultad para respirar",
+  "diagnostico": "Gripe",
+  "tratamiento": "Amoxicilina 500mg, una vez al día",
+  "medico_nombre": "Isa Manjón Mesa",
+  "medico_especialidad": "Gastroenterología",
+  "id_profesional": "M924065",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a7277658249f"
+  },
+  "id_paciente": {
+    "$numberLong": "7241897815"
+  },
+  "fecha_consulta": {
+    "$date": "2025-01-14T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de cabeza",
+  "diagnostico": "Bronquitis",
+  "tratamiento": "Amoxicilina 250mg, una vez al día",
+  "medico_nombre": "Lina Mur Rosselló",
+  "medico_especialidad": "Gastroenterología",
+  "id_profesional": "M715561",
+  "notas_adicionales": "Hidratación constante"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a727765824a0"
+  },
+  "id_paciente": {
+    "$numberLong": "6275409857"
+  },
+  "fecha_consulta": {
+    "$date": "2025-04-20T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de cabeza",
+  "diagnostico": "Migraña",
+  "tratamiento": "Ibuprofeno 250mg, cada 12 horas",
+  "medico_nombre": "Felisa Mate",
+  "medico_especialidad": "Neurología",
+  "id_profesional": "M656092",
+  "notas_adicionales": "Control en una semana"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a727765824a1"
+  },
+  "id_paciente": 639045882,
+  "fecha_consulta": {
+    "$date": "2025-01-20T00:00:00.000Z"
+  },
+  "motivo_consulta": "Malestar general",
+  "diagnostico": "Bronquitis",
+  "tratamiento": "Ibuprofeno 500mg, una vez al día",
+  "medico_nombre": "Albino Evaristo Adadia Batlle",
+  "medico_especialidad": "Medicina Interna",
+  "id_profesional": "M264457",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a727765824a2"
+  },
+  "id_paciente": {
+    "$numberLong": "7044324629"
+  },
+  "fecha_consulta": {
+    "$date": "2025-04-07T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor abdominal",
+  "diagnostico": "Gastritis",
+  "tratamiento": "Amoxicilina 250mg, una vez al día",
+  "medico_nombre": "Evelia Guzmán Lillo",
+  "medico_especialidad": "Neurología",
+  "id_profesional": "M329961",
+  "notas_adicionales": "Evitar alimentos irritantes"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a727765824a3"
+  },
+  "id_paciente": 2028735421,
+  "fecha_consulta": {
+    "$date": "2025-01-24T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor muscular",
+  "diagnostico": "Infección urinaria",
+  "tratamiento": "Ibuprofeno 20mg, cada 12 horas",
+  "medico_nombre": "Josefina Márquez Lastra",
+  "medico_especialidad": "Gastroenterología",
+  "id_profesional": "M728076",
+  "notas_adicionales": "Control en una semana"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a727765824a4"
+  },
+  "id_paciente": 1870437973,
+  "fecha_consulta": {
+    "$date": "2025-04-02T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor en el pecho",
+  "diagnostico": "Gripe",
+  "tratamiento": "Amoxicilina 20mg, cada 8 horas",
+  "medico_nombre": "Jose Ramón Sans Álamo",
+  "medico_especialidad": "Medicina Interna",
+  "id_profesional": "M711112",
+  "notas_adicionales": "Control en una semana"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a727765824a5"
+  },
+  "id_paciente": 872909695,
+  "fecha_consulta": {
+    "$date": "2025-01-06T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor en el pecho",
+  "diagnostico": "Resfriado común",
+  "tratamiento": "Omeprazol 250mg, cada 12 horas",
+  "medico_nombre": "Clara Carro Mosquera",
+  "medico_especialidad": "Medicina General",
+  "id_profesional": "M743014",
+  "notas_adicionales": "Evitar alimentos irritantes"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a727765824a6"
+  },
+  "id_paciente": 968601198,
+  "fecha_consulta": {
+    "$date": "2025-04-11T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de cabeza",
+  "diagnostico": "Bronquitis",
+  "tratamiento": "Paracetamol 500mg, cada 12 horas",
+  "medico_nombre": "Cebrián Lledó Fábregas",
+  "medico_especialidad": "Gastroenterología",
+  "id_profesional": "M566738",
+  "notas_adicionales": "Control en una semana"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a727765824a7"
+  },
+  "id_paciente": {
+    "$numberLong": "6220740800"
+  },
+  "fecha_consulta": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor muscular",
+  "diagnostico": "Resfriado común",
+  "tratamiento": "Amoxicilina 20mg, una vez al día",
+  "medico_nombre": "Ileana de Ariza",
+  "medico_especialidad": "Neurología",
+  "id_profesional": "M146640",
+  "notas_adicionales": "Hidratación constante"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a727765824a8"
+  },
+  "id_paciente": {
+    "$numberLong": "6717481826"
+  },
+  "fecha_consulta": {
+    "$date": "2025-02-20T00:00:00.000Z"
+  },
+  "motivo_consulta": "Fiebre alta",
+  "diagnostico": "Bronquitis",
+  "tratamiento": "Omeprazol 20mg, cada 8 horas",
+  "medico_nombre": "Fito Solís Huerta",
+  "medico_especialidad": "Medicina General",
+  "id_profesional": "M433122",
+  "notas_adicionales": "Control en una semana"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a727765824a9"
+  },
+  "id_paciente": 226769591,
+  "fecha_consulta": {
+    "$date": "2025-01-28T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de espalda",
+  "diagnostico": "Infección urinaria",
+  "tratamiento": "Ibuprofeno 500mg, cada 8 horas",
+  "medico_nombre": "Nacho Peñas Coloma",
+  "medico_especialidad": "Pediatría",
+  "id_profesional": "M202078",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a727765824aa"
+  },
+  "id_paciente": {
+    "$numberLong": "9633412639"
+  },
+  "fecha_consulta": {
+    "$date": "2025-02-03T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de cabeza",
+  "diagnostico": "Resfriado común",
+  "tratamiento": "Paracetamol 20mg, cada 8 horas",
+  "medico_nombre": "Aureliano Zamora Ariño",
+  "medico_especialidad": "Pediatría",
+  "id_profesional": "M901218",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a727765824ab"
+  },
+  "id_paciente": {
+    "$numberLong": "5234348486"
+  },
+  "fecha_consulta": {
+    "$date": "2025-03-05T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de cabeza",
+  "diagnostico": "Resfriado común",
+  "tratamiento": "Amoxicilina 20mg, cada 8 horas",
+  "medico_nombre": "Luis Miguel Pareja Sola",
+  "medico_especialidad": "Pediatría",
+  "id_profesional": "M214805",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a727765824ac"
+  },
+  "id_paciente": {
+    "$numberLong": "4592878586"
+  },
+  "fecha_consulta": {
+    "$date": "2025-04-02T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dificultad para respirar",
+  "diagnostico": "Bronquitis",
+  "tratamiento": "Paracetamol 250mg, cada 8 horas",
+  "medico_nombre": "Primitivo Marcelo Trillo Cabello",
+  "medico_especialidad": "Medicina Interna",
+  "id_profesional": "M300848",
+  "notas_adicionales": "Evitar alimentos irritantes"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a727765824ad"
+  },
+  "id_paciente": 870234031,
+  "fecha_consulta": {
+    "$date": "2025-01-04T00:00:00.000Z"
+  },
+  "motivo_consulta": "Malestar general",
+  "diagnostico": "Resfriado común",
+  "tratamiento": "Paracetamol 250mg, cada 8 horas",
+  "medico_nombre": "Martina Reguera Querol",
+  "medico_especialidad": "Neurología",
+  "id_profesional": "M527585",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a727765824ae"
+  },
+  "id_paciente": 389425083,
+  "fecha_consulta": {
+    "$date": "2025-01-01T00:00:00.000Z"
+  },
+  "motivo_consulta": "Malestar general",
+  "diagnostico": "Resfriado común",
+  "tratamiento": "Paracetamol 250mg, cada 8 horas",
+  "medico_nombre": "Feliciana Castro Pintor",
+  "medico_especialidad": "Pediatría",
+  "id_profesional": "M809618",
+  "notas_adicionales": "Hidratación constante"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a727765824af"
+  },
+  "id_paciente": {
+    "$numberLong": "3519424958"
+  },
+  "fecha_consulta": {
+    "$date": "2025-01-01T00:00:00.000Z"
+  },
+  "motivo_consulta": "Fiebre alta",
+  "diagnostico": "Bronquitis",
+  "tratamiento": "Omeprazol 500mg, cada 8 horas",
+  "medico_nombre": "Carmen de Osuna",
+  "medico_especialidad": "Medicina Interna",
+  "id_profesional": "M291683",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a727765824b0"
+  },
+  "id_paciente": 1050681703,
+  "fecha_consulta": {
+    "$date": "2025-01-26T00:00:00.000Z"
+  },
+  "motivo_consulta": "Fiebre alta",
+  "diagnostico": "Gripe",
+  "tratamiento": "Omeprazol 20mg, cada 8 horas",
+  "medico_nombre": "Cloe Roura Romero",
+  "medico_especialidad": "Neurología",
+  "id_profesional": "M897343",
+  "notas_adicionales": "Hidratación constante"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a727765824b1"
+  },
+  "id_paciente": {
+    "$numberLong": "5037599504"
+  },
+  "fecha_consulta": {
+    "$date": "2025-04-01T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de espalda",
+  "diagnostico": "Gripe",
+  "tratamiento": "Ibuprofeno 20mg, cada 12 horas",
+  "medico_nombre": "Jose Ignacio Torrijos Pedro",
+  "medico_especialidad": "Medicina Interna",
+  "id_profesional": "M166484",
+  "notas_adicionales": "Hidratación constante"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a727765824b2"
+  },
+  "id_paciente": {
+    "$numberLong": "6930277399"
+  },
+  "fecha_consulta": {
+    "$date": "2025-02-26T00:00:00.000Z"
+  },
+  "motivo_consulta": "Malestar general",
+  "diagnostico": "Bronquitis",
+  "tratamiento": "Omeprazol 250mg, cada 12 horas",
+  "medico_nombre": "Marta Oller-Navas",
+  "medico_especialidad": "Medicina Interna",
+  "id_profesional": "M487551",
+  "notas_adicionales": "Hidratación constante"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a727765824b3"
+  },
+  "id_paciente": 1122002628,
+  "fecha_consulta": {
+    "$date": "2025-02-22T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor de espalda",
+  "diagnostico": "Infección urinaria",
+  "tratamiento": "Amoxicilina 500mg, cada 8 horas",
+  "medico_nombre": "Rosendo Blanca Castro",
+  "medico_especialidad": "Gastroenterología",
+  "id_profesional": "M690778",
+  "notas_adicionales": "Evitar alimentos irritantes"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a727765824b4"
+  },
+  "id_paciente": {
+    "$numberLong": "4635140855"
+  },
+  "fecha_consulta": {
+    "$date": "2025-02-13T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor abdominal",
+  "diagnostico": "Resfriado común",
+  "tratamiento": "Omeprazol 20mg, cada 8 horas",
+  "medico_nombre": "Celso Arsenio Serna Roda",
+  "medico_especialidad": "Pediatría",
+  "id_profesional": "M560903",
+  "notas_adicionales": "Se recomienda reposo"
+},
+{
+  "_id": {
+    "$oid": "6808204f1ef7a727765824b5"
+  },
+  "id_paciente": {
+    "$numberLong": "6704297411"
+  },
+  "fecha_consulta": {
+    "$date": "2025-03-11T00:00:00.000Z"
+  },
+  "motivo_consulta": "Dolor muscular",
+  "diagnostico": "Gastritis",
+  "tratamiento": "Amoxicilina 20mg, una vez al día",
+  "medico_nombre": "Nazaret Casanovas Perera",
+  "medico_especialidad": "Gastroenterología",
+  "id_profesional": "M522642",
+  "notas_adicionales": "Hidratación constante"
+}]

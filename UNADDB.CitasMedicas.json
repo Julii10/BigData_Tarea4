@@ -1,0 +1,1662 @@
+[{
+  "_id": {
+    "$oid": "6808296b1ef7a72776582582"
+  },
+  "id_paciente": {
+    "$numberLong": "8918476334"
+  },
+  "fecha_cita": {
+    "$date": "2025-02-23T00:00:00.000Z"
+  },
+  "hora_cita": "17:58:27",
+  "medico_nombre": "Odalis Ramirez-Velasco",
+  "medico_especialidad": "Dermatología",
+  "id_medico": "M301381",
+  "motivo_cita": "Examen de rutina",
+  "notas_adicionales": "Se recomienda realizar estudios adicionales"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a72776582583"
+  },
+  "id_paciente": {
+    "$numberLong": "5871829850"
+  },
+  "fecha_cita": {
+    "$date": "2025-02-16T00:00:00.000Z"
+  },
+  "hora_cita": "21:31:43",
+  "medico_nombre": "Lope Arnaiz",
+  "medico_especialidad": "Odontología",
+  "id_medico": "M113576",
+  "motivo_cita": "Consulta por dolor abdominal",
+  "notas_adicionales": "Se recomienda realizar estudios adicionales"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a72776582584"
+  },
+  "id_paciente": {
+    "$numberLong": "7546708580"
+  },
+  "fecha_cita": {
+    "$date": "2025-01-08T00:00:00.000Z"
+  },
+  "hora_cita": "03:26:51",
+  "medico_nombre": "Toño Carrasco Santos",
+  "medico_especialidad": "Ginecología",
+  "id_medico": "M803255",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "Se recomienda realizar estudios adicionales"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a72776582585"
+  },
+  "id_paciente": 1587666930,
+  "fecha_cita": {
+    "$date": "2025-01-29T00:00:00.000Z"
+  },
+  "hora_cita": "22:22:36",
+  "medico_nombre": "Gervasio Cal Infante",
+  "medico_especialidad": "Pediatría",
+  "id_medico": "M522463",
+  "motivo_cita": "Consulta por dolor abdominal",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a72776582586"
+  },
+  "id_paciente": {
+    "$numberLong": "9621670715"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-05T00:00:00.000Z"
+  },
+  "hora_cita": "22:27:23",
+  "medico_nombre": "Bernardino Mendoza Castejón",
+  "medico_especialidad": "Odontología",
+  "id_medico": "M330401",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a72776582587"
+  },
+  "id_paciente": {
+    "$numberLong": "2438886763"
+  },
+  "fecha_cita": {
+    "$date": "2025-01-22T00:00:00.000Z"
+  },
+  "hora_cita": "07:06:42",
+  "medico_nombre": "Cebrián Montesinos Abril",
+  "medico_especialidad": "Cardiología",
+  "id_medico": "M472070",
+  "motivo_cita": "Control postquirúrgico",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a72776582588"
+  },
+  "id_paciente": 1085044612,
+  "fecha_cita": {
+    "$date": "2025-02-25T00:00:00.000Z"
+  },
+  "hora_cita": "04:51:21",
+  "medico_nombre": "Eulalia Malo Tejada",
+  "medico_especialidad": "Dermatología",
+  "id_medico": "M392062",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "Se recomienda realizar estudios adicionales"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a72776582589"
+  },
+  "id_paciente": {
+    "$numberLong": "5173108425"
+  },
+  "fecha_cita": {
+    "$date": "2025-04-11T00:00:00.000Z"
+  },
+  "hora_cita": "18:01:59",
+  "medico_nombre": "Eladio Alvarado-Leal",
+  "medico_especialidad": "Dermatología",
+  "id_medico": "M175087",
+  "motivo_cita": "Examen de rutina",
+  "notas_adicionales": "Realizar examen de sangre"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a7277658258a"
+  },
+  "id_paciente": {
+    "$numberLong": "6018960170"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-10T00:00:00.000Z"
+  },
+  "hora_cita": "11:06:33",
+  "medico_nombre": "Fabián Segarra Martín",
+  "medico_especialidad": "Ginecología",
+  "id_medico": "M355770",
+  "motivo_cita": "Revisión anual",
+  "notas_adicionales": "Se recomienda realizar estudios adicionales"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a7277658258b"
+  },
+  "id_paciente": {
+    "$numberLong": "5854851828"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-11T00:00:00.000Z"
+  },
+  "hora_cita": "04:27:26",
+  "medico_nombre": "Toni Leonardo Gil Cepeda",
+  "medico_especialidad": "Ginecología",
+  "id_medico": "M968584",
+  "motivo_cita": "Revisión anual",
+  "notas_adicionales": "Realizar examen de sangre"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a7277658258c"
+  },
+  "id_paciente": 809664124,
+  "fecha_cita": {
+    "$date": "2025-04-21T00:00:00.000Z"
+  },
+  "hora_cita": "02:13:30",
+  "medico_nombre": "Cleto Arnal Marquez",
+  "medico_especialidad": "Pediatría",
+  "id_medico": "M477481",
+  "motivo_cita": "Examen de rutina",
+  "notas_adicionales": "Se recomienda realizar estudios adicionales"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a7277658258d"
+  },
+  "id_paciente": {
+    "$numberLong": "3314602220"
+  },
+  "fecha_cita": {
+    "$date": "2025-04-18T00:00:00.000Z"
+  },
+  "hora_cita": "20:55:18",
+  "medico_nombre": "Dimas Bastida Catalá",
+  "medico_especialidad": "Ginecología",
+  "id_medico": "M269456",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "Se recomienda realizar estudios adicionales"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a7277658258e"
+  },
+  "id_paciente": 488629010,
+  "fecha_cita": {
+    "$date": "2025-03-04T00:00:00.000Z"
+  },
+  "hora_cita": "17:35:59",
+  "medico_nombre": "Dimas Giménez Atienza",
+  "medico_especialidad": "Ginecología",
+  "id_medico": "M845841",
+  "motivo_cita": "Consulta por dolor abdominal",
+  "notas_adicionales": "Se recomienda realizar estudios adicionales"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a7277658258f"
+  },
+  "id_paciente": {
+    "$numberLong": "6597219181"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-20T00:00:00.000Z"
+  },
+  "hora_cita": "16:35:46",
+  "medico_nombre": "Florentina Saez Mur",
+  "medico_especialidad": "Odontología",
+  "id_medico": "M510875",
+  "motivo_cita": "Revisión anual",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a72776582590"
+  },
+  "id_paciente": {
+    "$numberLong": "5753162704"
+  },
+  "fecha_cita": {
+    "$date": "2025-02-28T00:00:00.000Z"
+  },
+  "hora_cita": "04:13:44",
+  "medico_nombre": "Héctor Pavón",
+  "medico_especialidad": "Odontología",
+  "id_medico": "M262687",
+  "motivo_cita": "Control postquirúrgico",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a72776582591"
+  },
+  "id_paciente": {
+    "$numberLong": "7955486587"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-10T00:00:00.000Z"
+  },
+  "hora_cita": "20:15:54",
+  "medico_nombre": "Griselda Eusebia Yuste Asenjo",
+  "medico_especialidad": "Cardiología",
+  "id_medico": "M967130",
+  "motivo_cita": "Examen de rutina",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a72776582592"
+  },
+  "id_paciente": {
+    "$numberLong": "4735983430"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-22T00:00:00.000Z"
+  },
+  "hora_cita": "08:51:03",
+  "medico_nombre": "Heraclio Abella Benitez",
+  "medico_especialidad": "Cardiología",
+  "id_medico": "M159678",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "Se recomienda realizar estudios adicionales"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a72776582593"
+  },
+  "id_paciente": 1905754977,
+  "fecha_cita": {
+    "$date": "2025-03-03T00:00:00.000Z"
+  },
+  "hora_cita": "00:23:22",
+  "medico_nombre": "Tatiana del Torrijos",
+  "medico_especialidad": "Odontología",
+  "id_medico": "M661990",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a72776582594"
+  },
+  "id_paciente": {
+    "$numberLong": "9236445761"
+  },
+  "fecha_cita": {
+    "$date": "2025-01-05T00:00:00.000Z"
+  },
+  "hora_cita": "10:52:21",
+  "medico_nombre": "Carlos Rosales Alarcón",
+  "medico_especialidad": "Ginecología",
+  "id_medico": "M545864",
+  "motivo_cita": "Consulta por dolor abdominal",
+  "notas_adicionales": "Realizar examen de sangre"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a72776582595"
+  },
+  "id_paciente": {
+    "$numberLong": "7394458462"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-09T00:00:00.000Z"
+  },
+  "hora_cita": "17:16:11",
+  "medico_nombre": "Morena Viñas Boada",
+  "medico_especialidad": "Pediatría",
+  "id_medico": "M183690",
+  "motivo_cita": "Control postquirúrgico",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a72776582596"
+  },
+  "id_paciente": {
+    "$numberLong": "3038085698"
+  },
+  "fecha_cita": {
+    "$date": "2025-04-08T00:00:00.000Z"
+  },
+  "hora_cita": "19:09:44",
+  "medico_nombre": "Juana Tovar-Sandoval",
+  "medico_especialidad": "Cardiología",
+  "id_medico": "M305711",
+  "motivo_cita": "Revisión anual",
+  "notas_adicionales": "Realizar examen de sangre"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a72776582597"
+  },
+  "id_paciente": {
+    "$numberLong": "6552606425"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-13T00:00:00.000Z"
+  },
+  "hora_cita": "15:14:29",
+  "medico_nombre": "Delfina Mayol",
+  "medico_especialidad": "Ginecología",
+  "id_medico": "M568574",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a72776582598"
+  },
+  "id_paciente": {
+    "$numberLong": "9724620192"
+  },
+  "fecha_cita": {
+    "$date": "2025-02-21T00:00:00.000Z"
+  },
+  "hora_cita": "03:33:54",
+  "medico_nombre": "Pili Grande Barbero",
+  "medico_especialidad": "Odontología",
+  "id_medico": "M834995",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "Realizar examen de sangre"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a72776582599"
+  },
+  "id_paciente": 552411400,
+  "fecha_cita": {
+    "$date": "2025-03-06T00:00:00.000Z"
+  },
+  "hora_cita": "02:22:04",
+  "medico_nombre": "Sofía Pellicer Cervantes",
+  "medico_especialidad": "Pediatría",
+  "id_medico": "M125958",
+  "motivo_cita": "Revisión anual",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a7277658259a"
+  },
+  "id_paciente": {
+    "$numberLong": "4977469291"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-08T00:00:00.000Z"
+  },
+  "hora_cita": "07:01:09",
+  "medico_nombre": "Eulalia Vilaplana Olmo",
+  "medico_especialidad": "Ginecología",
+  "id_medico": "M140368",
+  "motivo_cita": "Control postquirúrgico",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a7277658259b"
+  },
+  "id_paciente": {
+    "$numberLong": "2844238603"
+  },
+  "fecha_cita": {
+    "$date": "2025-01-13T00:00:00.000Z"
+  },
+  "hora_cita": "11:32:28",
+  "medico_nombre": "Macario Benítez Rocamora",
+  "medico_especialidad": "Ginecología",
+  "id_medico": "M361234",
+  "motivo_cita": "Consulta por dolor abdominal",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a7277658259c"
+  },
+  "id_paciente": {
+    "$numberLong": "5443267901"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-31T00:00:00.000Z"
+  },
+  "hora_cita": "01:38:31",
+  "medico_nombre": "Desiderio Sosa Ros",
+  "medico_especialidad": "Cardiología",
+  "id_medico": "M439254",
+  "motivo_cita": "Control postquirúrgico",
+  "notas_adicionales": "Realizar examen de sangre"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a7277658259d"
+  },
+  "id_paciente": {
+    "$numberLong": "3792657629"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-18T00:00:00.000Z"
+  },
+  "hora_cita": "07:56:58",
+  "medico_nombre": "Cintia Granados Puga",
+  "medico_especialidad": "Ginecología",
+  "id_medico": "M411329",
+  "motivo_cita": "Consulta por dolor abdominal",
+  "notas_adicionales": "Se recomienda realizar estudios adicionales"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a7277658259e"
+  },
+  "id_paciente": {
+    "$numberLong": "9159139717"
+  },
+  "fecha_cita": {
+    "$date": "2025-02-22T00:00:00.000Z"
+  },
+  "hora_cita": "17:38:30",
+  "medico_nombre": "Macario Anaya Vilaplana",
+  "medico_especialidad": "Odontología",
+  "id_medico": "M855610",
+  "motivo_cita": "Control postquirúrgico",
+  "notas_adicionales": "Realizar examen de sangre"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a7277658259f"
+  },
+  "id_paciente": {
+    "$numberLong": "3605861582"
+  },
+  "fecha_cita": {
+    "$date": "2025-01-16T00:00:00.000Z"
+  },
+  "hora_cita": "03:07:45",
+  "medico_nombre": "Encarnita Franch Lago",
+  "medico_especialidad": "Dermatología",
+  "id_medico": "M939993",
+  "motivo_cita": "Control postquirúrgico",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825a0"
+  },
+  "id_paciente": {
+    "$numberLong": "4798080570"
+  },
+  "fecha_cita": {
+    "$date": "2025-04-15T00:00:00.000Z"
+  },
+  "hora_cita": "20:52:39",
+  "medico_nombre": "Demetrio Valenciano-Segura",
+  "medico_especialidad": "Odontología",
+  "id_medico": "M736442",
+  "motivo_cita": "Revisión anual",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825a1"
+  },
+  "id_paciente": 585772320,
+  "fecha_cita": {
+    "$date": "2025-01-02T00:00:00.000Z"
+  },
+  "hora_cita": "20:59:56",
+  "medico_nombre": "Ceferino Alemany-Amo",
+  "medico_especialidad": "Cardiología",
+  "id_medico": "M420910",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825a2"
+  },
+  "id_paciente": {
+    "$numberLong": "3946913654"
+  },
+  "fecha_cita": {
+    "$date": "2025-02-21T00:00:00.000Z"
+  },
+  "hora_cita": "15:54:23",
+  "medico_nombre": "Gerardo Iriarte Castejón",
+  "medico_especialidad": "Ginecología",
+  "id_medico": "M781798",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "Realizar examen de sangre"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825a3"
+  },
+  "id_paciente": {
+    "$numberLong": "8592465569"
+  },
+  "fecha_cita": {
+    "$date": "2025-01-18T00:00:00.000Z"
+  },
+  "hora_cita": "22:19:26",
+  "medico_nombre": "Leonor Donoso Bustos",
+  "medico_especialidad": "Odontología",
+  "id_medico": "M727600",
+  "motivo_cita": "Consulta por dolor abdominal",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825a4"
+  },
+  "id_paciente": {
+    "$numberLong": "7708566915"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-19T00:00:00.000Z"
+  },
+  "hora_cita": "05:59:34",
+  "medico_nombre": "Lorenza Hierro Baró",
+  "medico_especialidad": "Ginecología",
+  "id_medico": "M205132",
+  "motivo_cita": "Revisión anual",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825a5"
+  },
+  "id_paciente": {
+    "$numberLong": "2215417955"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-26T00:00:00.000Z"
+  },
+  "hora_cita": "00:13:08",
+  "medico_nombre": "Maxi Ximena Sola Amores",
+  "medico_especialidad": "Cardiología",
+  "id_medico": "M333454",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "Se recomienda realizar estudios adicionales"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825a6"
+  },
+  "id_paciente": 714303613,
+  "fecha_cita": {
+    "$date": "2025-02-20T00:00:00.000Z"
+  },
+  "hora_cita": "02:20:06",
+  "medico_nombre": "Anabel del Ballester",
+  "medico_especialidad": "Ginecología",
+  "id_medico": "M335301",
+  "motivo_cita": "Examen de rutina",
+  "notas_adicionales": "Se recomienda realizar estudios adicionales"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825a7"
+  },
+  "id_paciente": {
+    "$numberLong": "8861313140"
+  },
+  "fecha_cita": {
+    "$date": "2025-01-16T00:00:00.000Z"
+  },
+  "hora_cita": "12:58:34",
+  "medico_nombre": "Macarena de Acero",
+  "medico_especialidad": "Dermatología",
+  "id_medico": "M239646",
+  "motivo_cita": "Consulta por dolor abdominal",
+  "notas_adicionales": "Realizar examen de sangre"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825a8"
+  },
+  "id_paciente": {
+    "$numberLong": "8270834248"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-12T00:00:00.000Z"
+  },
+  "hora_cita": "09:50:26",
+  "medico_nombre": "Eustaquio Torralba Pujol",
+  "medico_especialidad": "Odontología",
+  "id_medico": "M709861",
+  "motivo_cita": "Control postquirúrgico",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825a9"
+  },
+  "id_paciente": {
+    "$numberLong": "6437868205"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-14T00:00:00.000Z"
+  },
+  "hora_cita": "11:28:38",
+  "medico_nombre": "Plácido Escrivá Rivero",
+  "medico_especialidad": "Ginecología",
+  "id_medico": "M391543",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "Realizar examen de sangre"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825aa"
+  },
+  "id_paciente": {
+    "$numberLong": "8686139659"
+  },
+  "fecha_cita": {
+    "$date": "2025-04-20T00:00:00.000Z"
+  },
+  "hora_cita": "22:46:47",
+  "medico_nombre": "Loida Tejada-Oller",
+  "medico_especialidad": "Cardiología",
+  "id_medico": "M872384",
+  "motivo_cita": "Revisión anual",
+  "notas_adicionales": "Realizar examen de sangre"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825ab"
+  },
+  "id_paciente": {
+    "$numberLong": "4859741630"
+  },
+  "fecha_cita": {
+    "$date": "2025-02-22T00:00:00.000Z"
+  },
+  "hora_cita": "19:47:46",
+  "medico_nombre": "Pascual Sáenz",
+  "medico_especialidad": "Pediatría",
+  "id_medico": "M878291",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825ac"
+  },
+  "id_paciente": {
+    "$numberLong": "3064731715"
+  },
+  "fecha_cita": {
+    "$date": "2025-02-16T00:00:00.000Z"
+  },
+  "hora_cita": "08:06:28",
+  "medico_nombre": "Ramiro Conesa Casal",
+  "medico_especialidad": "Cardiología",
+  "id_medico": "M292450",
+  "motivo_cita": "Control postquirúrgico",
+  "notas_adicionales": "Realizar examen de sangre"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825ad"
+  },
+  "id_paciente": 312209543,
+  "fecha_cita": {
+    "$date": "2025-03-23T00:00:00.000Z"
+  },
+  "hora_cita": "14:09:30",
+  "medico_nombre": "Jordán del Villaverde",
+  "medico_especialidad": "Pediatría",
+  "id_medico": "M820367",
+  "motivo_cita": "Consulta por dolor abdominal",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825ae"
+  },
+  "id_paciente": {
+    "$numberLong": "3896026360"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-17T00:00:00.000Z"
+  },
+  "hora_cita": "15:50:02",
+  "medico_nombre": "Ariel Robles Cepeda",
+  "medico_especialidad": "Pediatría",
+  "id_medico": "M417645",
+  "motivo_cita": "Examen de rutina",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825af"
+  },
+  "id_paciente": {
+    "$numberLong": "2512863573"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-07T00:00:00.000Z"
+  },
+  "hora_cita": "02:57:52",
+  "medico_nombre": "Verónica Valle Delgado",
+  "medico_especialidad": "Ginecología",
+  "id_medico": "M708526",
+  "motivo_cita": "Consulta por dolor abdominal",
+  "notas_adicionales": "Se recomienda realizar estudios adicionales"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825b0"
+  },
+  "id_paciente": 1884884695,
+  "fecha_cita": {
+    "$date": "2025-01-20T00:00:00.000Z"
+  },
+  "hora_cita": "21:26:56",
+  "medico_nombre": "Gil León Pagès Rosell",
+  "medico_especialidad": "Ginecología",
+  "id_medico": "M153836",
+  "motivo_cita": "Revisión anual",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825b1"
+  },
+  "id_paciente": {
+    "$numberLong": "3980063472"
+  },
+  "fecha_cita": {
+    "$date": "2025-02-13T00:00:00.000Z"
+  },
+  "hora_cita": "09:34:50",
+  "medico_nombre": "Gilberto Monreal Escudero",
+  "medico_especialidad": "Cardiología",
+  "id_medico": "M970575",
+  "motivo_cita": "Control postquirúrgico",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825b2"
+  },
+  "id_paciente": {
+    "$numberLong": "5094257097"
+  },
+  "fecha_cita": {
+    "$date": "2025-01-27T00:00:00.000Z"
+  },
+  "hora_cita": "16:06:52",
+  "medico_nombre": "Lucila Arroyo-Garcia",
+  "medico_especialidad": "Ginecología",
+  "id_medico": "M230383",
+  "motivo_cita": "Control postquirúrgico",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825b3"
+  },
+  "id_paciente": {
+    "$numberLong": "5882931319"
+  },
+  "fecha_cita": {
+    "$date": "2025-01-27T00:00:00.000Z"
+  },
+  "hora_cita": "13:52:47",
+  "medico_nombre": "Serafina Cal Fábregas",
+  "medico_especialidad": "Dermatología",
+  "id_medico": "M671877",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "Realizar examen de sangre"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825b4"
+  },
+  "id_paciente": {
+    "$numberLong": "2740848894"
+  },
+  "fecha_cita": {
+    "$date": "2025-01-25T00:00:00.000Z"
+  },
+  "hora_cita": "14:04:04",
+  "medico_nombre": "Jordán Hervás Carrillo",
+  "medico_especialidad": "Dermatología",
+  "id_medico": "M496736",
+  "motivo_cita": "Consulta por dolor abdominal",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825b5"
+  },
+  "id_paciente": 2126229361,
+  "fecha_cita": {
+    "$date": "2025-03-23T00:00:00.000Z"
+  },
+  "hora_cita": "09:17:45",
+  "medico_nombre": "Chema Adán Nogués Carretero",
+  "medico_especialidad": "Odontología",
+  "id_medico": "M364693",
+  "motivo_cita": "Consulta por dolor abdominal",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825b6"
+  },
+  "id_paciente": {
+    "$numberLong": "3990100832"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-18T00:00:00.000Z"
+  },
+  "hora_cita": "07:57:13",
+  "medico_nombre": "Maribel Múñiz Mora",
+  "medico_especialidad": "Cardiología",
+  "id_medico": "M444772",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825b7"
+  },
+  "id_paciente": {
+    "$numberLong": "4663191309"
+  },
+  "fecha_cita": {
+    "$date": "2025-02-26T00:00:00.000Z"
+  },
+  "hora_cita": "02:43:05",
+  "medico_nombre": "Berto Duran Poza",
+  "medico_especialidad": "Ginecología",
+  "id_medico": "M139861",
+  "motivo_cita": "Control postquirúrgico",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825b8"
+  },
+  "id_paciente": {
+    "$numberLong": "4149705967"
+  },
+  "fecha_cita": {
+    "$date": "2025-04-13T00:00:00.000Z"
+  },
+  "hora_cita": "23:22:48",
+  "medico_nombre": "Mayte de Ibañez",
+  "medico_especialidad": "Odontología",
+  "id_medico": "M502506",
+  "motivo_cita": "Examen de rutina",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825b9"
+  },
+  "id_paciente": {
+    "$numberLong": "7115405936"
+  },
+  "fecha_cita": {
+    "$date": "2025-01-20T00:00:00.000Z"
+  },
+  "hora_cita": "06:32:04",
+  "medico_nombre": "Nydia Alcántara Beltran",
+  "medico_especialidad": "Cardiología",
+  "id_medico": "M422600",
+  "motivo_cita": "Control postquirúrgico",
+  "notas_adicionales": "Se recomienda realizar estudios adicionales"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825ba"
+  },
+  "id_paciente": {
+    "$numberLong": "8071205087"
+  },
+  "fecha_cita": {
+    "$date": "2025-01-15T00:00:00.000Z"
+  },
+  "hora_cita": "22:21:25",
+  "medico_nombre": "Nando Jose Francisco Reina Cerezo",
+  "medico_especialidad": "Odontología",
+  "id_medico": "M824640",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825bb"
+  },
+  "id_paciente": {
+    "$numberLong": "8567662259"
+  },
+  "fecha_cita": {
+    "$date": "2025-01-04T00:00:00.000Z"
+  },
+  "hora_cita": "08:27:25",
+  "medico_nombre": "Miguela Caballero Verdú",
+  "medico_especialidad": "Pediatría",
+  "id_medico": "M342378",
+  "motivo_cita": "Control postquirúrgico",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825bc"
+  },
+  "id_paciente": {
+    "$numberLong": "6900809990"
+  },
+  "fecha_cita": {
+    "$date": "2025-02-09T00:00:00.000Z"
+  },
+  "hora_cita": "13:11:49",
+  "medico_nombre": "Pánfilo Seguí-Sabater",
+  "medico_especialidad": "Cardiología",
+  "id_medico": "M104939",
+  "motivo_cita": "Control postquirúrgico",
+  "notas_adicionales": "Realizar examen de sangre"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825bd"
+  },
+  "id_paciente": {
+    "$numberLong": "5883052543"
+  },
+  "fecha_cita": {
+    "$date": "2025-01-01T00:00:00.000Z"
+  },
+  "hora_cita": "11:14:12",
+  "medico_nombre": "Celia Echevarría",
+  "medico_especialidad": "Ginecología",
+  "id_medico": "M285914",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "Se recomienda realizar estudios adicionales"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825be"
+  },
+  "id_paciente": {
+    "$numberLong": "9663436107"
+  },
+  "fecha_cita": {
+    "$date": "2025-01-04T00:00:00.000Z"
+  },
+  "hora_cita": "11:53:35",
+  "medico_nombre": "Estela del Mendez",
+  "medico_especialidad": "Cardiología",
+  "id_medico": "M103337",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825bf"
+  },
+  "id_paciente": {
+    "$numberLong": "7000444904"
+  },
+  "fecha_cita": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "hora_cita": "18:25:34",
+  "medico_nombre": "Ambrosio Noriega Jerez",
+  "medico_especialidad": "Ginecología",
+  "id_medico": "M347049",
+  "motivo_cita": "Revisión anual",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825c0"
+  },
+  "id_paciente": {
+    "$numberLong": "9950936505"
+  },
+  "fecha_cita": {
+    "$date": "2025-02-05T00:00:00.000Z"
+  },
+  "hora_cita": "07:18:52",
+  "medico_nombre": "Ulises Farré Martí",
+  "medico_especialidad": "Ginecología",
+  "id_medico": "M558183",
+  "motivo_cita": "Consulta por dolor abdominal",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825c1"
+  },
+  "id_paciente": {
+    "$numberLong": "6071215877"
+  },
+  "fecha_cita": {
+    "$date": "2025-02-09T00:00:00.000Z"
+  },
+  "hora_cita": "18:36:15",
+  "medico_nombre": "Florencia Marti Vallés",
+  "medico_especialidad": "Ginecología",
+  "id_medico": "M971600",
+  "motivo_cita": "Control postquirúrgico",
+  "notas_adicionales": "Realizar examen de sangre"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825c2"
+  },
+  "id_paciente": {
+    "$numberLong": "4685223643"
+  },
+  "fecha_cita": {
+    "$date": "2025-02-22T00:00:00.000Z"
+  },
+  "hora_cita": "07:45:08",
+  "medico_nombre": "Bienvenida Jódar Borja",
+  "medico_especialidad": "Pediatría",
+  "id_medico": "M680275",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825c3"
+  },
+  "id_paciente": {
+    "$numberLong": "3151889633"
+  },
+  "fecha_cita": {
+    "$date": "2025-01-16T00:00:00.000Z"
+  },
+  "hora_cita": "09:19:13",
+  "medico_nombre": "Merche Fernández Cañas",
+  "medico_especialidad": "Cardiología",
+  "id_medico": "M303331",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "Se recomienda realizar estudios adicionales"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825c4"
+  },
+  "id_paciente": {
+    "$numberLong": "8554286044"
+  },
+  "fecha_cita": {
+    "$date": "2025-04-12T00:00:00.000Z"
+  },
+  "hora_cita": "22:14:33",
+  "medico_nombre": "Juan Carlos Sobrino Malo",
+  "medico_especialidad": "Odontología",
+  "id_medico": "M850721",
+  "motivo_cita": "Control postquirúrgico",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825c5"
+  },
+  "id_paciente": {
+    "$numberLong": "8658182057"
+  },
+  "fecha_cita": {
+    "$date": "2025-01-22T00:00:00.000Z"
+  },
+  "hora_cita": "18:34:38",
+  "medico_nombre": "Alejandra Campo-Cid",
+  "medico_especialidad": "Dermatología",
+  "id_medico": "M905305",
+  "motivo_cita": "Revisión anual",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825c6"
+  },
+  "id_paciente": {
+    "$numberLong": "3500901885"
+  },
+  "fecha_cita": {
+    "$date": "2025-04-21T00:00:00.000Z"
+  },
+  "hora_cita": "06:32:30",
+  "medico_nombre": "Armida Martin Llobet",
+  "medico_especialidad": "Odontología",
+  "id_medico": "M637636",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825c7"
+  },
+  "id_paciente": {
+    "$numberLong": "7299573094"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-10T00:00:00.000Z"
+  },
+  "hora_cita": "16:34:54",
+  "medico_nombre": "Alma Ballester Lladó",
+  "medico_especialidad": "Pediatría",
+  "id_medico": "M915714",
+  "motivo_cita": "Examen de rutina",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825c8"
+  },
+  "id_paciente": {
+    "$numberLong": "4112259726"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-22T00:00:00.000Z"
+  },
+  "hora_cita": "03:15:42",
+  "medico_nombre": "Alejandra Salgado Gomila",
+  "medico_especialidad": "Cardiología",
+  "id_medico": "M562201",
+  "motivo_cita": "Revisión anual",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825c9"
+  },
+  "id_paciente": {
+    "$numberLong": "6378765564"
+  },
+  "fecha_cita": {
+    "$date": "2025-01-10T00:00:00.000Z"
+  },
+  "hora_cita": "23:17:45",
+  "medico_nombre": "Rosenda Pinedo Valls",
+  "medico_especialidad": "Odontología",
+  "id_medico": "M955621",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825ca"
+  },
+  "id_paciente": 1676460345,
+  "fecha_cita": {
+    "$date": "2025-03-06T00:00:00.000Z"
+  },
+  "hora_cita": "01:49:32",
+  "medico_nombre": "Sofía Baños Sanjuan",
+  "medico_especialidad": "Cardiología",
+  "id_medico": "M522921",
+  "motivo_cita": "Examen de rutina",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825cb"
+  },
+  "id_paciente": {
+    "$numberLong": "8948573898"
+  },
+  "fecha_cita": {
+    "$date": "2025-01-15T00:00:00.000Z"
+  },
+  "hora_cita": "06:36:20",
+  "medico_nombre": "Rafaela Moliner Calderon",
+  "medico_especialidad": "Dermatología",
+  "id_medico": "M681497",
+  "motivo_cita": "Control postquirúrgico",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825cc"
+  },
+  "id_paciente": 950496830,
+  "fecha_cita": {
+    "$date": "2025-04-14T00:00:00.000Z"
+  },
+  "hora_cita": "08:15:56",
+  "medico_nombre": "Pío Roque Ballester Plana",
+  "medico_especialidad": "Pediatría",
+  "id_medico": "M641183",
+  "motivo_cita": "Control postquirúrgico",
+  "notas_adicionales": "Se recomienda realizar estudios adicionales"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825cd"
+  },
+  "id_paciente": {
+    "$numberLong": "3508900689"
+  },
+  "fecha_cita": {
+    "$date": "2025-01-23T00:00:00.000Z"
+  },
+  "hora_cita": "20:25:27",
+  "medico_nombre": "Jordi Manzanares Carmona",
+  "medico_especialidad": "Pediatría",
+  "id_medico": "M407612",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825ce"
+  },
+  "id_paciente": {
+    "$numberLong": "5286934570"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-03T00:00:00.000Z"
+  },
+  "hora_cita": "09:33:48",
+  "medico_nombre": "Nadia Blazquez Salazar",
+  "medico_especialidad": "Dermatología",
+  "id_medico": "M408564",
+  "motivo_cita": "Revisión anual",
+  "notas_adicionales": "Realizar examen de sangre"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825cf"
+  },
+  "id_paciente": {
+    "$numberLong": "4464593780"
+  },
+  "fecha_cita": {
+    "$date": "2025-04-21T00:00:00.000Z"
+  },
+  "hora_cita": "16:49:56",
+  "medico_nombre": "Iván Chacón Hernández",
+  "medico_especialidad": "Pediatría",
+  "id_medico": "M763805",
+  "motivo_cita": "Examen de rutina",
+  "notas_adicionales": "Realizar examen de sangre"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825d0"
+  },
+  "id_paciente": 842616069,
+  "fecha_cita": {
+    "$date": "2025-02-02T00:00:00.000Z"
+  },
+  "hora_cita": "09:29:00",
+  "medico_nombre": "Hilario Santamaria Marqués",
+  "medico_especialidad": "Dermatología",
+  "id_medico": "M791932",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825d1"
+  },
+  "id_paciente": {
+    "$numberLong": "3702830093"
+  },
+  "fecha_cita": {
+    "$date": "2025-01-15T00:00:00.000Z"
+  },
+  "hora_cita": "13:20:10",
+  "medico_nombre": "Abel Juliá Luís",
+  "medico_especialidad": "Cardiología",
+  "id_medico": "M100988",
+  "motivo_cita": "Revisión anual",
+  "notas_adicionales": "Se recomienda realizar estudios adicionales"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825d2"
+  },
+  "id_paciente": {
+    "$numberLong": "8452771031"
+  },
+  "fecha_cita": {
+    "$date": "2025-02-27T00:00:00.000Z"
+  },
+  "hora_cita": "20:58:38",
+  "medico_nombre": "Fabiola Peñalver Peña",
+  "medico_especialidad": "Pediatría",
+  "id_medico": "M337152",
+  "motivo_cita": "Control postquirúrgico",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825d3"
+  },
+  "id_paciente": {
+    "$numberLong": "8706948701"
+  },
+  "fecha_cita": {
+    "$date": "2025-04-17T00:00:00.000Z"
+  },
+  "hora_cita": "05:15:24",
+  "medico_nombre": "Domingo Cabo Valle",
+  "medico_especialidad": "Pediatría",
+  "id_medico": "M765233",
+  "motivo_cita": "Revisión anual",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825d4"
+  },
+  "id_paciente": {
+    "$numberLong": "4801079035"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-29T00:00:00.000Z"
+  },
+  "hora_cita": "20:57:11",
+  "medico_nombre": "Ildefonso Pedrosa Colomer",
+  "medico_especialidad": "Pediatría",
+  "id_medico": "M907609",
+  "motivo_cita": "Revisión anual",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825d5"
+  },
+  "id_paciente": {
+    "$numberLong": "8772701054"
+  },
+  "fecha_cita": {
+    "$date": "2025-01-20T00:00:00.000Z"
+  },
+  "hora_cita": "17:18:32",
+  "medico_nombre": "Pancho Catalá Barón",
+  "medico_especialidad": "Cardiología",
+  "id_medico": "M925639",
+  "motivo_cita": "Revisión anual",
+  "notas_adicionales": "Se recomienda realizar estudios adicionales"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825d6"
+  },
+  "id_paciente": 205598879,
+  "fecha_cita": {
+    "$date": "2025-01-24T00:00:00.000Z"
+  },
+  "hora_cita": "20:32:47",
+  "medico_nombre": "Javiera Santiago Chaves",
+  "medico_especialidad": "Dermatología",
+  "id_medico": "M691522",
+  "motivo_cita": "Control postquirúrgico",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825d7"
+  },
+  "id_paciente": {
+    "$numberLong": "6094293685"
+  },
+  "fecha_cita": {
+    "$date": "2025-04-05T00:00:00.000Z"
+  },
+  "hora_cita": "08:26:29",
+  "medico_nombre": "Nicolás Wilfredo Alfaro Ortiz",
+  "medico_especialidad": "Cardiología",
+  "id_medico": "M352833",
+  "motivo_cita": "Examen de rutina",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825d8"
+  },
+  "id_paciente": {
+    "$numberLong": "2628721717"
+  },
+  "fecha_cita": {
+    "$date": "2025-02-04T00:00:00.000Z"
+  },
+  "hora_cita": "12:49:08",
+  "medico_nombre": "Ceferino Cuadrado Cepeda",
+  "medico_especialidad": "Pediatría",
+  "id_medico": "M542931",
+  "motivo_cita": "Examen de rutina",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825d9"
+  },
+  "id_paciente": {
+    "$numberLong": "5962498752"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-05T00:00:00.000Z"
+  },
+  "hora_cita": "21:51:08",
+  "medico_nombre": "Moisés del Bartolomé",
+  "medico_especialidad": "Cardiología",
+  "id_medico": "M674110",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "Realizar examen de sangre"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825da"
+  },
+  "id_paciente": 820973551,
+  "fecha_cita": {
+    "$date": "2025-03-04T00:00:00.000Z"
+  },
+  "hora_cita": "20:25:47",
+  "medico_nombre": "Dalila Rosa Flor",
+  "medico_especialidad": "Dermatología",
+  "id_medico": "M205621",
+  "motivo_cita": "Consulta por dolor abdominal",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825db"
+  },
+  "id_paciente": {
+    "$numberLong": "3267999230"
+  },
+  "fecha_cita": {
+    "$date": "2025-01-25T00:00:00.000Z"
+  },
+  "hora_cita": "03:48:39",
+  "medico_nombre": "Clementina Lara Duran",
+  "medico_especialidad": "Cardiología",
+  "id_medico": "M575498",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825dc"
+  },
+  "id_paciente": 1535542294,
+  "fecha_cita": {
+    "$date": "2025-03-15T00:00:00.000Z"
+  },
+  "hora_cita": "12:01:45",
+  "medico_nombre": "Rafa de Carbonell",
+  "medico_especialidad": "Odontología",
+  "id_medico": "M375179",
+  "motivo_cita": "Consulta por dolor abdominal",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825dd"
+  },
+  "id_paciente": {
+    "$numberLong": "4219397639"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-13T00:00:00.000Z"
+  },
+  "hora_cita": "09:35:51",
+  "medico_nombre": "Vicenta Palomino Rosselló",
+  "medico_especialidad": "Dermatología",
+  "id_medico": "M188467",
+  "motivo_cita": "Revisión anual",
+  "notas_adicionales": "El paciente mostró mejoría"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825de"
+  },
+  "id_paciente": {
+    "$numberLong": "6834765410"
+  },
+  "fecha_cita": {
+    "$date": "2025-02-05T00:00:00.000Z"
+  },
+  "hora_cita": "01:30:39",
+  "medico_nombre": "Aurora de Vara",
+  "medico_especialidad": "Dermatología",
+  "id_medico": "M231441",
+  "motivo_cita": "Examen de rutina",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825df"
+  },
+  "id_paciente": {
+    "$numberLong": "4878824950"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-05T00:00:00.000Z"
+  },
+  "hora_cita": "10:28:27",
+  "medico_nombre": "Priscila Porras-Cazorla",
+  "medico_especialidad": "Dermatología",
+  "id_medico": "M461112",
+  "motivo_cita": "Control postquirúrgico",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825e0"
+  },
+  "id_paciente": 760478394,
+  "fecha_cita": {
+    "$date": "2025-03-23T00:00:00.000Z"
+  },
+  "hora_cita": "08:34:13",
+  "medico_nombre": "Ezequiel Arenas-Barral",
+  "medico_especialidad": "Odontología",
+  "id_medico": "M230115",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825e1"
+  },
+  "id_paciente": 747281679,
+  "fecha_cita": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "hora_cita": "18:53:18",
+  "medico_nombre": "Hernando Alberto Cobo",
+  "medico_especialidad": "Ginecología",
+  "id_medico": "M226205",
+  "motivo_cita": "Chequeo general",
+  "notas_adicionales": "Se recomienda realizar estudios adicionales"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825e2"
+  },
+  "id_paciente": {
+    "$numberLong": "6646866084"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-10T00:00:00.000Z"
+  },
+  "hora_cita": "07:00:08",
+  "medico_nombre": "Claudia de Menéndez",
+  "medico_especialidad": "Pediatría",
+  "id_medico": "M618352",
+  "motivo_cita": "Examen de rutina",
+  "notas_adicionales": "Realizar examen de sangre"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825e3"
+  },
+  "id_paciente": {
+    "$numberLong": "5419778688"
+  },
+  "fecha_cita": {
+    "$date": "2025-04-07T00:00:00.000Z"
+  },
+  "hora_cita": "23:30:55",
+  "medico_nombre": "Vasco Acuña Andrade",
+  "medico_especialidad": "Dermatología",
+  "id_medico": "M721565",
+  "motivo_cita": "Consulta por dolor abdominal",
+  "notas_adicionales": "Realizar examen de sangre"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825e4"
+  },
+  "id_paciente": {
+    "$numberLong": "3308494995"
+  },
+  "fecha_cita": {
+    "$date": "2025-02-22T00:00:00.000Z"
+  },
+  "hora_cita": "07:53:54",
+  "medico_nombre": "Asdrubal Valle Dalmau",
+  "medico_especialidad": "Ginecología",
+  "id_medico": "M653358",
+  "motivo_cita": "Control postquirúrgico",
+  "notas_adicionales": "Revisión en 6 meses"
+},
+{
+  "_id": {
+    "$oid": "6808296b1ef7a727765825e5"
+  },
+  "id_paciente": {
+    "$numberLong": "3312905345"
+  },
+  "fecha_cita": {
+    "$date": "2025-03-21T00:00:00.000Z"
+  },
+  "hora_cita": "15:07:37",
+  "medico_nombre": "Cristóbal Acosta",
+  "medico_especialidad": "Ginecología",
+  "id_medico": "M744611",
+  "motivo_cita": "Revisión anual",
+  "notas_adicionales": "Revisión en 6 meses"
+}]

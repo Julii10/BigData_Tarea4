@@ -1,0 +1,1748 @@
+[{
+  "_id": {
+    "$oid": "680828e21ef7a7277658251c"
+  },
+  "id_paciente": 1862407736,
+  "fecha_imagen": {
+    "$date": "2025-04-08T00:00:00.000Z"
+  },
+  "tipo_imagen": "Resonancia magnética",
+  "descripcion": "Fractura en la pierna izquierda",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Inmaculada Macías Camps",
+  "medico_especialidad": "Radiología",
+  "id_profesional": "D652317",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658251d"
+  },
+  "id_paciente": 447840964,
+  "fecha_imagen": {
+    "$date": "2025-01-30T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ultrasonido",
+  "descripcion": "Lesión en el cerebro",
+  "resultados": "Necesita seguimiento",
+  "medico_nombre": "Lino Corral Arribas",
+  "medico_especialidad": "Neurocirugía",
+  "id_profesional": "D560726",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658251e"
+  },
+  "id_paciente": {
+    "$numberLong": "3383408556"
+  },
+  "fecha_imagen": {
+    "$date": "2025-02-06T00:00:00.000Z"
+  },
+  "tipo_imagen": "Resonancia magnética",
+  "descripcion": "Inflamación en la zona abdominal",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Angelita Granados",
+  "medico_especialidad": "Radiología",
+  "id_profesional": "D616318",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658251f"
+  },
+  "id_paciente": 1057568502,
+  "fecha_imagen": {
+    "$date": "2025-01-01T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ecografía",
+  "descripcion": "Lesión en el cerebro",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "Chus Montaña Gracia",
+  "medico_especialidad": "Oncología",
+  "id_profesional": "D494339",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582520"
+  },
+  "id_paciente": {
+    "$numberLong": "5707687457"
+  },
+  "fecha_imagen": {
+    "$date": "2025-03-21T00:00:00.000Z"
+  },
+  "tipo_imagen": "Radiografía",
+  "descripcion": "Fractura en la pierna izquierda",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "Rosaura Luna Tena",
+  "medico_especialidad": "Neurocirugía",
+  "id_profesional": "D682465",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582521"
+  },
+  "id_paciente": {
+    "$numberLong": "4665648364"
+  },
+  "fecha_imagen": {
+    "$date": "2025-02-19T00:00:00.000Z"
+  },
+  "tipo_imagen": "Radiografía",
+  "descripcion": "Inflamación en la zona abdominal",
+  "resultados": "Resultados normales",
+  "medico_nombre": "Aitana Abella Malo",
+  "medico_especialidad": "Neurocirugía",
+  "id_profesional": "D952903",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582522"
+  },
+  "id_paciente": 952628725,
+  "fecha_imagen": {
+    "$date": "2025-04-03T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ultrasonido",
+  "descripcion": "Cálculos renales detectados",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Francisca Fortunata Mur Medina",
+  "medico_especialidad": "Oncología",
+  "id_profesional": "D852639",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582523"
+  },
+  "id_paciente": {
+    "$numberLong": "3572319233"
+  },
+  "fecha_imagen": {
+    "$date": "2025-01-03T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ecografía",
+  "descripcion": "Cálculos renales detectados",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Rosario Arnaiz",
+  "medico_especialidad": "Oncología",
+  "id_profesional": "D696840",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582524"
+  },
+  "id_paciente": {
+    "$numberLong": "4651101808"
+  },
+  "fecha_imagen": {
+    "$date": "2025-01-01T00:00:00.000Z"
+  },
+  "tipo_imagen": "Tomografía",
+  "descripcion": "Cálculos renales detectados",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "Febe del Carlos",
+  "medico_especialidad": "Urología",
+  "id_profesional": "D196446",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582525"
+  },
+  "id_paciente": {
+    "$numberLong": "2281557300"
+  },
+  "fecha_imagen": {
+    "$date": "2025-04-17T00:00:00.000Z"
+  },
+  "tipo_imagen": "Tomografía",
+  "descripcion": "Tumor en el pulmón derecho",
+  "resultados": "Resultados normales",
+  "medico_nombre": "José Mari Montoya Terrón",
+  "medico_especialidad": "Urología",
+  "id_profesional": "D311746",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582526"
+  },
+  "id_paciente": {
+    "$numberLong": "7325688564"
+  },
+  "fecha_imagen": {
+    "$date": "2025-02-09T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ecografía",
+  "descripcion": "Lesión en el cerebro",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Juan Luis Carvajal-Ballesteros",
+  "medico_especialidad": "Neurocirugía",
+  "id_profesional": "D456750",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582527"
+  },
+  "id_paciente": {
+    "$numberLong": "7005864470"
+  },
+  "fecha_imagen": {
+    "$date": "2025-01-27T00:00:00.000Z"
+  },
+  "tipo_imagen": "Resonancia magnética",
+  "descripcion": "Cálculos renales detectados",
+  "resultados": "Resultados normales",
+  "medico_nombre": "Irene Hervia Pastor",
+  "medico_especialidad": "Neurocirugía",
+  "id_profesional": "D394040",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582528"
+  },
+  "id_paciente": {
+    "$numberLong": "4374365784"
+  },
+  "fecha_imagen": {
+    "$date": "2025-03-31T00:00:00.000Z"
+  },
+  "tipo_imagen": "Resonancia magnética",
+  "descripcion": "Fractura en la pierna izquierda",
+  "resultados": "Resultados normales",
+  "medico_nombre": "Amparo Plaza Acevedo",
+  "medico_especialidad": "Ginecología",
+  "id_profesional": "D816891",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582529"
+  },
+  "id_paciente": {
+    "$numberLong": "6846197812"
+  },
+  "fecha_imagen": {
+    "$date": "2025-04-16T00:00:00.000Z"
+  },
+  "tipo_imagen": "Radiografía",
+  "descripcion": "Cálculos renales detectados",
+  "resultados": "Resultados normales",
+  "medico_nombre": "Palmira Torrens",
+  "medico_especialidad": "Neurocirugía",
+  "id_profesional": "D364782",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658252a"
+  },
+  "id_paciente": {
+    "$numberLong": "2596328735"
+  },
+  "fecha_imagen": {
+    "$date": "2025-03-05T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ecografía",
+  "descripcion": "Cálculos renales detectados",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "Juan Bautista Caro-Cortes",
+  "medico_especialidad": "Neurocirugía",
+  "id_profesional": "D412047",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658252b"
+  },
+  "id_paciente": {
+    "$numberLong": "2290735249"
+  },
+  "fecha_imagen": {
+    "$date": "2025-03-29T00:00:00.000Z"
+  },
+  "tipo_imagen": "Radiografía",
+  "descripcion": "Lesión en el cerebro",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "Ángela Casas Barragán",
+  "medico_especialidad": "Urología",
+  "id_profesional": "D149626",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658252c"
+  },
+  "id_paciente": {
+    "$numberLong": "8634220702"
+  },
+  "fecha_imagen": {
+    "$date": "2025-02-26T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ultrasonido",
+  "descripcion": "Fractura en la pierna izquierda",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Águeda Bustamante Jimenez",
+  "medico_especialidad": "Ginecología",
+  "id_profesional": "D259590",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658252d"
+  },
+  "id_paciente": 236467456,
+  "fecha_imagen": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "tipo_imagen": "Tomografía",
+  "descripcion": "Fractura en la pierna izquierda",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "Narciso de Reyes",
+  "medico_especialidad": "Oncología",
+  "id_profesional": "D943268",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658252e"
+  },
+  "id_paciente": 1315299866,
+  "fecha_imagen": {
+    "$date": "2025-03-25T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ultrasonido",
+  "descripcion": "Inflamación en la zona abdominal",
+  "resultados": "Resultados normales",
+  "medico_nombre": "Consuela Alegria Ávila",
+  "medico_especialidad": "Neurocirugía",
+  "id_profesional": "D483691",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658252f"
+  },
+  "id_paciente": {
+    "$numberLong": "4118642043"
+  },
+  "fecha_imagen": {
+    "$date": "2025-01-26T00:00:00.000Z"
+  },
+  "tipo_imagen": "Resonancia magnética",
+  "descripcion": "Fractura en la pierna izquierda",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Nydia Escribano Guardia",
+  "medico_especialidad": "Radiología",
+  "id_profesional": "D683480",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582530"
+  },
+  "id_paciente": {
+    "$numberLong": "2722010562"
+  },
+  "fecha_imagen": {
+    "$date": "2025-02-18T00:00:00.000Z"
+  },
+  "tipo_imagen": "Resonancia magnética",
+  "descripcion": "Cálculos renales detectados",
+  "resultados": "Necesita seguimiento",
+  "medico_nombre": "Vinicio Báez Barral",
+  "medico_especialidad": "Ginecología",
+  "id_profesional": "D814784",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582531"
+  },
+  "id_paciente": {
+    "$numberLong": "7803173024"
+  },
+  "fecha_imagen": {
+    "$date": "2025-01-25T00:00:00.000Z"
+  },
+  "tipo_imagen": "Tomografía",
+  "descripcion": "Tumor en el pulmón derecho",
+  "resultados": "Necesita seguimiento",
+  "medico_nombre": "Clímaco Amat Murillo",
+  "medico_especialidad": "Ginecología",
+  "id_profesional": "D627989",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582532"
+  },
+  "id_paciente": {
+    "$numberLong": "5640118570"
+  },
+  "fecha_imagen": {
+    "$date": "2025-02-25T00:00:00.000Z"
+  },
+  "tipo_imagen": "Radiografía",
+  "descripcion": "Tumor en el pulmón derecho",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "Cosme de Bosch",
+  "medico_especialidad": "Neurocirugía",
+  "id_profesional": "D708148",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582533"
+  },
+  "id_paciente": {
+    "$numberLong": "8259271979"
+  },
+  "fecha_imagen": {
+    "$date": "2025-03-22T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ultrasonido",
+  "descripcion": "Cálculos renales detectados",
+  "resultados": "Resultados normales",
+  "medico_nombre": "Vilma Asensio-Fabregat",
+  "medico_especialidad": "Urología",
+  "id_profesional": "D593129",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582534"
+  },
+  "id_paciente": {
+    "$numberLong": "4397132747"
+  },
+  "fecha_imagen": {
+    "$date": "2025-02-08T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ultrasonido",
+  "descripcion": "Inflamación en la zona abdominal",
+  "resultados": "Resultados normales",
+  "medico_nombre": "Faustino Cuéllar Castell",
+  "medico_especialidad": "Oncología",
+  "id_profesional": "D453694",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582535"
+  },
+  "id_paciente": {
+    "$numberLong": "6145399018"
+  },
+  "fecha_imagen": {
+    "$date": "2025-01-01T00:00:00.000Z"
+  },
+  "tipo_imagen": "Radiografía",
+  "descripcion": "Tumor en el pulmón derecho",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "Rodolfo Heredia-Porras",
+  "medico_especialidad": "Neurocirugía",
+  "id_profesional": "D359969",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582536"
+  },
+  "id_paciente": {
+    "$numberLong": "5919623063"
+  },
+  "fecha_imagen": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "tipo_imagen": "Resonancia magnética",
+  "descripcion": "Inflamación en la zona abdominal",
+  "resultados": "Resultados normales",
+  "medico_nombre": "Benjamín Ayllón Rocha",
+  "medico_especialidad": "Urología",
+  "id_profesional": "D253578",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582537"
+  },
+  "id_paciente": {
+    "$numberLong": "7525562589"
+  },
+  "fecha_imagen": {
+    "$date": "2025-01-08T00:00:00.000Z"
+  },
+  "tipo_imagen": "Radiografía",
+  "descripcion": "Lesión en el cerebro",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Adelardo Frutos Garcés",
+  "medico_especialidad": "Neurocirugía",
+  "id_profesional": "D698497",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582538"
+  },
+  "id_paciente": {
+    "$numberLong": "7423139046"
+  },
+  "fecha_imagen": {
+    "$date": "2025-04-18T00:00:00.000Z"
+  },
+  "tipo_imagen": "Resonancia magnética",
+  "descripcion": "Lesión en el cerebro",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Ismael Vilanova Gargallo",
+  "medico_especialidad": "Radiología",
+  "id_profesional": "D537685",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582539"
+  },
+  "id_paciente": {
+    "$numberLong": "2734455780"
+  },
+  "fecha_imagen": {
+    "$date": "2025-02-23T00:00:00.000Z"
+  },
+  "tipo_imagen": "Resonancia magnética",
+  "descripcion": "Cálculos renales detectados",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Felipe Campos Royo",
+  "medico_especialidad": "Radiología",
+  "id_profesional": "D996615",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658253a"
+  },
+  "id_paciente": 331420749,
+  "fecha_imagen": {
+    "$date": "2025-03-28T00:00:00.000Z"
+  },
+  "tipo_imagen": "Radiografía",
+  "descripcion": "Inflamación en la zona abdominal",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Celestino Ferrández",
+  "medico_especialidad": "Oncología",
+  "id_profesional": "D529433",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658253b"
+  },
+  "id_paciente": {
+    "$numberLong": "6857803359"
+  },
+  "fecha_imagen": {
+    "$date": "2025-03-06T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ecografía",
+  "descripcion": "Fractura en la pierna izquierda",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Maximiliano Eustaquio Blanch Riera",
+  "medico_especialidad": "Ginecología",
+  "id_profesional": "D480605",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658253c"
+  },
+  "id_paciente": 989756877,
+  "fecha_imagen": {
+    "$date": "2025-03-10T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ultrasonido",
+  "descripcion": "Fractura en la pierna izquierda",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Mercedes Abril Bonilla Hoz",
+  "medico_especialidad": "Oncología",
+  "id_profesional": "D109717",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658253d"
+  },
+  "id_paciente": {
+    "$numberLong": "4021624913"
+  },
+  "fecha_imagen": {
+    "$date": "2025-02-05T00:00:00.000Z"
+  },
+  "tipo_imagen": "Tomografía",
+  "descripcion": "Tumor en el pulmón derecho",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "Salomé Rius Ródenas",
+  "medico_especialidad": "Oncología",
+  "id_profesional": "D572396",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658253e"
+  },
+  "id_paciente": {
+    "$numberLong": "7507402825"
+  },
+  "fecha_imagen": {
+    "$date": "2025-03-13T00:00:00.000Z"
+  },
+  "tipo_imagen": "Resonancia magnética",
+  "descripcion": "Fractura en la pierna izquierda",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "Chita Aroca-Milla",
+  "medico_especialidad": "Ginecología",
+  "id_profesional": "D631871",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658253f"
+  },
+  "id_paciente": 2137104132,
+  "fecha_imagen": {
+    "$date": "2025-04-09T00:00:00.000Z"
+  },
+  "tipo_imagen": "Resonancia magnética",
+  "descripcion": "Fractura en la pierna izquierda",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "Aristides Olivares Tejedor",
+  "medico_especialidad": "Radiología",
+  "id_profesional": "D348840",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582540"
+  },
+  "id_paciente": {
+    "$numberLong": "4451611522"
+  },
+  "fecha_imagen": {
+    "$date": "2025-04-08T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ultrasonido",
+  "descripcion": "Fractura en la pierna izquierda",
+  "resultados": "Resultados normales",
+  "medico_nombre": "Inocencio Garay Urrutia",
+  "medico_especialidad": "Ginecología",
+  "id_profesional": "D147661",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582541"
+  },
+  "id_paciente": 581302571,
+  "fecha_imagen": {
+    "$date": "2025-03-06T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ultrasonido",
+  "descripcion": "Lesión en el cerebro",
+  "resultados": "Necesita seguimiento",
+  "medico_nombre": "Melchor Sainz Andrade",
+  "medico_especialidad": "Urología",
+  "id_profesional": "D875227",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582542"
+  },
+  "id_paciente": {
+    "$numberLong": "9790269406"
+  },
+  "fecha_imagen": {
+    "$date": "2025-02-24T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ecografía",
+  "descripcion": "Fractura en la pierna izquierda",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Humberto de Blazquez",
+  "medico_especialidad": "Neurocirugía",
+  "id_profesional": "D820225",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582543"
+  },
+  "id_paciente": {
+    "$numberLong": "8356657265"
+  },
+  "fecha_imagen": {
+    "$date": "2025-01-01T00:00:00.000Z"
+  },
+  "tipo_imagen": "Resonancia magnética",
+  "descripcion": "Tumor en el pulmón derecho",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Edelmiro Araujo Sureda",
+  "medico_especialidad": "Neurocirugía",
+  "id_profesional": "D591006",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582544"
+  },
+  "id_paciente": {
+    "$numberLong": "6426924020"
+  },
+  "fecha_imagen": {
+    "$date": "2025-01-27T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ecografía",
+  "descripcion": "Tumor en el pulmón derecho",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "África Lorenzo Torrent",
+  "medico_especialidad": "Urología",
+  "id_profesional": "D392289",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582545"
+  },
+  "id_paciente": {
+    "$numberLong": "8196484999"
+  },
+  "fecha_imagen": {
+    "$date": "2025-03-03T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ultrasonido",
+  "descripcion": "Tumor en el pulmón derecho",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Maribel Cal",
+  "medico_especialidad": "Radiología",
+  "id_profesional": "D584375",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582546"
+  },
+  "id_paciente": {
+    "$numberLong": "6108266074"
+  },
+  "fecha_imagen": {
+    "$date": "2025-04-13T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ultrasonido",
+  "descripcion": "Lesión en el cerebro",
+  "resultados": "Necesita seguimiento",
+  "medico_nombre": "Soraya Vera Galindo",
+  "medico_especialidad": "Oncología",
+  "id_profesional": "D550848",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582547"
+  },
+  "id_paciente": 1803575368,
+  "fecha_imagen": {
+    "$date": "2025-03-27T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ultrasonido",
+  "descripcion": "Tumor en el pulmón derecho",
+  "resultados": "Necesita seguimiento",
+  "medico_nombre": "Itziar Lozano Sebastián",
+  "medico_especialidad": "Radiología",
+  "id_profesional": "D590757",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582548"
+  },
+  "id_paciente": {
+    "$numberLong": "6620772883"
+  },
+  "fecha_imagen": {
+    "$date": "2025-02-11T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ecografía",
+  "descripcion": "Cálculos renales detectados",
+  "resultados": "Necesita seguimiento",
+  "medico_nombre": "Timoteo Piña",
+  "medico_especialidad": "Ginecología",
+  "id_profesional": "D212059",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582549"
+  },
+  "id_paciente": {
+    "$numberLong": "7010180783"
+  },
+  "fecha_imagen": {
+    "$date": "2025-02-18T00:00:00.000Z"
+  },
+  "tipo_imagen": "Tomografía",
+  "descripcion": "Fractura en la pierna izquierda",
+  "resultados": "Necesita seguimiento",
+  "medico_nombre": "Joaquín Ezequiel Valentín Losa",
+  "medico_especialidad": "Oncología",
+  "id_profesional": "D801389",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658254a"
+  },
+  "id_paciente": 1130008248,
+  "fecha_imagen": {
+    "$date": "2025-03-15T00:00:00.000Z"
+  },
+  "tipo_imagen": "Resonancia magnética",
+  "descripcion": "Tumor en el pulmón derecho",
+  "resultados": "Necesita seguimiento",
+  "medico_nombre": "Obdulia Mamen Alcántara Catalá",
+  "medico_especialidad": "Ginecología",
+  "id_profesional": "D660203",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658254b"
+  },
+  "id_paciente": {
+    "$numberLong": "4853088380"
+  },
+  "fecha_imagen": {
+    "$date": "2025-01-09T00:00:00.000Z"
+  },
+  "tipo_imagen": "Radiografía",
+  "descripcion": "Inflamación en la zona abdominal",
+  "resultados": "Necesita seguimiento",
+  "medico_nombre": "Toño Huguet Prats",
+  "medico_especialidad": "Oncología",
+  "id_profesional": "D956492",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658254c"
+  },
+  "id_paciente": {
+    "$numberLong": "9786102970"
+  },
+  "fecha_imagen": {
+    "$date": "2025-01-25T00:00:00.000Z"
+  },
+  "tipo_imagen": "Tomografía",
+  "descripcion": "Fractura en la pierna izquierda",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "Teresa Porcel Cervera",
+  "medico_especialidad": "Neurocirugía",
+  "id_profesional": "D433090",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658254d"
+  },
+  "id_paciente": {
+    "$numberLong": "7338027849"
+  },
+  "fecha_imagen": {
+    "$date": "2025-03-17T00:00:00.000Z"
+  },
+  "tipo_imagen": "Tomografía",
+  "descripcion": "Fractura en la pierna izquierda",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "Carlito Cid Camacho",
+  "medico_especialidad": "Ginecología",
+  "id_profesional": "D656891",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658254e"
+  },
+  "id_paciente": {
+    "$numberLong": "6255607502"
+  },
+  "fecha_imagen": {
+    "$date": "2025-02-03T00:00:00.000Z"
+  },
+  "tipo_imagen": "Tomografía",
+  "descripcion": "Cálculos renales detectados",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "Alfredo Lucas Tormo",
+  "medico_especialidad": "Urología",
+  "id_profesional": "D223373",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658254f"
+  },
+  "id_paciente": 317224065,
+  "fecha_imagen": {
+    "$date": "2025-04-12T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ultrasonido",
+  "descripcion": "Cálculos renales detectados",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "Lope Alfonso Acero Artigas",
+  "medico_especialidad": "Ginecología",
+  "id_profesional": "D540337",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582550"
+  },
+  "id_paciente": {
+    "$numberLong": "8966472231"
+  },
+  "fecha_imagen": {
+    "$date": "2025-03-04T00:00:00.000Z"
+  },
+  "tipo_imagen": "Radiografía",
+  "descripcion": "Inflamación en la zona abdominal",
+  "resultados": "Resultados normales",
+  "medico_nombre": "Tatiana del Bellido",
+  "medico_especialidad": "Ginecología",
+  "id_profesional": "D391626",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582551"
+  },
+  "id_paciente": {
+    "$numberLong": "4123707776"
+  },
+  "fecha_imagen": {
+    "$date": "2025-03-03T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ecografía",
+  "descripcion": "Lesión en el cerebro",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "Fabiola Campillo",
+  "medico_especialidad": "Urología",
+  "id_profesional": "D788719",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582552"
+  },
+  "id_paciente": 2010524637,
+  "fecha_imagen": {
+    "$date": "2025-01-29T00:00:00.000Z"
+  },
+  "tipo_imagen": "Tomografía",
+  "descripcion": "Lesión en el cerebro",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "Luna Solano Azorin",
+  "medico_especialidad": "Neurocirugía",
+  "id_profesional": "D521757",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582553"
+  },
+  "id_paciente": 1327517660,
+  "fecha_imagen": {
+    "$date": "2025-01-14T00:00:00.000Z"
+  },
+  "tipo_imagen": "Radiografía",
+  "descripcion": "Fractura en la pierna izquierda",
+  "resultados": "Necesita seguimiento",
+  "medico_nombre": "Maite Coronado Salinas",
+  "medico_especialidad": "Neurocirugía",
+  "id_profesional": "D835217",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582554"
+  },
+  "id_paciente": {
+    "$numberLong": "4071846964"
+  },
+  "fecha_imagen": {
+    "$date": "2025-03-24T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ultrasonido",
+  "descripcion": "Inflamación en la zona abdominal",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "Amalia Abril Casado",
+  "medico_especialidad": "Neurocirugía",
+  "id_profesional": "D232759",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582555"
+  },
+  "id_paciente": {
+    "$numberLong": "4257063759"
+  },
+  "fecha_imagen": {
+    "$date": "2025-03-02T00:00:00.000Z"
+  },
+  "tipo_imagen": "Tomografía",
+  "descripcion": "Tumor en el pulmón derecho",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Eva María Izquierdo",
+  "medico_especialidad": "Ginecología",
+  "id_profesional": "D670479",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582556"
+  },
+  "id_paciente": {
+    "$numberLong": "9011767514"
+  },
+  "fecha_imagen": {
+    "$date": "2025-03-05T00:00:00.000Z"
+  },
+  "tipo_imagen": "Resonancia magnética",
+  "descripcion": "Lesión en el cerebro",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "Alejandro de Lasa",
+  "medico_especialidad": "Ginecología",
+  "id_profesional": "D424111",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582557"
+  },
+  "id_paciente": {
+    "$numberLong": "5869070035"
+  },
+  "fecha_imagen": {
+    "$date": "2025-01-03T00:00:00.000Z"
+  },
+  "tipo_imagen": "Tomografía",
+  "descripcion": "Lesión en el cerebro",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "Celia Baena Bonilla",
+  "medico_especialidad": "Neurocirugía",
+  "id_profesional": "D439242",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582558"
+  },
+  "id_paciente": 759953806,
+  "fecha_imagen": {
+    "$date": "2025-01-05T00:00:00.000Z"
+  },
+  "tipo_imagen": "Radiografía",
+  "descripcion": "Inflamación en la zona abdominal",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Roque Villegas Heras",
+  "medico_especialidad": "Neurocirugía",
+  "id_profesional": "D314498",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582559"
+  },
+  "id_paciente": {
+    "$numberLong": "2449769270"
+  },
+  "fecha_imagen": {
+    "$date": "2025-03-26T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ecografía",
+  "descripcion": "Lesión en el cerebro",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Carmelita Casanovas Perales",
+  "medico_especialidad": "Ginecología",
+  "id_profesional": "D309826",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658255a"
+  },
+  "id_paciente": 988725490,
+  "fecha_imagen": {
+    "$date": "2025-02-18T00:00:00.000Z"
+  },
+  "tipo_imagen": "Radiografía",
+  "descripcion": "Lesión en el cerebro",
+  "resultados": "Necesita seguimiento",
+  "medico_nombre": "Begoña Madrigal Valentín",
+  "medico_especialidad": "Neurocirugía",
+  "id_profesional": "D767191",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658255b"
+  },
+  "id_paciente": {
+    "$numberLong": "5633055708"
+  },
+  "fecha_imagen": {
+    "$date": "2025-03-13T00:00:00.000Z"
+  },
+  "tipo_imagen": "Resonancia magnética",
+  "descripcion": "Fractura en la pierna izquierda",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Raquel Arévalo Mata",
+  "medico_especialidad": "Ginecología",
+  "id_profesional": "D865106",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658255c"
+  },
+  "id_paciente": {
+    "$numberLong": "4691792240"
+  },
+  "fecha_imagen": {
+    "$date": "2025-01-03T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ultrasonido",
+  "descripcion": "Fractura en la pierna izquierda",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "Urbano Calderon Alcolea",
+  "medico_especialidad": "Urología",
+  "id_profesional": "D144175",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658255d"
+  },
+  "id_paciente": {
+    "$numberLong": "9161377282"
+  },
+  "fecha_imagen": {
+    "$date": "2025-02-02T00:00:00.000Z"
+  },
+  "tipo_imagen": "Resonancia magnética",
+  "descripcion": "Inflamación en la zona abdominal",
+  "resultados": "Necesita seguimiento",
+  "medico_nombre": "Chuy Galvez Nebot",
+  "medico_especialidad": "Oncología",
+  "id_profesional": "D500194",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658255e"
+  },
+  "id_paciente": 758285914,
+  "fecha_imagen": {
+    "$date": "2025-02-19T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ecografía",
+  "descripcion": "Lesión en el cerebro",
+  "resultados": "Necesita seguimiento",
+  "medico_nombre": "Vicente Tejera Vall",
+  "medico_especialidad": "Oncología",
+  "id_profesional": "D169263",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658255f"
+  },
+  "id_paciente": {
+    "$numberLong": "3010144154"
+  },
+  "fecha_imagen": {
+    "$date": "2025-01-07T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ultrasonido",
+  "descripcion": "Fractura en la pierna izquierda",
+  "resultados": "Necesita seguimiento",
+  "medico_nombre": "Virgilio Vilaplana-Torrecilla",
+  "medico_especialidad": "Radiología",
+  "id_profesional": "D192199",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582560"
+  },
+  "id_paciente": {
+    "$numberLong": "7380983471"
+  },
+  "fecha_imagen": {
+    "$date": "2025-04-03T00:00:00.000Z"
+  },
+  "tipo_imagen": "Resonancia magnética",
+  "descripcion": "Cálculos renales detectados",
+  "resultados": "Resultados normales",
+  "medico_nombre": "Primitivo de Andres",
+  "medico_especialidad": "Radiología",
+  "id_profesional": "D909511",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582561"
+  },
+  "id_paciente": {
+    "$numberLong": "6917744299"
+  },
+  "fecha_imagen": {
+    "$date": "2025-02-23T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ecografía",
+  "descripcion": "Cálculos renales detectados",
+  "resultados": "Necesita seguimiento",
+  "medico_nombre": "Mireia Huerta Azorin",
+  "medico_especialidad": "Ginecología",
+  "id_profesional": "D203013",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582562"
+  },
+  "id_paciente": {
+    "$numberLong": "3211497690"
+  },
+  "fecha_imagen": {
+    "$date": "2025-01-22T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ultrasonido",
+  "descripcion": "Cálculos renales detectados",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Borja Aristides Feijoo Solís",
+  "medico_especialidad": "Urología",
+  "id_profesional": "D239145",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582563"
+  },
+  "id_paciente": {
+    "$numberLong": "9354224563"
+  },
+  "fecha_imagen": {
+    "$date": "2025-01-08T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ultrasonido",
+  "descripcion": "Lesión en el cerebro",
+  "resultados": "Necesita seguimiento",
+  "medico_nombre": "Brunilda Ribera Caparrós",
+  "medico_especialidad": "Ginecología",
+  "id_profesional": "D147995",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582564"
+  },
+  "id_paciente": {
+    "$numberLong": "9108683871"
+  },
+  "fecha_imagen": {
+    "$date": "2025-02-27T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ultrasonido",
+  "descripcion": "Tumor en el pulmón derecho",
+  "resultados": "Resultados normales",
+  "medico_nombre": "Clarisa Valentina Redondo Fabregat",
+  "medico_especialidad": "Radiología",
+  "id_profesional": "D293521",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582565"
+  },
+  "id_paciente": {
+    "$numberLong": "6763572778"
+  },
+  "fecha_imagen": {
+    "$date": "2025-01-24T00:00:00.000Z"
+  },
+  "tipo_imagen": "Resonancia magnética",
+  "descripcion": "Inflamación en la zona abdominal",
+  "resultados": "Resultados normales",
+  "medico_nombre": "Andrés Chucho Gargallo Cerro",
+  "medico_especialidad": "Radiología",
+  "id_profesional": "D822930",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582566"
+  },
+  "id_paciente": {
+    "$numberLong": "8391777159"
+  },
+  "fecha_imagen": {
+    "$date": "2025-04-09T00:00:00.000Z"
+  },
+  "tipo_imagen": "Tomografía",
+  "descripcion": "Lesión en el cerebro",
+  "resultados": "Resultados normales",
+  "medico_nombre": "Valeria Merino-Segarra",
+  "medico_especialidad": "Radiología",
+  "id_profesional": "D958924",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582567"
+  },
+  "id_paciente": {
+    "$numberLong": "7869596003"
+  },
+  "fecha_imagen": {
+    "$date": "2025-02-14T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ecografía",
+  "descripcion": "Tumor en el pulmón derecho",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "Encarna Parra Pla",
+  "medico_especialidad": "Urología",
+  "id_profesional": "D634439",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582568"
+  },
+  "id_paciente": {
+    "$numberLong": "8145330092"
+  },
+  "fecha_imagen": {
+    "$date": "2025-04-01T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ecografía",
+  "descripcion": "Lesión en el cerebro",
+  "resultados": "Necesita seguimiento",
+  "medico_nombre": "Roxana Agullo Morante",
+  "medico_especialidad": "Radiología",
+  "id_profesional": "D492981",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582569"
+  },
+  "id_paciente": {
+    "$numberLong": "7153730234"
+  },
+  "fecha_imagen": {
+    "$date": "2025-03-01T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ecografía",
+  "descripcion": "Fractura en la pierna izquierda",
+  "resultados": "Resultados normales",
+  "medico_nombre": "Régulo Leon Espada",
+  "medico_especialidad": "Ginecología",
+  "id_profesional": "D823493",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658256a"
+  },
+  "id_paciente": {
+    "$numberLong": "7966157536"
+  },
+  "fecha_imagen": {
+    "$date": "2025-02-14T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ultrasonido",
+  "descripcion": "Fractura en la pierna izquierda",
+  "resultados": "Necesita seguimiento",
+  "medico_nombre": "José María de Parra",
+  "medico_especialidad": "Neurocirugía",
+  "id_profesional": "D927388",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658256b"
+  },
+  "id_paciente": {
+    "$numberLong": "7453628973"
+  },
+  "fecha_imagen": {
+    "$date": "2025-04-04T00:00:00.000Z"
+  },
+  "tipo_imagen": "Resonancia magnética",
+  "descripcion": "Inflamación en la zona abdominal",
+  "resultados": "Resultados normales",
+  "medico_nombre": "Lucila del Esteve",
+  "medico_especialidad": "Urología",
+  "id_profesional": "D304424",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658256c"
+  },
+  "id_paciente": {
+    "$numberLong": "9494242190"
+  },
+  "fecha_imagen": {
+    "$date": "2025-02-23T00:00:00.000Z"
+  },
+  "tipo_imagen": "Tomografía",
+  "descripcion": "Lesión en el cerebro",
+  "resultados": "Necesita seguimiento",
+  "medico_nombre": "Jacinto Acevedo",
+  "medico_especialidad": "Ginecología",
+  "id_profesional": "D971708",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658256d"
+  },
+  "id_paciente": 383953039,
+  "fecha_imagen": {
+    "$date": "2025-04-08T00:00:00.000Z"
+  },
+  "tipo_imagen": "Radiografía",
+  "descripcion": "Inflamación en la zona abdominal",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "Ximena Poza",
+  "medico_especialidad": "Ginecología",
+  "id_profesional": "D134956",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658256e"
+  },
+  "id_paciente": 1352123600,
+  "fecha_imagen": {
+    "$date": "2025-03-05T00:00:00.000Z"
+  },
+  "tipo_imagen": "Tomografía",
+  "descripcion": "Lesión en el cerebro",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Adolfo Gimenez Solana",
+  "medico_especialidad": "Ginecología",
+  "id_profesional": "D817797",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658256f"
+  },
+  "id_paciente": 853688203,
+  "fecha_imagen": {
+    "$date": "2025-02-28T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ecografía",
+  "descripcion": "Inflamación en la zona abdominal",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "Jose Malo Muro",
+  "medico_especialidad": "Urología",
+  "id_profesional": "D338376",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582570"
+  },
+  "id_paciente": {
+    "$numberLong": "3877818031"
+  },
+  "fecha_imagen": {
+    "$date": "2025-04-04T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ecografía",
+  "descripcion": "Lesión en el cerebro",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Alejo Peñalver Solana",
+  "medico_especialidad": "Urología",
+  "id_profesional": "D804597",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582571"
+  },
+  "id_paciente": 1040358720,
+  "fecha_imagen": {
+    "$date": "2025-03-01T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ultrasonido",
+  "descripcion": "Inflamación en la zona abdominal",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Mariano Alcolea Pozuelo",
+  "medico_especialidad": "Neurocirugía",
+  "id_profesional": "D952098",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582572"
+  },
+  "id_paciente": {
+    "$numberLong": "2207886782"
+  },
+  "fecha_imagen": {
+    "$date": "2025-04-20T00:00:00.000Z"
+  },
+  "tipo_imagen": "Radiografía",
+  "descripcion": "Cálculos renales detectados",
+  "resultados": "Resultados normales",
+  "medico_nombre": "Borja Bermudez Quintana",
+  "medico_especialidad": "Oncología",
+  "id_profesional": "D843857",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582573"
+  },
+  "id_paciente": {
+    "$numberLong": "9483330011"
+  },
+  "fecha_imagen": {
+    "$date": "2025-04-10T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ultrasonido",
+  "descripcion": "Lesión en el cerebro",
+  "resultados": "Resultados normales",
+  "medico_nombre": "Alonso Baena Iriarte",
+  "medico_especialidad": "Ginecología",
+  "id_profesional": "D653340",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582574"
+  },
+  "id_paciente": {
+    "$numberLong": "3080812618"
+  },
+  "fecha_imagen": {
+    "$date": "2025-03-19T00:00:00.000Z"
+  },
+  "tipo_imagen": "Radiografía",
+  "descripcion": "Inflamación en la zona abdominal",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "África Murcia Sastre",
+  "medico_especialidad": "Radiología",
+  "id_profesional": "D562008",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582575"
+  },
+  "id_paciente": {
+    "$numberLong": "4859368583"
+  },
+  "fecha_imagen": {
+    "$date": "2025-04-08T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ultrasonido",
+  "descripcion": "Tumor en el pulmón derecho",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Reyes Castells Olmo",
+  "medico_especialidad": "Oncología",
+  "id_profesional": "D107548",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582576"
+  },
+  "id_paciente": {
+    "$numberLong": "7733832463"
+  },
+  "fecha_imagen": {
+    "$date": "2025-03-08T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ecografía",
+  "descripcion": "Fractura en la pierna izquierda",
+  "resultados": "Necesita seguimiento",
+  "medico_nombre": "Loida Jordá Palacio",
+  "medico_especialidad": "Oncología",
+  "id_profesional": "D145050",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582577"
+  },
+  "id_paciente": 1204140877,
+  "fecha_imagen": {
+    "$date": "2025-04-12T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ultrasonido",
+  "descripcion": "Tumor en el pulmón derecho",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Remigio Barriga Gargallo",
+  "medico_especialidad": "Ginecología",
+  "id_profesional": "D631201",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582578"
+  },
+  "id_paciente": {
+    "$numberLong": "8007502572"
+  },
+  "fecha_imagen": {
+    "$date": "2025-02-26T00:00:00.000Z"
+  },
+  "tipo_imagen": "Resonancia magnética",
+  "descripcion": "Tumor en el pulmón derecho",
+  "resultados": "Necesita seguimiento",
+  "medico_nombre": "Hortensia Cabrera Laguna",
+  "medico_especialidad": "Oncología",
+  "id_profesional": "D223575",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a72776582579"
+  },
+  "id_paciente": 1029541400,
+  "fecha_imagen": {
+    "$date": "2025-01-06T00:00:00.000Z"
+  },
+  "tipo_imagen": "Resonancia magnética",
+  "descripcion": "Cálculos renales detectados",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Rogelio Clavero Ruano",
+  "medico_especialidad": "Oncología",
+  "id_profesional": "D402094",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658257a"
+  },
+  "id_paciente": {
+    "$numberLong": "5732461823"
+  },
+  "fecha_imagen": {
+    "$date": "2025-02-25T00:00:00.000Z"
+  },
+  "tipo_imagen": "Resonancia magnética",
+  "descripcion": "Lesión en el cerebro",
+  "resultados": "Resultados normales",
+  "medico_nombre": "Diego Sanchez Nebot",
+  "medico_especialidad": "Urología",
+  "id_profesional": "D392607",
+  "notas_adicionales": "No se observaron complicaciones adicionales"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658257b"
+  },
+  "id_paciente": {
+    "$numberLong": "3411753836"
+  },
+  "fecha_imagen": {
+    "$date": "2025-01-11T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ultrasonido",
+  "descripcion": "Fractura en la pierna izquierda",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Ángeles Bustamante Paredes",
+  "medico_especialidad": "Ginecología",
+  "id_profesional": "D581701",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658257c"
+  },
+  "id_paciente": 998470662,
+  "fecha_imagen": {
+    "$date": "2025-03-19T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ultrasonido",
+  "descripcion": "Inflamación en la zona abdominal",
+  "resultados": "Consulta con especialista recomendada",
+  "medico_nombre": "Aitana Serrano Alarcón",
+  "medico_especialidad": "Ginecología",
+  "id_profesional": "D306581",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658257d"
+  },
+  "id_paciente": 1421936526,
+  "fecha_imagen": {
+    "$date": "2025-04-17T00:00:00.000Z"
+  },
+  "tipo_imagen": "Radiografía",
+  "descripcion": "Tumor en el pulmón derecho",
+  "resultados": "Requiere cirugía",
+  "medico_nombre": "Gisela Pujadas Buendía",
+  "medico_especialidad": "Neurocirugía",
+  "id_profesional": "D210196",
+  "notas_adicionales": "Se recomienda estudio de control"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658257e"
+  },
+  "id_paciente": {
+    "$numberLong": "9299839848"
+  },
+  "fecha_imagen": {
+    "$date": "2025-01-23T00:00:00.000Z"
+  },
+  "tipo_imagen": "Ecografía",
+  "descripcion": "Cálculos renales detectados",
+  "resultados": "Necesita seguimiento",
+  "medico_nombre": "Gil Rosado Vives",
+  "medico_especialidad": "Neurocirugía",
+  "id_profesional": "D413826",
+  "notas_adicionales": "Revisar imagen para más detalles"
+},
+{
+  "_id": {
+    "$oid": "680828e21ef7a7277658257f"
+  },
+  "id_paciente": {
+    "$numberLong": "6450255412"
+  },
+  "fecha_imagen": {
+    "$date": "2025-04-20T00:00:00.000Z"
+  },
+  "tipo_imagen": "Resonancia magnética",
+  "descripcion": "Fractura en la pierna izquierda",
+  "resultados": "Resultados normales",
+  "medico_nombre": "Caridad Alfonso Trillo",
+  "medico_especialidad": "Urología",
+  "id_profesional": "D329879",
+  "notas_adicionales": "Se recomienda estudio de control"
+}]
