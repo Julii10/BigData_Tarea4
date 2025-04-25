@@ -1,0 +1,1400 @@
+[{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf194"
+  },
+  "id_examen": "LAB-1001",
+  "id_paciente": 25547635,
+  "fecha_examen": {
+    "$date": "2023-05-17T00:00:00.000Z"
+  },
+  "tipo_examen": "Glicemia",
+  "resultados": "Glucosa: 95 mg/dL",
+  "observaciones": "Who fast find fine significant meeting.",
+  "numero_examen": 5
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf195"
+  },
+  "id_examen": "LAB-1002",
+  "id_paciente": 30988103,
+  "fecha_examen": {
+    "$date": "2023-04-27T00:00:00.000Z"
+  },
+  "tipo_examen": "Función hepática",
+  "resultados": "TGO: 25 U/L, TGP: 30 U/L, Bilirrubina Total: 0.8 mg/dL",
+  "observaciones": "Old ground bank choose PM.",
+  "numero_examen": 9
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf196"
+  },
+  "id_examen": "LAB-1003",
+  "id_paciente": 27947227,
+  "fecha_examen": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "tipo_examen": "Glicemia",
+  "resultados": "Glucosa: 95 mg/dL",
+  "observaciones": "Wear language likely item.",
+  "numero_examen": 6
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf197"
+  },
+  "id_examen": "LAB-1004",
+  "id_paciente": 75643617,
+  "fecha_examen": {
+    "$date": "2025-02-03T00:00:00.000Z"
+  },
+  "tipo_examen": "Hemograma",
+  "resultados": "Hb: 13.5 g/dL, Hto: 40%, Leucocitos: 6,000/mm³",
+  "observaciones": "Happen good record religious.",
+  "numero_examen": 6
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf198"
+  },
+  "id_examen": "LAB-1005",
+  "id_paciente": 76090177,
+  "fecha_examen": {
+    "$date": "2024-03-19T00:00:00.000Z"
+  },
+  "tipo_examen": "Función hepática",
+  "resultados": "TGO: 25 U/L, TGP: 30 U/L, Bilirrubina Total: 0.8 mg/dL",
+  "observaciones": "Condition speech nice collection worker compare computer student set thought.",
+  "numero_examen": 9
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf199"
+  },
+  "id_examen": "LAB-1006",
+  "id_paciente": 99448350,
+  "fecha_examen": {
+    "$date": "2025-04-07T00:00:00.000Z"
+  },
+  "tipo_examen": "Función hepática",
+  "resultados": "TGO: 25 U/L, TGP: 30 U/L, Bilirrubina Total: 0.8 mg/dL",
+  "observaciones": "Man board best nature require or available the firm particular.",
+  "numero_examen": 2
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf19a"
+  },
+  "id_examen": "LAB-1007",
+  "id_paciente": 70762569,
+  "fecha_examen": {
+    "$date": "2024-10-31T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "Large benefit worker shake talk law relationship bill training participant.",
+  "numero_examen": 8
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf19b"
+  },
+  "id_examen": "LAB-1008",
+  "id_paciente": 37401211,
+  "fecha_examen": {
+    "$date": "2024-06-22T00:00:00.000Z"
+  },
+  "tipo_examen": "Hemograma",
+  "resultados": "Hb: 13.5 g/dL, Hto: 40%, Leucocitos: 6,000/mm³",
+  "observaciones": "Language four break scene like Democrat wonder society around quality.",
+  "numero_examen": 1
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf19c"
+  },
+  "id_examen": "LAB-1009",
+  "id_paciente": 86639096,
+  "fecha_examen": {
+    "$date": "2023-08-28T00:00:00.000Z"
+  },
+  "tipo_examen": "Glicemia",
+  "resultados": "Glucosa: 95 mg/dL",
+  "observaciones": "Whole dream town he effect present.",
+  "numero_examen": 4
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf19d"
+  },
+  "id_examen": "LAB-1010",
+  "id_paciente": 49245121,
+  "fecha_examen": {
+    "$date": "2023-12-25T00:00:00.000Z"
+  },
+  "tipo_examen": "Hemograma",
+  "resultados": "Hb: 13.5 g/dL, Hto: 40%, Leucocitos: 6,000/mm³",
+  "observaciones": "Shake child beat world better energy medical.",
+  "numero_examen": 9
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf19e"
+  },
+  "id_examen": "LAB-1011",
+  "id_paciente": 36519134,
+  "fecha_examen": {
+    "$date": "2024-04-30T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "Short network must in sea sort interview firm party.",
+  "numero_examen": 9
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf19f"
+  },
+  "id_examen": "LAB-1012",
+  "id_paciente": 84800256,
+  "fecha_examen": {
+    "$date": "2023-10-02T00:00:00.000Z"
+  },
+  "tipo_examen": "Glicemia",
+  "resultados": "Glucosa: 95 mg/dL",
+  "observaciones": "Go necessary together natural side finally.",
+  "numero_examen": 1
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1a0"
+  },
+  "id_examen": "LAB-1013",
+  "id_paciente": 86296731,
+  "fecha_examen": {
+    "$date": "2024-05-01T00:00:00.000Z"
+  },
+  "tipo_examen": "Glicemia",
+  "resultados": "Glucosa: 95 mg/dL",
+  "observaciones": "Sport property none cover edge ability task national include.",
+  "numero_examen": 10
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1a1"
+  },
+  "id_examen": "LAB-1014",
+  "id_paciente": 26178769,
+  "fecha_examen": {
+    "$date": "2025-02-17T00:00:00.000Z"
+  },
+  "tipo_examen": "Perfil lipídico",
+  "resultados": "Colesterol Total: 180 mg/dL, HDL: 45 mg/dL, LDL: 100 mg/dL",
+  "observaciones": "Management successful list enjoy image find.",
+  "numero_examen": 7
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1a2"
+  },
+  "id_examen": "LAB-1015",
+  "id_paciente": 78900588,
+  "fecha_examen": {
+    "$date": "2023-09-18T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "Different with speak memory business across series herself.",
+  "numero_examen": 5
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1a3"
+  },
+  "id_examen": "LAB-1016",
+  "id_paciente": 67424030,
+  "fecha_examen": {
+    "$date": "2023-12-13T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "Remember herself produce issue gun foot loss consider.",
+  "numero_examen": 5
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1a4"
+  },
+  "id_examen": "LAB-1017",
+  "id_paciente": 89060991,
+  "fecha_examen": {
+    "$date": "2023-12-12T00:00:00.000Z"
+  },
+  "tipo_examen": "Función hepática",
+  "resultados": "TGO: 25 U/L, TGP: 30 U/L, Bilirrubina Total: 0.8 mg/dL",
+  "observaciones": "Score morning dark rest security wide particular brother wear tree.",
+  "numero_examen": 9
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1a5"
+  },
+  "id_examen": "LAB-1018",
+  "id_paciente": 72639072,
+  "fecha_examen": {
+    "$date": "2024-09-11T00:00:00.000Z"
+  },
+  "tipo_examen": "Glicemia",
+  "resultados": "Glucosa: 95 mg/dL",
+  "observaciones": "My develop cultural under economy world price majority fish authority.",
+  "numero_examen": 7
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1a6"
+  },
+  "id_examen": "LAB-1019",
+  "id_paciente": 50204999,
+  "fecha_examen": {
+    "$date": "2023-09-06T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "Television brother bad main out culture minute.",
+  "numero_examen": 6
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1a7"
+  },
+  "id_examen": "LAB-1020",
+  "id_paciente": 23154797,
+  "fecha_examen": {
+    "$date": "2023-04-24T00:00:00.000Z"
+  },
+  "tipo_examen": "Glicemia",
+  "resultados": "Glucosa: 95 mg/dL",
+  "observaciones": "Vote able wind must son somebody.",
+  "numero_examen": 5
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1a8"
+  },
+  "id_examen": "LAB-1021",
+  "id_paciente": 20448951,
+  "fecha_examen": {
+    "$date": "2025-04-17T00:00:00.000Z"
+  },
+  "tipo_examen": "Perfil lipídico",
+  "resultados": "Colesterol Total: 180 mg/dL, HDL: 45 mg/dL, LDL: 100 mg/dL",
+  "observaciones": "Or station clearly film describe get.",
+  "numero_examen": 10
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1a9"
+  },
+  "id_examen": "LAB-1022",
+  "id_paciente": 92374409,
+  "fecha_examen": {
+    "$date": "2024-11-07T00:00:00.000Z"
+  },
+  "tipo_examen": "Hemograma",
+  "resultados": "Hb: 13.5 g/dL, Hto: 40%, Leucocitos: 6,000/mm³",
+  "observaciones": "Administration idea wall car blood.",
+  "numero_examen": 7
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1aa"
+  },
+  "id_examen": "LAB-1023",
+  "id_paciente": 97589454,
+  "fecha_examen": {
+    "$date": "2023-07-07T00:00:00.000Z"
+  },
+  "tipo_examen": "Función hepática",
+  "resultados": "TGO: 25 U/L, TGP: 30 U/L, Bilirrubina Total: 0.8 mg/dL",
+  "observaciones": "Window common popular figure team purpose might.",
+  "numero_examen": 6
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1ab"
+  },
+  "id_examen": "LAB-1024",
+  "id_paciente": 23561026,
+  "fecha_examen": {
+    "$date": "2025-01-18T00:00:00.000Z"
+  },
+  "tipo_examen": "Función hepática",
+  "resultados": "TGO: 25 U/L, TGP: 30 U/L, Bilirrubina Total: 0.8 mg/dL",
+  "observaciones": "Establish former about begin policy newspaper test.",
+  "numero_examen": 8
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1ac"
+  },
+  "id_examen": "LAB-1025",
+  "id_paciente": 52847170,
+  "fecha_examen": {
+    "$date": "2024-09-20T00:00:00.000Z"
+  },
+  "tipo_examen": "Función hepática",
+  "resultados": "TGO: 25 U/L, TGP: 30 U/L, Bilirrubina Total: 0.8 mg/dL",
+  "observaciones": "Discussion since need just most world television.",
+  "numero_examen": 7
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1ad"
+  },
+  "id_examen": "LAB-1026",
+  "id_paciente": 64373263,
+  "fecha_examen": {
+    "$date": "2024-11-14T00:00:00.000Z"
+  },
+  "tipo_examen": "Glicemia",
+  "resultados": "Glucosa: 95 mg/dL",
+  "observaciones": "Answer tough hard music voice discover name.",
+  "numero_examen": 4
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1ae"
+  },
+  "id_examen": "LAB-1027",
+  "id_paciente": 67531531,
+  "fecha_examen": {
+    "$date": "2024-06-15T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "Paper must charge power these anyone forward.",
+  "numero_examen": 9
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1af"
+  },
+  "id_examen": "LAB-1028",
+  "id_paciente": 89271701,
+  "fecha_examen": {
+    "$date": "2025-02-13T00:00:00.000Z"
+  },
+  "tipo_examen": "Función hepática",
+  "resultados": "TGO: 25 U/L, TGP: 30 U/L, Bilirrubina Total: 0.8 mg/dL",
+  "observaciones": "Language billion know else similar arm.",
+  "numero_examen": 9
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1b0"
+  },
+  "id_examen": "LAB-1029",
+  "id_paciente": 35953791,
+  "fecha_examen": {
+    "$date": "2023-11-17T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "Have teach including full road among point.",
+  "numero_examen": 1
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1b1"
+  },
+  "id_examen": "LAB-1030",
+  "id_paciente": 96770662,
+  "fecha_examen": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "tipo_examen": "Hemograma",
+  "resultados": "Hb: 13.5 g/dL, Hto: 40%, Leucocitos: 6,000/mm³",
+  "observaciones": "Always whom remember our customer give box.",
+  "numero_examen": 8
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1b2"
+  },
+  "id_examen": "LAB-1031",
+  "id_paciente": 52435768,
+  "fecha_examen": {
+    "$date": "2023-10-16T00:00:00.000Z"
+  },
+  "tipo_examen": "Perfil lipídico",
+  "resultados": "Colesterol Total: 180 mg/dL, HDL: 45 mg/dL, LDL: 100 mg/dL",
+  "observaciones": "Size shoulder then true gun rest teacher institution.",
+  "numero_examen": 5
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1b3"
+  },
+  "id_examen": "LAB-1032",
+  "id_paciente": 64626573,
+  "fecha_examen": {
+    "$date": "2024-01-01T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "Worker remain this somebody option hospital audience southern authority mother.",
+  "numero_examen": 3
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1b4"
+  },
+  "id_examen": "LAB-1033",
+  "id_paciente": 14125204,
+  "fecha_examen": {
+    "$date": "2023-05-17T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "Hand explain change ok vote.",
+  "numero_examen": 4
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1b5"
+  },
+  "id_examen": "LAB-1034",
+  "id_paciente": 84789996,
+  "fecha_examen": {
+    "$date": "2023-12-11T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "Else so two moment always.",
+  "numero_examen": 7
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1b6"
+  },
+  "id_examen": "LAB-1035",
+  "id_paciente": 22290954,
+  "fecha_examen": {
+    "$date": "2025-04-07T00:00:00.000Z"
+  },
+  "tipo_examen": "Glicemia",
+  "resultados": "Glucosa: 95 mg/dL",
+  "observaciones": "Cell base mouth imagine help.",
+  "numero_examen": 4
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1b7"
+  },
+  "id_examen": "LAB-1036",
+  "id_paciente": 92444245,
+  "fecha_examen": {
+    "$date": "2023-09-07T00:00:00.000Z"
+  },
+  "tipo_examen": "Hemograma",
+  "resultados": "Hb: 13.5 g/dL, Hto: 40%, Leucocitos: 6,000/mm³",
+  "observaciones": "Team white or whose teacher he arm language experience order same.",
+  "numero_examen": 6
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1b8"
+  },
+  "id_examen": "LAB-1037",
+  "id_paciente": 72148773,
+  "fecha_examen": {
+    "$date": "2025-01-28T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "Fly head early clearly remember environmental.",
+  "numero_examen": 10
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1b9"
+  },
+  "id_examen": "LAB-1038",
+  "id_paciente": 64195783,
+  "fecha_examen": {
+    "$date": "2023-05-26T00:00:00.000Z"
+  },
+  "tipo_examen": "Perfil lipídico",
+  "resultados": "Colesterol Total: 180 mg/dL, HDL: 45 mg/dL, LDL: 100 mg/dL",
+  "observaciones": "Raise enough son reason sea group writer read candidate company.",
+  "numero_examen": 5
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1ba"
+  },
+  "id_examen": "LAB-1039",
+  "id_paciente": 63037464,
+  "fecha_examen": {
+    "$date": "2023-05-07T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "Heavy success east wish allow music site machine.",
+  "numero_examen": 2
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1bb"
+  },
+  "id_examen": "LAB-1040",
+  "id_paciente": 72558841,
+  "fecha_examen": {
+    "$date": "2024-07-08T00:00:00.000Z"
+  },
+  "tipo_examen": "Glicemia",
+  "resultados": "Glucosa: 95 mg/dL",
+  "observaciones": "Both table very west choose.",
+  "numero_examen": 5
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1bc"
+  },
+  "id_examen": "LAB-1041",
+  "id_paciente": 14087107,
+  "fecha_examen": {
+    "$date": "2024-10-07T00:00:00.000Z"
+  },
+  "tipo_examen": "Función hepática",
+  "resultados": "TGO: 25 U/L, TGP: 30 U/L, Bilirrubina Total: 0.8 mg/dL",
+  "observaciones": "Almost computer foot during themselves.",
+  "numero_examen": 5
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1bd"
+  },
+  "id_examen": "LAB-1042",
+  "id_paciente": 33119876,
+  "fecha_examen": {
+    "$date": "2024-04-30T00:00:00.000Z"
+  },
+  "tipo_examen": "Glicemia",
+  "resultados": "Glucosa: 95 mg/dL",
+  "observaciones": "Building newspaper fight base police behind.",
+  "numero_examen": 4
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1be"
+  },
+  "id_examen": "LAB-1043",
+  "id_paciente": 41060278,
+  "fecha_examen": {
+    "$date": "2025-04-18T00:00:00.000Z"
+  },
+  "tipo_examen": "Perfil lipídico",
+  "resultados": "Colesterol Total: 180 mg/dL, HDL: 45 mg/dL, LDL: 100 mg/dL",
+  "observaciones": "Month small fire last approach.",
+  "numero_examen": 10
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1bf"
+  },
+  "id_examen": "LAB-1044",
+  "id_paciente": 90187253,
+  "fecha_examen": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "General want allow six surface.",
+  "numero_examen": 6
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1c0"
+  },
+  "id_examen": "LAB-1045",
+  "id_paciente": 87015270,
+  "fecha_examen": {
+    "$date": "2025-02-28T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "Tonight arrive woman agent PM.",
+  "numero_examen": 1
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1c1"
+  },
+  "id_examen": "LAB-1046",
+  "id_paciente": 41162473,
+  "fecha_examen": {
+    "$date": "2024-01-21T00:00:00.000Z"
+  },
+  "tipo_examen": "Perfil lipídico",
+  "resultados": "Colesterol Total: 180 mg/dL, HDL: 45 mg/dL, LDL: 100 mg/dL",
+  "observaciones": "Positive family sea major that onto themselves account fire.",
+  "numero_examen": 10
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1c2"
+  },
+  "id_examen": "LAB-1047",
+  "id_paciente": 32581111,
+  "fecha_examen": {
+    "$date": "2024-06-13T00:00:00.000Z"
+  },
+  "tipo_examen": "Perfil lipídico",
+  "resultados": "Colesterol Total: 180 mg/dL, HDL: 45 mg/dL, LDL: 100 mg/dL",
+  "observaciones": "Animal service high financial cover base consumer wall blood still.",
+  "numero_examen": 2
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1c3"
+  },
+  "id_examen": "LAB-1048",
+  "id_paciente": 32641282,
+  "fecha_examen": {
+    "$date": "2024-06-16T00:00:00.000Z"
+  },
+  "tipo_examen": "Función hepática",
+  "resultados": "TGO: 25 U/L, TGP: 30 U/L, Bilirrubina Total: 0.8 mg/dL",
+  "observaciones": "Detail the by character purpose one though but strong.",
+  "numero_examen": 8
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1c4"
+  },
+  "id_examen": "LAB-1049",
+  "id_paciente": 93459722,
+  "fecha_examen": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "tipo_examen": "Glicemia",
+  "resultados": "Glucosa: 95 mg/dL",
+  "observaciones": "Way security present name whatever line.",
+  "numero_examen": 6
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1c5"
+  },
+  "id_examen": "LAB-1050",
+  "id_paciente": 86267640,
+  "fecha_examen": {
+    "$date": "2023-06-15T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "War response need smile cover.",
+  "numero_examen": 1
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1c6"
+  },
+  "id_examen": "LAB-1051",
+  "id_paciente": 11237147,
+  "fecha_examen": {
+    "$date": "2024-07-22T00:00:00.000Z"
+  },
+  "tipo_examen": "Hemograma",
+  "resultados": "Hb: 13.5 g/dL, Hto: 40%, Leucocitos: 6,000/mm³",
+  "observaciones": "Large interest all suggest region size red foreign.",
+  "numero_examen": 7
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1c7"
+  },
+  "id_examen": "LAB-1052",
+  "id_paciente": 98909787,
+  "fecha_examen": {
+    "$date": "2024-12-14T00:00:00.000Z"
+  },
+  "tipo_examen": "Perfil lipídico",
+  "resultados": "Colesterol Total: 180 mg/dL, HDL: 45 mg/dL, LDL: 100 mg/dL",
+  "observaciones": "Water character single government camera material ground win early work spend.",
+  "numero_examen": 8
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1c8"
+  },
+  "id_examen": "LAB-1053",
+  "id_paciente": 12329229,
+  "fecha_examen": {
+    "$date": "2024-12-21T00:00:00.000Z"
+  },
+  "tipo_examen": "Hemograma",
+  "resultados": "Hb: 13.5 g/dL, Hto: 40%, Leucocitos: 6,000/mm³",
+  "observaciones": "Quite miss involve positive decide speak available.",
+  "numero_examen": 10
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1c9"
+  },
+  "id_examen": "LAB-1054",
+  "id_paciente": 74785735,
+  "fecha_examen": {
+    "$date": "2024-08-03T00:00:00.000Z"
+  },
+  "tipo_examen": "Glicemia",
+  "resultados": "Glucosa: 95 mg/dL",
+  "observaciones": "Quickly structure after guess despite.",
+  "numero_examen": 10
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1ca"
+  },
+  "id_examen": "LAB-1055",
+  "id_paciente": 91741572,
+  "fecha_examen": {
+    "$date": "2023-09-02T00:00:00.000Z"
+  },
+  "tipo_examen": "Perfil lipídico",
+  "resultados": "Colesterol Total: 180 mg/dL, HDL: 45 mg/dL, LDL: 100 mg/dL",
+  "observaciones": "Produce land ever project yourself since bag into reach.",
+  "numero_examen": 6
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1cb"
+  },
+  "id_examen": "LAB-1056",
+  "id_paciente": 75929957,
+  "fecha_examen": {
+    "$date": "2024-09-26T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "Somebody forget son safe group part total.",
+  "numero_examen": 4
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1cc"
+  },
+  "id_examen": "LAB-1057",
+  "id_paciente": 48877555,
+  "fecha_examen": {
+    "$date": "2024-04-23T00:00:00.000Z"
+  },
+  "tipo_examen": "Función hepática",
+  "resultados": "TGO: 25 U/L, TGP: 30 U/L, Bilirrubina Total: 0.8 mg/dL",
+  "observaciones": "Million door itself type way fear beat question wear after.",
+  "numero_examen": 6
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1cd"
+  },
+  "id_examen": "LAB-1058",
+  "id_paciente": 22038454,
+  "fecha_examen": {
+    "$date": "2023-12-30T00:00:00.000Z"
+  },
+  "tipo_examen": "Perfil lipídico",
+  "resultados": "Colesterol Total: 180 mg/dL, HDL: 45 mg/dL, LDL: 100 mg/dL",
+  "observaciones": "Require recent listen true political spring nice card young seem.",
+  "numero_examen": 8
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1ce"
+  },
+  "id_examen": "LAB-1059",
+  "id_paciente": 80145631,
+  "fecha_examen": {
+    "$date": "2023-05-12T00:00:00.000Z"
+  },
+  "tipo_examen": "Función hepática",
+  "resultados": "TGO: 25 U/L, TGP: 30 U/L, Bilirrubina Total: 0.8 mg/dL",
+  "observaciones": "Particular who remain nation great.",
+  "numero_examen": 9
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1cf"
+  },
+  "id_examen": "LAB-1060",
+  "id_paciente": 52170652,
+  "fecha_examen": {
+    "$date": "2024-04-01T00:00:00.000Z"
+  },
+  "tipo_examen": "Función hepática",
+  "resultados": "TGO: 25 U/L, TGP: 30 U/L, Bilirrubina Total: 0.8 mg/dL",
+  "observaciones": "Still when situation join evidence today foreign.",
+  "numero_examen": 4
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1d0"
+  },
+  "id_examen": "LAB-1061",
+  "id_paciente": 24387079,
+  "fecha_examen": {
+    "$date": "2025-02-27T00:00:00.000Z"
+  },
+  "tipo_examen": "Perfil lipídico",
+  "resultados": "Colesterol Total: 180 mg/dL, HDL: 45 mg/dL, LDL: 100 mg/dL",
+  "observaciones": "Turn ten to we seat.",
+  "numero_examen": 5
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1d1"
+  },
+  "id_examen": "LAB-1062",
+  "id_paciente": 70555350,
+  "fecha_examen": {
+    "$date": "2024-12-31T00:00:00.000Z"
+  },
+  "tipo_examen": "Función hepática",
+  "resultados": "TGO: 25 U/L, TGP: 30 U/L, Bilirrubina Total: 0.8 mg/dL",
+  "observaciones": "Indeed spend produce clearly quickly seek situation.",
+  "numero_examen": 5
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1d2"
+  },
+  "id_examen": "LAB-1063",
+  "id_paciente": 89966034,
+  "fecha_examen": {
+    "$date": "2023-11-22T00:00:00.000Z"
+  },
+  "tipo_examen": "Perfil lipídico",
+  "resultados": "Colesterol Total: 180 mg/dL, HDL: 45 mg/dL, LDL: 100 mg/dL",
+  "observaciones": "Happy whole since onto decade record also what their new.",
+  "numero_examen": 2
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1d3"
+  },
+  "id_examen": "LAB-1064",
+  "id_paciente": 72537673,
+  "fecha_examen": {
+    "$date": "2024-08-17T00:00:00.000Z"
+  },
+  "tipo_examen": "Función hepática",
+  "resultados": "TGO: 25 U/L, TGP: 30 U/L, Bilirrubina Total: 0.8 mg/dL",
+  "observaciones": "Never bag per building loss skin.",
+  "numero_examen": 2
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1d4"
+  },
+  "id_examen": "LAB-1065",
+  "id_paciente": 50770906,
+  "fecha_examen": {
+    "$date": "2024-02-10T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "Approach under hard expect rest everybody eight military citizen physical involve.",
+  "numero_examen": 9
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1d5"
+  },
+  "id_examen": "LAB-1066",
+  "id_paciente": 46787377,
+  "fecha_examen": {
+    "$date": "2024-09-25T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "Matter may least five owner reality almost.",
+  "numero_examen": 7
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1d6"
+  },
+  "id_examen": "LAB-1067",
+  "id_paciente": 25321521,
+  "fecha_examen": {
+    "$date": "2023-06-06T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "Left commercial live debate simple design including before human.",
+  "numero_examen": 3
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1d7"
+  },
+  "id_examen": "LAB-1068",
+  "id_paciente": 68793030,
+  "fecha_examen": {
+    "$date": "2023-05-09T00:00:00.000Z"
+  },
+  "tipo_examen": "Perfil lipídico",
+  "resultados": "Colesterol Total: 180 mg/dL, HDL: 45 mg/dL, LDL: 100 mg/dL",
+  "observaciones": "Forward fight both front this light heart officer.",
+  "numero_examen": 2
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1d8"
+  },
+  "id_examen": "LAB-1069",
+  "id_paciente": 28527844,
+  "fecha_examen": {
+    "$date": "2024-03-01T00:00:00.000Z"
+  },
+  "tipo_examen": "Perfil lipídico",
+  "resultados": "Colesterol Total: 180 mg/dL, HDL: 45 mg/dL, LDL: 100 mg/dL",
+  "observaciones": "Car positive how middle camera today must under.",
+  "numero_examen": 5
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1d9"
+  },
+  "id_examen": "LAB-1070",
+  "id_paciente": 84043004,
+  "fecha_examen": {
+    "$date": "2023-08-31T00:00:00.000Z"
+  },
+  "tipo_examen": "Hemograma",
+  "resultados": "Hb: 13.5 g/dL, Hto: 40%, Leucocitos: 6,000/mm³",
+  "observaciones": "Behavior budget often book.",
+  "numero_examen": 5
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1da"
+  },
+  "id_examen": "LAB-1071",
+  "id_paciente": 57888514,
+  "fecha_examen": {
+    "$date": "2024-05-11T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "Guess break magazine western thousand table one hotel.",
+  "numero_examen": 8
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1db"
+  },
+  "id_examen": "LAB-1072",
+  "id_paciente": 49230716,
+  "fecha_examen": {
+    "$date": "2024-12-04T00:00:00.000Z"
+  },
+  "tipo_examen": "Función hepática",
+  "resultados": "TGO: 25 U/L, TGP: 30 U/L, Bilirrubina Total: 0.8 mg/dL",
+  "observaciones": "Land available family wide young pressure lawyer relationship.",
+  "numero_examen": 8
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1dc"
+  },
+  "id_examen": "LAB-1073",
+  "id_paciente": 48402787,
+  "fecha_examen": {
+    "$date": "2023-05-20T00:00:00.000Z"
+  },
+  "tipo_examen": "Función hepática",
+  "resultados": "TGO: 25 U/L, TGP: 30 U/L, Bilirrubina Total: 0.8 mg/dL",
+  "observaciones": "Skin her chance personal this actually read case sit education fast.",
+  "numero_examen": 3
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1dd"
+  },
+  "id_examen": "LAB-1074",
+  "id_paciente": 12472168,
+  "fecha_examen": {
+    "$date": "2025-01-18T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "Dog area attorney memory any often factor project very school.",
+  "numero_examen": 9
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1de"
+  },
+  "id_examen": "LAB-1075",
+  "id_paciente": 15835203,
+  "fecha_examen": {
+    "$date": "2024-12-07T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "Really national road treatment two treatment month and serve couple.",
+  "numero_examen": 8
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1df"
+  },
+  "id_examen": "LAB-1076",
+  "id_paciente": 18692879,
+  "fecha_examen": {
+    "$date": "2023-06-28T00:00:00.000Z"
+  },
+  "tipo_examen": "Función hepática",
+  "resultados": "TGO: 25 U/L, TGP: 30 U/L, Bilirrubina Total: 0.8 mg/dL",
+  "observaciones": "General maintain doctor fund war major let education above yes.",
+  "numero_examen": 7
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1e0"
+  },
+  "id_examen": "LAB-1077",
+  "id_paciente": 62886415,
+  "fecha_examen": {
+    "$date": "2023-11-21T00:00:00.000Z"
+  },
+  "tipo_examen": "Glicemia",
+  "resultados": "Glucosa: 95 mg/dL",
+  "observaciones": "Either step marriage hair read word task can.",
+  "numero_examen": 4
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1e1"
+  },
+  "id_examen": "LAB-1078",
+  "id_paciente": 29682868,
+  "fecha_examen": {
+    "$date": "2024-12-18T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "Cause seven continue how short there her sign.",
+  "numero_examen": 6
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1e2"
+  },
+  "id_examen": "LAB-1079",
+  "id_paciente": 79139945,
+  "fecha_examen": {
+    "$date": "2024-08-01T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "Just once outside mother politics house them finally base author.",
+  "numero_examen": 7
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1e3"
+  },
+  "id_examen": "LAB-1080",
+  "id_paciente": 91881153,
+  "fecha_examen": {
+    "$date": "2023-06-22T00:00:00.000Z"
+  },
+  "tipo_examen": "Función hepática",
+  "resultados": "TGO: 25 U/L, TGP: 30 U/L, Bilirrubina Total: 0.8 mg/dL",
+  "observaciones": "Present clearly treatment quickly determine add.",
+  "numero_examen": 2
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1e4"
+  },
+  "id_examen": "LAB-1081",
+  "id_paciente": 79973331,
+  "fecha_examen": {
+    "$date": "2025-02-10T00:00:00.000Z"
+  },
+  "tipo_examen": "Glicemia",
+  "resultados": "Glucosa: 95 mg/dL",
+  "observaciones": "Operation compare research up ten career.",
+  "numero_examen": 2
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1e5"
+  },
+  "id_examen": "LAB-1082",
+  "id_paciente": 25190801,
+  "fecha_examen": {
+    "$date": "2024-07-29T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "Finally little discuss play property that guess author someone.",
+  "numero_examen": 4
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1e6"
+  },
+  "id_examen": "LAB-1083",
+  "id_paciente": 28007962,
+  "fecha_examen": {
+    "$date": "2024-11-04T00:00:00.000Z"
+  },
+  "tipo_examen": "Hemograma",
+  "resultados": "Hb: 13.5 g/dL, Hto: 40%, Leucocitos: 6,000/mm³",
+  "observaciones": "Doctor agent somebody center nature step billion father among.",
+  "numero_examen": 8
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1e7"
+  },
+  "id_examen": "LAB-1084",
+  "id_paciente": 52731060,
+  "fecha_examen": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "tipo_examen": "Glicemia",
+  "resultados": "Glucosa: 95 mg/dL",
+  "observaciones": "Leader begin radio me style price history every.",
+  "numero_examen": 6
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1e8"
+  },
+  "id_examen": "LAB-1085",
+  "id_paciente": 42550090,
+  "fecha_examen": {
+    "$date": "2023-05-16T00:00:00.000Z"
+  },
+  "tipo_examen": "Perfil lipídico",
+  "resultados": "Colesterol Total: 180 mg/dL, HDL: 45 mg/dL, LDL: 100 mg/dL",
+  "observaciones": "Include century next provide safe federal responsibility performance pattern however.",
+  "numero_examen": 8
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1e9"
+  },
+  "id_examen": "LAB-1086",
+  "id_paciente": 58575839,
+  "fecha_examen": {
+    "$date": "2023-05-03T00:00:00.000Z"
+  },
+  "tipo_examen": "Glicemia",
+  "resultados": "Glucosa: 95 mg/dL",
+  "observaciones": "Career energy eight cause majority thing.",
+  "numero_examen": 6
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1ea"
+  },
+  "id_examen": "LAB-1087",
+  "id_paciente": 96187800,
+  "fecha_examen": {
+    "$date": "2024-01-29T00:00:00.000Z"
+  },
+  "tipo_examen": "Glicemia",
+  "resultados": "Glucosa: 95 mg/dL",
+  "observaciones": "Role without box eye dinner approach maintain study realize admit.",
+  "numero_examen": 7
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1eb"
+  },
+  "id_examen": "LAB-1088",
+  "id_paciente": 80539281,
+  "fecha_examen": {
+    "$date": "2023-07-31T00:00:00.000Z"
+  },
+  "tipo_examen": "Glicemia",
+  "resultados": "Glucosa: 95 mg/dL",
+  "observaciones": "Into father arrive help social.",
+  "numero_examen": 10
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1ec"
+  },
+  "id_examen": "LAB-1089",
+  "id_paciente": 93448077,
+  "fecha_examen": {
+    "$date": "2024-09-26T00:00:00.000Z"
+  },
+  "tipo_examen": "Hemograma",
+  "resultados": "Hb: 13.5 g/dL, Hto: 40%, Leucocitos: 6,000/mm³",
+  "observaciones": "Wind leave if poor use ago family.",
+  "numero_examen": 4
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1ed"
+  },
+  "id_examen": "LAB-1090",
+  "id_paciente": 80093805,
+  "fecha_examen": {
+    "$date": "2023-11-09T00:00:00.000Z"
+  },
+  "tipo_examen": "Perfil lipídico",
+  "resultados": "Colesterol Total: 180 mg/dL, HDL: 45 mg/dL, LDL: 100 mg/dL",
+  "observaciones": "Guess though consumer expert table sit air network trade.",
+  "numero_examen": 5
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1ee"
+  },
+  "id_examen": "LAB-1091",
+  "id_paciente": 34042811,
+  "fecha_examen": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "tipo_examen": "Perfil lipídico",
+  "resultados": "Colesterol Total: 180 mg/dL, HDL: 45 mg/dL, LDL: 100 mg/dL",
+  "observaciones": "Place paper table western research environment law Mr itself.",
+  "numero_examen": 1
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1ef"
+  },
+  "id_examen": "LAB-1092",
+  "id_paciente": 46922190,
+  "fecha_examen": {
+    "$date": "2025-03-29T00:00:00.000Z"
+  },
+  "tipo_examen": "Hemograma",
+  "resultados": "Hb: 13.5 g/dL, Hto: 40%, Leucocitos: 6,000/mm³",
+  "observaciones": "Agree police try radio part reason month teach war.",
+  "numero_examen": 3
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1f0"
+  },
+  "id_examen": "LAB-1093",
+  "id_paciente": 59906392,
+  "fecha_examen": {
+    "$date": "2023-12-14T00:00:00.000Z"
+  },
+  "tipo_examen": "Hemograma",
+  "resultados": "Hb: 13.5 g/dL, Hto: 40%, Leucocitos: 6,000/mm³",
+  "observaciones": "Full hot administration million state light compare ground material since.",
+  "numero_examen": 1
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1f1"
+  },
+  "id_examen": "LAB-1094",
+  "id_paciente": 65421617,
+  "fecha_examen": {
+    "$date": "2024-10-11T00:00:00.000Z"
+  },
+  "tipo_examen": "Glicemia",
+  "resultados": "Glucosa: 95 mg/dL",
+  "observaciones": "Artist good war news build national great.",
+  "numero_examen": 10
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1f2"
+  },
+  "id_examen": "LAB-1095",
+  "id_paciente": 45291626,
+  "fecha_examen": {
+    "$date": "2024-04-20T00:00:00.000Z"
+  },
+  "tipo_examen": "Función hepática",
+  "resultados": "TGO: 25 U/L, TGP: 30 U/L, Bilirrubina Total: 0.8 mg/dL",
+  "observaciones": "Economic would consumer history floor west represent better.",
+  "numero_examen": 5
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1f3"
+  },
+  "id_examen": "LAB-1096",
+  "id_paciente": 55156521,
+  "fecha_examen": {
+    "$date": "2024-05-17T00:00:00.000Z"
+  },
+  "tipo_examen": "Función hepática",
+  "resultados": "TGO: 25 U/L, TGP: 30 U/L, Bilirrubina Total: 0.8 mg/dL",
+  "observaciones": "From real cold often this some upon same do.",
+  "numero_examen": 9
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1f4"
+  },
+  "id_examen": "LAB-1097",
+  "id_paciente": 31969234,
+  "fecha_examen": {
+    "$date": "2023-08-24T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "Hard recognize agency garden month nature need Congress.",
+  "numero_examen": 6
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1f5"
+  },
+  "id_examen": "LAB-1098",
+  "id_paciente": 81760240,
+  "fecha_examen": {
+    "$date": "2023-10-27T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "Interesting present focus you interesting avoid degree.",
+  "numero_examen": 4
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1f6"
+  },
+  "id_examen": "LAB-1099",
+  "id_paciente": 35318725,
+  "fecha_examen": {
+    "$date": "2025-04-03T00:00:00.000Z"
+  },
+  "tipo_examen": "Uroanálisis",
+  "resultados": "pH: 6.0, Densidad: 1.020, Proteínas: Negativo",
+  "observaciones": "Card military adult eight resource effort democratic so local.",
+  "numero_examen": 8
+},
+{
+  "_id": {
+    "$oid": "680af21cb1a3194a018cf1f7"
+  },
+  "id_examen": "LAB-1100",
+  "id_paciente": 52975945,
+  "fecha_examen": {
+    "$date": "2024-09-23T00:00:00.000Z"
+  },
+  "tipo_examen": "Glicemia",
+  "resultados": "Glucosa: 95 mg/dL",
+  "observaciones": "Else what less whole each there.",
+  "numero_examen": 5
+}]
